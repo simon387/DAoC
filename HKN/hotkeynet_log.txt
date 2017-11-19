@@ -1,0 +1,138 @@
+-------------------------------------------------------------------------------------
+HotkeyNet Log File
+-------------------------------------------------------------------------------------
+
+File opened at 23:25:01 on Tuesday, March 5, 2013
+DNS name: HAF_XL
+OS version: Microsoft  Service Pack 1 (build 7601)
+
+
+CPU:
+	Archictecture = 0; 
+	Page size = 1000; 
+	Min app address = 10000; 
+	Max app address = 7ffeffff; 
+	Mask = ff; 
+	Qty cores = 8; 
+	Type = 24a; 
+	Alloc granularity = 10000; 
+	Level = 6; 
+	Revision = 3a09.
+
+
+Memory:
+	Load = 38%; 
+	Total physical = 8134 MB; 
+	Available physical = 5022 MB; 
+	Total page file = 16267 MB; 
+	Avail page file = 12796 MB; 
+	Total virtual = 2047 MB; 
+	Avail virtual = 1974 MB; 
+	Avail extended virtual = 0 MB.
+
+
+Mouse:
+	Mouse installed.
+	Buttons not swapped.
+	Speed: 0
+	Threshold (x,y): 0,0
+
+
+Adapter 0:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{6067DF13-4F11-4D32-A54A-34191628230C}
+	Description	TAP-Win32 Adapter V9 (Tunngle)
+	Physical Address	00-FF-60-67-DF-13
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 01:00:00 1970
+
+	Have WINS	No
+
+Adapter 1:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{E447067E-B937-478E-A3CC-66FCA2EE36D9}
+	Description	Realtek PCIe GBE Family Controller
+	Physical Address	C8-60-00-CA-5A-09
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 01:00:00 1970
+
+	Have WINS	No
+
+Adapter 2:
+
+	IP Address	0.0.0.0
+	Subnet Mask	0.0.0.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{E609F615-28C0-48AB-A800-050461AE6646}
+	Description	Microsoft Virtual WiFi Miniport Adapter #2
+	Physical Address	94-DB-C9-4D-8C-22
+
+	DHCP Enabled	Yes
+	DHCP Server	
+	Lease Obtained	Thu Jan 01 01:00:00 1970
+
+	Have WINS	No
+
+Adapter 3:
+
+	IP Address	192.168.0.3
+	Subnet Mask	255.255.255.0
+	Default Gateway	192.168.0.1
+
+	Adapter Name	{C03ECD6B-A13E-4965-8593-C3C0612E90E6}
+	Description	Scheda di rete Broadcom 802.11n #2
+	Physical Address	94-DB-C9-4D-8C-22
+
+	DHCP Enabled	Yes
+	DHCP Server	192.168.0.1
+	Lease Obtained	Tue Mar 05 22:12:31 2013
+
+	Have WINS	No
+
+Adapter 4:
+
+	IP Address	192.168.106.1
+	Subnet Mask	255.255.255.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{31489603-45DE-4BB6-BEC7-7E979F6AB511}
+	Description	VMware Virtual Ethernet Adapter for VMnet1
+	Physical Address	00-50-56-C0-00-01
+
+	DHCP Enabled	No
+
+	Have WINS	No
+
+Adapter 5:
+
+	IP Address	192.168.154.1
+	Subnet Mask	255.255.255.0
+	Default Gateway	0.0.0.0
+
+	Adapter Name	{A51B3DDC-E9BA-4563-9707-72536D886840}
+	Description	VMware Virtual Ethernet Adapter for VMnet8
+	Physical Address	00-50-56-C0-00-08
+
+	DHCP Enabled	No
+
+	Have WINS	No
+
+HotkeyNet 0.1.45 build 210
+Start as server.
+This IP: 192.168.0.3
+
+C:\d\sou\cpp\macro\cAuth.cpp 423: IP seen by authorization server: 87.5.61.107
+

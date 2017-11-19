@@ -1,0 +1,52 @@
+#quello che non c'è è a null
+[keyboard]
+	[movement]
+		move forward		w
+		move backward		s
+		strafe left			a
+		strafe right		d
+		jump/up				space
+		down				<
+		run lock			mouse 4
+		sprint				ctrl-v
+		stick				ctrl-l
+		face				f2
+	[combat]
+		right hand weapon	ctrl-i
+		two handed weapon	ctrl-o
+		ranged weapon		ctrl-p
+		attack mode			n
+	[targeting]
+		nearest enemy		tab
+		last attacker		shift-tab
+	[interaction]
+		destroy item		shift-d
+		get item			ctrl-g
+		sell				ctrl-k
+	[camera]
+		camera reset		ctrl-r
+		camera toggle		f11
+		mouse look			right mouse
+		mouse pan			left mouse
+	[chat]
+	[show]
+	[misc]
+		perf. meter			alt-p
+		compass				alt-c
+		information/deleve	shift-i
+		map window			shift-m
+		realm war map		shift-w
+		quest journal		ctrl-j
+		take screenshot		numpad-
+[razer naga]
+	1=run lock		2=face			3=macro1
+	4=reset camera	5=last attacher	6=sprint
+	7=stick			8=				9=macro2
+	a=right hand	b=two handed	c=ranged
+[g15]
+	p
+	io
+	uò
+	kl
+	j.
+	,m

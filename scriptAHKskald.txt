@@ -1,0 +1,41 @@
+Loop
+
+{
+
+send {b}
+
+sleep 50
+
+send {n}
+
+sleep 50
+
+send {F5}
+
+sleep 50
+
+send {F6}
+
+sleep 50
+
+send {F7}
+
+sleep 50
+
+send {F8}
+
+sleep 50
+
+send {F9}
+
+sleep 50
+
+send {F10}
+
+Sleep 8051
+
+}
+
+ 
+
+f12::Pause  ;

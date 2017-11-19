@@ -1,0 +1,17 @@
+<Hotkey 1>
+<SendwinSF "Dark Age of Camelot">
+<Key y>
+<wait 10>
+<key u>
+
+<Hotkey 2>
+<SendwinSF "Dark Age of Camelot">
+<Key i>
+<wait 10>
+<key o>
+
+<Hotkey 3>
+<SendwinSF "Dark Age of Camelot">
+<Key j>
+<wait 10>
+<key k>

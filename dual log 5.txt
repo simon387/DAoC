@@ -1,0 +1,3 @@
+<Hotkey F3>
+<sendpc local>
+<RenameWin "Dark Age of Camelot" Camelot5>
