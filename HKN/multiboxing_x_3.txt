@@ -1,0 +1,13 @@
+<Hotkey F2>
+<sendpc local>
+<RenameWin "Dark Age of Camelot" Camelot1>
+<RenameWin "Dark Age of Camelot" Camelot2>
+<RenameWin "Dark Age of Camelot" Camelot3>
+<Hotkey ScrollLockoff 0-9>
+<sendpc local>
+<sendwinSF Camelot1>
+<key %TRIGGER%>
+<sendwinSF Camelot2>
+<key %TRIGGER%>
+<sendwinSF Camelot3>
+<key %TRIGGER%>
