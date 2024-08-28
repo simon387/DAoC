@@ -1,0 +1,317 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 12:02 AM on Aug 29, 2024
+Version: 1.0.015
+
+Character Summary for SORC(Level 50) - Sorcerer
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+119 / 99  Constitution
+107 / 101  Dexterity
+0 / 75  Quickness
+106 / 96  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+386 / 385  Hit Points
+0 / 31  Power
+
+Bonuses
+Spell Duration: 28%
+Power Pool: 40%
+Resist Pierce: 10%
+Spell Range: 12%
+Spell Damage: 10%
+Casting Speed: 11%
+Arcane Siphon: 20%
+Debuff: 5%
+Armor Factor: 20%
+
+Resists (Racials not included)
+27% Crush
+26% Slash
+26% Thrust
+26% Cold
+25% Energy
+26% Heat
+26% Matter
+26% Spirit
+25% Body
+
+Skills
+13 Body Magic
+13 Matter Magic
+13 Mind Magic
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 21.25
+Source Type: ROG
+1. (Bonus) Spell Duration: +5
+2. (Stat_Cap) Cap Constitution: +5
+3. (Bonus) Power Pool: +5
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 73.5
+Source Type: Loot
+1. (Stat) Hit Points: +30
+2. (Resist) Body: +3%
+3. (Resist) Cold: +3%
+4. (Resist) Energy: +3%
+5. (Resist) Heat: +3%
+6. (Resist) Matter: +3%
+7. (Resist) Spirit: +3%
+8. (Bonus) Resist Pierce: +5
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Acuity: +10
+
+
+Hands
+Name: Dragonsworn Stiched Cloth
+Level: 51 (99% Quality)
+Utility: 60.67
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Intelligence: +28 [(Perfect) Dusty Essence Jewel]
+2. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+3. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+4. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+
+
+Torso
+Name: Sable Warlock's Robe
+Level: 51 (100% Quality)
+Utility: 134
+Source Type: Loot
+1. (Stat) Dexterity: +24
+2. (Stat) Hit Points: +60
+3. (Resist) Crush: +1%
+4. (Resist) Slash: +1%
+5. (Resist) Thrust: +1%
+6. (Bonus) Spell Range: +4
+7. (Skill) All Magic Skills: +4
+8. (Bonus) Spell Damage: +4
+9. (Stat_Cap) Cap Dexterity: +8
+10. (Stat_Cap) Cap Hit Points: +60
+
+
+Arms
+Name: Sigil Sewn Cloth
+Level: 51 (99% Quality)
+Utility: 56.34
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Dexterity: +13 [(Imperfect) Vapor Essence Jewel]
+2. (Stat) Intelligence: +28 [(Perfect) Dusty Essence Jewel]
+3. (Stat) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+4. (Resist) Body: +5% [(Flawed) Dusty Shielding Jewel]
+
+
+Feet
+Name: Aidon's Slippers
+Level: 51 (100% Quality)
+Utility: 81.59
+Source Type: Loot
+Special 2:  20s
+1. (Stat) Dexterity: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +3
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Legs
+Name: Sigil Stiched Cloth
+Level: 51 (99% Quality)
+Utility: 60.67
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Stat) Intelligence: +10 [(Flawed) Dusty Essence Jewel]
+2. (Resist) Heat: +11% [(Faceted) Heated Shielding Jewel]
+3. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+4. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Two Handed
+Name: Tenacious Stone Shaper
+Level: 51 (100% Quality)
+Utility: 91.25
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Focus) All Focuses: +50
+3. (Bonus) Power Pool: +10
+4. (Bonus) Spell Damage: +4
+5. (Bonus) Spell Duration: +10
+6. (Stat_Cap) Cap Power: +5
+7. (Bonus) Arcane Siphon: +10
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 107.25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 101.5
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat_Cap) Cap Constitution: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Shimmering Satin Sash
+Level: 51 (100% Quality)
+Utility: 101
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Crush: +8%
+3. (Resist) Energy: +5%
+4. (Resist) Matter: +5%
+5. (Resist) Slash: +8%
+6. (Bonus) Spell Range: +3
+7. (Bonus) Power Pool: +7
+8. (Stat_Cap) Cap Hit Points: +20
+
+
+L Ring
+Name: Band of Ilmenite
+Level: 51 (100% Quality)
+Utility: 83.42
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Cold: +6%
+3. (Resist) Energy: +6%
+4. (Resist) Heat: +6%
+5. (Stat) Acuity: +22
+6. (Bonus) Power Pool: +10
+7. (Stat_Cap) Cap Acuity: +3
+
+
+R Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 76
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+L Wrist
+Name: Worked Wormhide Wrap
+Level: 51 (100% Quality)
+Utility: 78
+Source Type: Loot
+1. (Stat) Dexterity: +30
+2. (Resist) Cold: +8%
+3. (Resist) Slash: +8%
+4. (Resist) Spirit: +8%
+5. (Bonus) Casting Speed: +2
+
+
+R Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 102.42
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: Dragon Intellect Mythirian
+Level: 51 (100% Quality)
+Utility: 23.25
+Source Type: Loot
+1. (Stat) Dexterity: +3
+2. (Stat) Constitution: +3
+3. (Bonus) Spell Range: +1
+4. (Stat) Acuity: +3
+5. (Mythical) Cap Constitution: +3
+6. (Mythical) Cap Dexterity: +3
+7. (Mythical) Cap Acuity: +3
+8. (Bonus) Spell Duration: +5
