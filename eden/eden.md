@@ -12,3 +12,6 @@
 + Worked Wormhide Wrap
 + Gatekeeper Bracer of Anarchy
 + Dragon Intellect Mythirian
+
+/craftqueue
+
