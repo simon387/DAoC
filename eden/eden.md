@@ -13,5 +13,8 @@
 + Gatekeeper Bracer of Anarchy
 + Dragon Intellect Mythirian
 
-/craftqueue
+/craftqueue 42
+/craftqueue buy 42
+/macro sell /moveitem sell #allbags
+
 
