@@ -15,6 +15,7 @@
 
 /craftqueue 42
 /craftqueue buy 42
+
 /macro sell /moveitem sell #allbags
 
 
