@@ -1,16 +1,21 @@
 + Cloth Cap (con le scaglie)
 + Sable Warlock's Robe (sidi)
-+ Aidon's Slippers (Summoner's Hall)
++ Aidon's Slippers (SH)
 + Tenacious Stone Shaper (Dragonslayer Weapon)
 + Dragonseye Strand (sidi)
-+ Cape of Legerdemain (Summoner's Hall)
-+ Sulphurous Fiend Gem (600 Daemon Blood Seals)
-+ Shimmering Satin Sash (Summoner's Hall, 600)
++ Cape of Legerdemain (SH)
++ Sulphurous Fiend Gem (DF 600)
++ Shimmering Satin Sash (SH, 600)
 + Band of Ilmenite (250 scaglie)
-+ Director's Ring of Bedlam (DF, 500 Daemon Blood Seals)
-+ Worked Wormhide Wrap (600 Daemon Blood Seals)
-+ Gatekeeper Bracer of Anarchy (500 Daemon Blood Seals)
-+ Dragon Intellect Mythirian (500 Caer Sidi Souls)
++ Director's Ring of Bedlam (DF, 500)
++ Worked Wormhide Wrap (DF, 600)
++ Gatekeeper Bracer of Anarchy (DF 500)
++ Dragon Intellect Mythirian (sidi 500) 
+
++ scaglie = roba drago
++ sidi = Caer Sidi Souls
++ SH = Summoner's Hall
++ DF = Daemon Blood Seals
 
 /craftqueue 42
 /craftqueue buy 42
