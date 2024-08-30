@@ -1,14 +1,14 @@
 ## needed for sorc
 
-+ Cloth Cap (scaglie, 500)
++ Cloth Cap (dragon, 500)
 + Sable Warlock's Robe (sidi, 600)
 + Aidon's Slippers (SH, 600)
 + Tenacious Stone Shaper (Dragonslayer Weapon)
 + Dragonseye Strand (sidi. 625)
-+ Cape of Legerdemain (SH, 700 Grimoire Pages)
++ Cape of Legerdemain (SH, 700)
 + Sulphurous Fiend Gem (DF 600)
 + Shimmering Satin Sash (SH, 600)
-+ Band of Ilmenite (250 scaglie)
++ Band of Ilmenite (dragon, 250)
 + Director's Ring of Bedlam (DF, 500)
 + Worked Wormhide Wrap (DF, 600)
 + Gatekeeper Bracer of Anarchy (DF 500)
@@ -16,9 +16,9 @@
 
 ## legenda
 
-+ scaglie = roba drago
++ dragon = Dragon Scale
 + sidi = Caer Sidi Souls
-+ SH = Summoner's Hall
++ SH = Summoner's Hall, Grimoire Page
 + DF = Daemon Blood Seals
 
 ## comandi vari
