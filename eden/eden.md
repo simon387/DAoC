@@ -1,11 +1,11 @@
 ## needed for sorc
 
-+ Cloth Cap (con le scaglie)
-+ Sable Warlock's Robe (sidi)
-+ Aidon's Slippers (SH)
++ Cloth Cap (scaglie, 500)
++ Sable Warlock's Robe (sidi, 600)
++ Aidon's Slippers (SH, 600)
 + Tenacious Stone Shaper (Dragonslayer Weapon)
-+ Dragonseye Strand (sidi)
-+ Cape of Legerdemain (SH)
++ Dragonseye Strand (sidi. 625)
++ Cape of Legerdemain (SH, 700 Grimoire Pages)
 + Sulphurous Fiend Gem (DF 600)
 + Shimmering Satin Sash (SH, 600)
 + Band of Ilmenite (250 scaglie)
