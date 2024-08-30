@@ -1,3 +1,5 @@
+## needed for sorc
+
 + Cloth Cap (con le scaglie)
 + Sable Warlock's Robe (sidi)
 + Aidon's Slippers (SH)
@@ -10,16 +12,19 @@
 + Director's Ring of Bedlam (DF, 500)
 + Worked Wormhide Wrap (DF, 600)
 + Gatekeeper Bracer of Anarchy (DF 500)
-+ Dragon Intellect Mythirian (sidi 500) 
++ Dragon Intellect Mythirian (sidi 500)
+
+## legenda
 
 + scaglie = roba drago
 + sidi = Caer Sidi Souls
 + SH = Summoner's Hall
 + DF = Daemon Blood Seals
 
-/craftqueue 42
-/craftqueue buy 42
+## comandi vari
 
-/macro sell /moveitem sell #allbags
++ `/craftqueue 42`
++ `/craftqueue buy 42`
++ `/macro sell /moveitem sell #allbags`
 
 
