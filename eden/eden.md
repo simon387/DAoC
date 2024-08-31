@@ -4,7 +4,7 @@
 + Sable Warlock's Robe (sidi, 600)
 + Aidon's Slippers (SH, 600)
 + Tenacious Stone Shaper (Dragonslayer Weapon)
-+ Dragonseye Strand (sidi. 625)
++ Dragonseye Strand (sidi, 625)
 + Cape of Legerdemain (SH, 700)
 + Sulphurous Fiend Gem (DF 600)
 + Shimmering Satin Sash (SH, 600)
@@ -17,9 +17,9 @@
 ## legenda
 
 + dragon = Dragon Scale
-+ sidi = Caer Sidi Souls
-+ SH = Summoner's Hall, Grimoire Page
-+ DF = Daemon Blood Seals
++ sidi = Caer Sidi Souls (1725)
++ SH = Summoner's Hall, Grimoire Page (1900)
++ DF = Daemon Blood Seals (2200)
 
 ## comandi vari
 
