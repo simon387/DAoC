@@ -24,7 +24,7 @@
 ## comandi vari
 
 + `/craftqueue 42`
-+ `/craftqueue buy 42`
++ `/craftqueue buy <upto> 42`
 + `/macro sell /moveitem sell #allbags`
 + `/faction`
 + `/house vacant`
