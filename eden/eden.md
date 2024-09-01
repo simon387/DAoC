@@ -1,6 +1,6 @@
 ## needed for sorc
 
-+ Tenacious Stone Shaper (Dragonslayer Weapon)
++ ~~Tenacious Stone Shaper (Dragonslayer Weapon)~~
 + ~~Cloth Cap (dragon, 500)~~
 + ~~Band of Ilmenite (dragon, 250)~~
 + Sable Warlock's Robe (sidi, 600)
