@@ -144,22 +144,6 @@ Imbue Points: 37.5 of 37.5
 4. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
 
 
-Right Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37.5
-
-
-Left Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37.5
-
-
 Two Handed
 Name: Tenacious Stone Shaper
 Level: 51 (100% Quality)
@@ -172,14 +156,6 @@ Source Type: Loot
 5. (Bonus) Spell Duration: +10
 6. (Stat_Cap) Cap Power: +5
 7. (Bonus) Arcane Siphon: +10
-
-
-Ranged
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37.5
 
 
 Neck
