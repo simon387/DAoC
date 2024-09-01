@@ -27,4 +27,16 @@
 + `/craftqueue buy 42`
 + `/macro sell /moveitem sell #allbags`
 
+## How to speed up DAoC load times:
 
++ Press the Windows key and type "Windows Security" then select it
++ On the left click "Virus & Threat protection" and then "Manage Settings"
++ Scroll down to the Exclusions section and click "Add or remove exclusions"
++ Click the button "+ Add an exclusion" then click "Process" from the dropdown menu
++ Type in "game.dll".
++ Then click "Add" and if presented with a UAC prompt, click "Yes" to confirm you want to add the entry.
++ Load DAoC as normal to see the benefits.
+
+
++ Only for those who still have very long loading times:
+Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones from the used Eden folder.
