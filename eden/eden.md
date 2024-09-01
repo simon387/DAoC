@@ -28,6 +28,7 @@
 + `/macro sell /moveitem sell #allbags`
 + `/faction`
 + `/house vacant`
++ `/houseface 42`
 
 ## How to speed up DAoC load times:
 
