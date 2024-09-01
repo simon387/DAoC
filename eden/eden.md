@@ -29,6 +29,7 @@
 + `/faction`
 + `/house vacant`
 + `/houseface 42`
++ `/inspect`
 
 ## How to speed up DAoC load times:
 
