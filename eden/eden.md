@@ -27,6 +27,7 @@
 + `/craftqueue buy 42`
 + `/macro sell /moveitem sell #allbags`
 + `/faction`
++ `/house vacant`
 
 ## How to speed up DAoC load times:
 
