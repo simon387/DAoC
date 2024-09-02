@@ -30,6 +30,7 @@
 + `/house vacant`
 + `/houseface 42`
 + `/inspect`
++ `/buff self abs saf pom`
 
 ## How to speed up DAoC load times:
 
