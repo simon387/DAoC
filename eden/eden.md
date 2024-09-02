@@ -18,7 +18,7 @@
 
 + dragon = Dragon Scale
 + sidi = Caer Sidi Souls (1725)
-+ SH = Summoner's Hall, Grimoire Page (1900)
++ SH = Summoner's Hall, Grimoire Page (600)
 + DF = Daemon Blood Seals (2200)
 
 ## comandi vari
