@@ -19,7 +19,7 @@
 + dragon = Dragon Scale
 + sidi = Caer Sidi Souls
 + SH = Summoner's Hall, Grimoire Page
-+ DF = Daemon Blood Seals (500), dungeon cl5
++ DF = Daemon Blood Seals (500), dungeon cl5, camelot->ludwol->pisello in alto
 
 ## comandi vari
 
