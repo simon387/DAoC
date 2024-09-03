@@ -9,17 +9,17 @@
 + ~~Aidon's Slippers (SH, 600)~~
 + ~~Cape of Legerdemain (SH, 700)~~
 + Shimmering Satin Sash (SH, 600)
-+ Sulphurous Fiend Gem (DF 600)
-+ Director's Ring of Bedlam (DF, 500)
-+ Worked Wormhide Wrap (DF, 600)
++ ~~Sulphurous Fiend Gem (DF 600)~~
++ ~~Director's Ring of Bedlam (DF, 500)~~
++ ~~Worked Wormhide Wrap (DF, 600)~~
 + Gatekeeper Bracer of Anarchy (DF 500)
 
 ## legenda
 
 + dragon = Dragon Scale
-+ sidi = Caer Sidi Souls (1725)
-+ SH = Summoner's Hall, Grimoire Page (600)
-+ DF = Daemon Blood Seals (2200)
++ sidi = Caer Sidi Souls
++ SH = Summoner's Hall, Grimoire Page
++ DF = Daemon Blood Seals (500), dungeon cl5
 
 ## comandi vari
 
