@@ -14,4 +14,8 @@ xcopy /y /s /e "%srcDir%" "%toDir%"
 
 echo Copy Done.
 
+git add .
+git commit -m "back up"
+git push
+
 endlocal
