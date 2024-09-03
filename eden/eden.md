@@ -31,6 +31,7 @@
 + `/houseface 42`
 + `/inspect`
 + `/buff self abs saf pom`
++ `/switch`
 
 ## How to speed up DAoC load times:
 
