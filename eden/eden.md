@@ -45,3 +45,7 @@
 
 + Only for those who still have very long loading times:
 Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones from the used Eden folder.
+
+## info
+
++ SC 37.5: almeno 1001
