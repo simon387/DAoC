@@ -12,7 +12,7 @@
 + ~~Sulphurous Fiend Gem (DF 600)~~
 + ~~Director's Ring of Bedlam (DF, 500)~~
 + ~~Worked Wormhide Wrap (DF, 600)~~
-+ Gatekeeper Bracer of Anarchy (DF 500)
++ ~~Gatekeeper Bracer of Anarchy (DF 500)~~
 
 ## legenda
 
