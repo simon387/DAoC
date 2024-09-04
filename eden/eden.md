@@ -16,10 +16,10 @@
 
 ## legenda
 
-+ dragon = Dragon Scale
++ dragon = Dragon Scale, grim o came il merchant
 + sidi = Caer Sidi Souls
-+ SH = Summoner's Hall, Grimoire Page
-+ DF = Daemon Blood Seals (500), dungeon cl5, camelot->ludwol->pisello in alto
++ SH = Summoner's Hall, Grimoire Page, dentro il poc il merchant
++ DF = Daemon Blood Seals (500), dungeon cl5 il merchant, camelot->ludwol->pisello in alto
 
 ## comandi vari
 
