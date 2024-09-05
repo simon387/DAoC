@@ -54,7 +54,7 @@ Level: 51 (99% Quality)
 Utility: 21.25
 Source Type: ROG
 1. (Bonus) Spell Duration: +5 -- sono le mani Dragonsworn Stitched Cloth Gloves
-2. (Stat_Cap) Cap Constitution: +5 -- sono le arms
+2. (Stat_Cap) Cap Constitution: +5 -- sono le arms Sigil Sewn Cloth Arms
 3. (Bonus) Power Pool: +5 -- sono le legs Sigil Stitched Cloth Paints
 
 
