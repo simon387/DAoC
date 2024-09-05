@@ -33,6 +33,7 @@
 + `/buff self abs saf pom`
 + `/switch`
 + `/tradeskill`
++ `/loyalty`
 
 ## How to speed up DAoC load times:
 
