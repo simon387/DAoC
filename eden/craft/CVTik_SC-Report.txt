@@ -1,0 +1,166 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 01:18 PM on sept. 06, 2024
+Version: 1.0.019
+
+Spellcraft Report for CVTik - Heretic
+
+Helmet:
+Imbue Points: 37,5 of 37,5  (Quality: 99)
+Gem 1: (Precious) Earthen Essence Jewel
+        (Stat) Constitution: +22
+
+Gem 2: (Imperfect) Fiery Shielding Jewel
+        (Resist) Crush: +7%
+
+Gem 3: (Polished) Watery Shielding Jewel
+        (Resist) Slash: +9%
+
+Gem 4: (Polished) Light Shielding Jewel
+        (Resist) Energy: +9%
+
+
+Hands:
+Imbue Points: 37,5 of 37,5  (Quality: 99)
+Gem 1: (Precious) Earthen Essence Jewel
+        (Stat) Constitution: +22
+
+Gem 2: (Imperfect) Airy Shielding Jewel
+        (Resist) Thrust: +7%
+
+Gem 3: (Polished) Watery Shielding Jewel
+        (Resist) Slash: +9%
+
+Gem 4: (Polished) Light Shielding Jewel
+        (Resist) Energy: +9%
+
+
+Torso:
+Imbue Points: 37 of 37,5  (Quality: 99)
+Gem 1: (Flawed) Fiery Shielding Jewel
+        (Resist) Crush: +5%
+
+Gem 2: (Imperfect) Icy Shielding Jewel
+        (Resist) Cold: +7%
+
+Gem 3: (Polished) Dusty Shielding Jewel
+        (Resist) Body: +9%
+
+Gem 4: (Perfect) Blood Essence Jewel
+        (Stat) Hit Points: +76
+
+
+Arms:
+Imbue Points: 37 of 37,5  (Quality: 99)
+Gem 1: (Polished) Vapor Essence Jewel
+        (Stat) Dexterity: +16
+
+Gem 2: (Faceted) Watery Essence Jewel
+        (Stat) Piety: +19
+
+Gem 3: (Imperfect) Vapor Shielding Jewel
+        (Resist) Spirit: +7%
+
+Gem 4: (Perfect) Blood Essence Jewel
+        (Stat) Hit Points: +76
+
+
+Feet:
+Imbue Points: 37,5 of 37,5  (Quality: 99)
+Gem 1: (Polished) Airy Shielding Jewel
+        (Resist) Thrust: +9%
+
+Gem 2: (Precious) Earthen Essence Jewel
+        (Stat) Constitution: +22
+
+Gem 3: (Imperfect) Fiery Shielding Jewel
+        (Resist) Crush: +7%
+
+Gem 4: (Polished) Heated Shielding Jewel
+        (Resist) Heat: +9%
+
+
+Legs:
+Imbue Points: 37,5 of 37,5  (Quality: 99)
+Gem 1: (Precious) Vapor Essence Jewel
+        (Stat) Dexterity: +22
+
+Gem 2: (Polished) Icy Shielding Jewel
+        (Resist) Cold: +9%
+
+Gem 3: (Polished) Earthen Shielding Jewel
+        (Resist) Matter: +9%
+
+Gem 4: (Imperfect) Vapor Shielding Jewel
+        (Resist) Spirit: +7%
+
+
+Right Hand:
+Imbue Points: 26,5 of 37,5  (Quality: 99)
+Gem 1: (Imperfect) Fiery Battle Jewel
+        (Skill) Shield: +5
+
+Gem 2: (Raw) Watery Fervor Sigil
+        (Skill) Rejuvenation: +1
+
+Gem 3: (Flawed) Earthen Shielding Jewel
+        (Resist) Matter: +5%
+
+Gem 4: (Rough) Dusty Shielding Jewel
+        (Resist) Body: +3%
+
+
+Left Hand:
+Imbue Points: 32 of 37,5  (Quality: 99)
+Gem 1: (Imperfect) Fiery Battle Jewel
+        (Skill) Shield: +5
+
+Gem 2: (Raw) Airy Fervor Sigil
+        (Skill) Enhancement: +1
+
+Gem 3: (Flawed) Heated Shielding Jewel
+        (Resist) Heat: +5%
+
+Gem 4: (Precious) Blood Essence Jewel
+        (Stat) Hit Points: +60
+
+
+
+Skill needed for craft: 0
+
+
+
+Gems: 32
+
+(Precious) Earthen Essence Jewel
+(Imperfect) Fiery Shielding Jewel
+(Polished) Watery Shielding Jewel
+(Polished) Light Shielding Jewel
+(Precious) Earthen Essence Jewel
+(Imperfect) Airy Shielding Jewel
+(Polished) Watery Shielding Jewel
+(Polished) Light Shielding Jewel
+(Flawed) Fiery Shielding Jewel
+(Imperfect) Icy Shielding Jewel
+(Polished) Dusty Shielding Jewel
+(Perfect) Blood Essence Jewel
+(Polished) Vapor Essence Jewel
+(Faceted) Watery Essence Jewel
+(Imperfect) Vapor Shielding Jewel
+(Perfect) Blood Essence Jewel
+(Polished) Airy Shielding Jewel
+(Precious) Earthen Essence Jewel
+(Imperfect) Fiery Shielding Jewel
+(Polished) Heated Shielding Jewel
+(Precious) Vapor Essence Jewel
+(Polished) Icy Shielding Jewel
+(Polished) Earthen Shielding Jewel
+(Imperfect) Vapor Shielding Jewel
+(Imperfect) Fiery Battle Jewel
+(Raw) Watery Fervor Sigil
+(Flawed) Earthen Shielding Jewel
+(Rough) Dusty Shielding Jewel
+(Imperfect) Fiery Battle Jewel
+(Raw) Airy Fervor Sigil
+(Flawed) Heated Shielding Jewel
+(Precious) Blood Essence Jewel
