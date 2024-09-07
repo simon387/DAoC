@@ -1,0 +1,388 @@
+LOKI Build Report
+Name: Antar
+Race: Saracen
+Class: Minstrel
+Level: 50
+
+Dual Wield
+Item Utility: 1000.7
+Build Utility: 1015.7
+Useable Utility: 1007.7
+TOA Utility: 733.3
+PvE Utility:  0.0
+
+Statistic
+Strength: 105/101
+Constitution: 85/84
+Dexterity: 87/93
+Quickness: 0/75
+Intelligence: 0/75
+Piety: 0/75
+Charisma: 102/101
+Empathy: 0/75
+Hits: 396/445
+Power: 24/25
+
+Resistance
+Body: 25/26
+Cold: 24/26
+Heat: 28/26+5
+Energy: 25/26
+Matter: 25/26
+Spirit: 24/26
+Crush: 24/26
+Thrust: 24/26+3
+Slash: 24/26+2
+
+Skill
+Stealth: 4/11
+Instruments: 10/11
+Slash: 10/11
+Thrust: 10/11
+
+Cap Increase
+Strength: 26/26
+Constitution: 6/26
+Dexterity: 15/26
+Charisma: 23/26
+Hits: 245/400
+
+Mythical Cap Increase
+Strength: 26/52
+Constitution: 9/52
+Dexterity: 18/52
+Charisma: 26/52
+
+TOA Bonus
+Armour Factor: 25/50
+Debuff Effectiveness: 5/25
+Buff Effectiveness: 5/25
+Healing Effectiveness: 5/25
+Spell Duration: 19/25
+Casting Speed: 7/10
+Spell Range: 6/10
+Spell Damage: 4/10
+Archery Damage: 4/10
+Archery Range: 6/10
+Archery Speed: 7/10
+Style Damage: 10/10
+Melee Damage: 11/10
+Melee Combat Speed: 9/10
+Fatigue: 10/25
+Resist Pierce: 5/10
+
+Ranged
+Item Utility: 964.3
+Build Utility: 964.3
+Useable Utility: 941.3
+TOA Utility: 605.3
+PvE Utility:  0.0
+
+Statistic
+Strength: 83/86
+Constitution: 85/84
+Dexterity: 92/88
+Quickness: 0/75
+Intelligence: 0/75
+Piety: 0/75
+Charisma: 102/101
+Empathy: 0/75
+Hits: 396/445
+Power: 24/25
+
+Resistance
+Body: 25/26
+Cold: 24/26
+Heat: 28/26+5
+Energy: 25/26
+Matter: 25/26
+Spirit: 24/26
+Crush: 24/26
+Thrust: 24/26+3
+Slash: 24/26+2
+
+Skill
+Stealth: 4/11
+Instruments: 14/11
+Slash: 4/11
+Thrust: 4/11
+
+Cap Increase
+Strength: 11/26
+Constitution: 6/26
+Dexterity: 10/26
+Charisma: 23/26
+Hits: 245/400
+
+Mythical Cap Increase
+Strength: 11/52
+Constitution: 9/52
+Dexterity: 13/52
+Charisma: 26/52
+
+TOA Bonus
+Armour Factor: 10/50
+Debuff Effectiveness: 5/25
+Buff Effectiveness: 5/25
+Healing Effectiveness: 5/25
+Spell Duration: 25/25
+Casting Speed: 7/10
+Spell Range: 10/10
+Spell Damage: 8/10
+Archery Damage: 8/10
+Archery Range: 10/10
+Archery Speed: 7/10
+Style Damage: 6/10
+Melee Damage: 4/10
+Melee Combat Speed: 6/10
+Resist Pierce: 5/10
+
+Chest (Azure Hauberk of Notes ):
+Imbue: 21.0
+   ALL magic skills: 4
+   Strength: 24
+   Constitution: 24
+   Crush: 3%
+   Slash: 3%
+   Thrust: 3%
+   Strength (Cap Increase): 6
+   Melee Damage: 4
+   Style Damage: 4
+   Spell Duration: 4
+Utility: 70.0
+TOA Utility: 60.0
+PvE Utility: 0.0
+
+Arms (Fire-Scored Sleeves ):
+Imbue: 27.0
+   Hits: 60
+   Heat: 7%
+   Matter: 7%
+   Hits (Cap Increase): 60
+   Spell Range: 5
+   Healing Effectiveness: 5
+   Buff Effectiveness: 5
+Utility: 43.0
+TOA Utility: 60.0
+PvE Utility: 0.0
+
+Head (Crafted):
+Imbue: 37.5/32 (Quality: 100)
+   Power: 13
+   Cold: 3%
+   Hits: 76
+   Spirit: 3%
+   Acuity (Cap Increase): 5
+Utility: 57.0
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Legs (Dragonslayer Lament Mail Chausses ):
+Imbue: 22.5
+   Acuity: 22
+   Hits: 40
+   Heat: 5%
+   Cold: 5%
+   Spirit: 5%
+   Acuity (Cap Increase): 5
+   Melee Combat Speed: 1
+Utility: 54.7
+TOA Utility: 15.0
+PvE Utility: 0.0
+
+Hands (Crafted):
+Imbue: 37.5/32 (Quality: 100)
+   Power: 11
+   Energy: 5%
+   Dexterity: 29
+   Strength: 20
+   Dexterity (Cap Increase): 5
+Utility: 64.7
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Feet (Saliva-Flecked Sabatons(boots)):
+Imbue: 16.0
+   Constitution: 22
+   Acuity: 22
+   Slash: 5%
+   Crush: 5%
+   Thrust: 5%
+   Acuity (Cap Increase): 5
+   Spell Duration: 5
+   Casting Speed: 3
+Utility: 59.3
+TOA Utility: 35.0
+PvE Utility: 0.0
+
+Right Hand (Astral Blade of Illusions ):
+Imbue: 10.0
+   Fatigue: 10
+   ALL melee weapon skills: 3
+   Melee Damage: 4
+   Style Damage: 4
+   Strength (Cap Increase): 10
+   Armour Factor: 15
+Utility: 15.0
+TOA Utility: 95.0
+PvE Utility: 0.0
+
+Left Hand (Buckler of Eternal Retribution ):
+Imbue: 15.0
+   ALL melee weapon skills: 3
+   Shield: 3
+   Strength: 22
+   Dexterity: 22
+   Strength (Cap Increase): 5
+   Dexterity (Cap Increase): 5
+   Melee Damage: 3
+   Melee Combat Speed: 3
+Utility: 59.3
+TOA Utility: 50.0
+PvE Utility: 0.0
+
+Ranged (Upsilon Harp ):
+Imbue: 15.0
+   Dexterity: 27
+   Instruments: 4
+   Spell Damage: 4
+   Spell Range: 4
+   Spell Duration: 6
+Utility: 38.0
+TOA Utility: 52.0
+PvE Utility: 0.0
+
+Neck (Albion Medal of Honor(necklace)):
+Imbue: 40.0
+   Crush: 5%
+   Slash: 5%
+   Thrust: 5%
+   Cold: 5%
+   Heat: 5%
+   Matter: 5%
+   Body: 5%
+   Energy: 5%
+   Spirit: 5%
+Utility: 90.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Cloak (Xanxicar Remnant Cloak(cloak)):
+Imbue: 12.0
+   ALL magic skills: 3
+   Acuity: 18
+   Dexterity: 18
+   Constitution: 18
+   Slash: 1%
+   Crush: 1%
+   Thrust: 1%
+   Energy: 1%
+   Resist Pierce: 5
+   Casting Speed: 2
+Utility: 59.0
+TOA Utility: 35.0
+PvE Utility: 0.0
+
+Jewel (Sulphurous Fiend Gem(gem)):
+Imbue: 23.0
+   Hits: 40
+   Constitution: 18
+   Body: 7%
+   Energy: 7%
+   Debuff Effectiveness: 5
+   Hits (Cap Increase): 40
+   Constitution (Cap Increase): 6
+   Spell Damage: 2
+   Spell Duration: 5
+   Casting Speed: 2
+Utility: 50.0
+TOA Utility: 62.0
+PvE Utility: 0.0
+
+Belt (Soulbinder's Belt(belt)):
+Imbue: 46.0
+   Hits: 35
+   Cold: 7%
+   Spirit: 7%
+   Energy: 7%
+   Matter: 7%
+   Heat: 7%
+   Body: 7%
+   Hits (Cap Increase): 40
+Utility: 92.8
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Left Ring (Band of Clandestinity(ring)):
+Imbue: 30.0
+   Stealth: 4
+   Envenom: 4
+   Strength: 18
+   Hits: 60
+   Hits (Cap Increase): 20
+   Melee Combat Speed: 5
+   Armour Factor: 5
+Utility: 67.0
+TOA Utility: 35.0
+PvE Utility: 0.0
+
+Right Ring (Ring of Arcane Strength(ring)):
+Imbue: 28.0
+   ALL melee weapon skills: 4
+   Strength: 21
+   Hits: 35
+   Slash: 4%
+   Crush: 4%
+   Thrust: 4%
+   Strength (Cap Increase): 5
+   Hits (Cap Increase): 35
+   Armour Factor: 5
+   Style Damage: 2
+Utility: 66.8
+TOA Utility: 33.8
+PvE Utility: 0.0
+
+Left Wrist (Stonewatch Bracer(bracer)):
+Imbue: 35.0
+   Acuity: 22
+   ALL magic skills: 3
+   Slash: 6%
+   Crush: 6%
+   Thrust: 6%
+   Matter: 6%
+   Body: 6%
+   Acuity (Cap Increase): 3
+Utility: 89.7
+TOA Utility: 6.0
+PvE Utility: 0.0
+
+Right Wrist (Bracer of Arcane Commands(bracer)):
+Imbue: 21.0
+   Dexterity: 15
+   Acuity: 15
+   Hits: 50
+   Heat: 4%
+   Cold: 4%
+   Spirit: 4%
+   Dexterity (Cap Increase): 5
+   Acuity (Cap Increase): 5
+   Hits (Cap Increase): 50
+   Spell Damage: 2
+Utility: 56.5
+TOA Utility: 42.5
+PvE Utility: 0.0
+
+Mythirian (Dragon Intellect Mythirian ):
+Imbue: 1.0
+   Spell Increase: 3
+   Constitution (Mythical Cap Increase): 3
+   Acuity (Mythical Cap Increase): 3
+   Dexterity (Mythical Cap Increase): 3
+   Constitution: 3
+   Acuity: 3
+   Dexterity: 3
+   Spell Duration: 5
+   Spell Range: 1
+Utility: 6.0
+TOA Utility: 39.0
+PvE Utility: 0.0
