@@ -1,0 +1,71 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 11:12 am on Sep 07, 2024
+Version: 1.0.019
+
+Spellcraft Report for BoomBoomBoom - Wizard
+
+Hands:
+Imbue Points: 37 of 37.5  (Quality: 100)
+Gem 1: (Flawless) Dusty Essence Jewel
+        (Stat) Intelligence: +25
+
+Gem 2: (Imperfect) Heated Shielding Jewel
+        (Resist) Heat: +7%
+
+Gem 3: (Imperfect) Vapor Shielding Jewel
+        (Resist) Spirit: +7%
+
+Gem 4: (Polished) Dusty Shielding Jewel
+        (Resist) Body: +9%
+
+
+Arms:
+Imbue Points: 37.5 of 37.5  (Quality: 100)
+Gem 1: (Flawless) Vapor Essence Jewel
+        (Stat) Dexterity: +25
+
+Gem 2: (Uncut) Watery Shielding Jewel
+        (Resist) Slash: +2%
+
+Gem 3: (Polished) Dusty Shielding Jewel
+        (Resist) Body: +9%
+
+Gem 4: (Faceted) Earthen Shielding Jewel
+        (Resist) Matter: +11%
+
+
+Legs:
+Imbue Points: 36.5 of 37.5  (Quality: 100)
+Gem 1: (Flawless) Dusty Essence Jewel
+        (Stat) Intelligence: +25
+
+Gem 2: (Faceted) Light Shielding Jewel
+        (Resist) Energy: +11%
+
+Gem 3: (Imperfect) Airy Shielding Jewel
+        (Resist) Thrust: +7%
+
+Gem 4: (Rough) Icy Shielding Jewel
+        (Resist) Cold: +3%
+
+
+
+Skill needed for craft: 0
+
+
+
+Gems: 12
+
+(Flawless) Dusty Essence Jewel
+(Imperfect) Heated Shielding Jewel
+(Imperfect) Vapor Shielding Jewel
+(Polished) Dusty Shielding Jewel
+(Flawless) Vapor Essence Jewel
+(Uncut) Watery Shielding Jewel
+(Polished) Dusty Shielding Jewel
+(Faceted) Earthen Shielding Jewel
+(Flawless) Dusty Essence Jewel
+(Faceted) Light Shielding Jewel
+(Imperfect) Airy Shielding Jewel
+(Rough) Icy Shielding Jewel
