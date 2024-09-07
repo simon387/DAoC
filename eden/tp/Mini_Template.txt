@@ -1,0 +1,338 @@
+Zenkcraft Spellcrafting Tool
+https://drive.google.com/drive/folders/1oH0DHriNnR3adb9_zY2muKD9TaZ5a-OC?usp=sharing
+Last Saved: 08:44 AM Mar 26, 2023
+Version: 8.2.10
+
+Character Summary for Guitarhero - Minstrel
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+97 / 98  Strength
+85 / 84  Constitution
+88 / 88  Dexterity
+68 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+102 / 101  Charisma
+0 / 75  Empathy
+320 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Armor Factor: 10%
+Melee Speed: 9%
+Melee Damage: 10%
+Style Damage: 9%
+Casting Speed: 7%
+Spell Range: 10%
+Spell Damage: 8%
+Spell Duration: 25%
+Resist Pierce: 5%
+Buff: 5%
+Healing: 5%
+Debuff: 5%
+
+Resists (Racials not included)
+24% Crush
+24% Slash
+24% Thrust
+28% Heat
+26% Cold
+25% Matter
+25% Body
+27% Energy
+26% Spirit
+
+Skills
+11 Stealth
+11 Slash
+7 Thrust
+11 Instruments
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (100% Quality)
+Utility: 59.33
+Source Type: Spellcraft
+Imbue Points: 36 of 37.5
+1. (Stat) Dexterity: +25 [(Flawless) Vapor Essence Jewel]
+2. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+3. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+4. (Skill) Stealth: +2 [(Uncut) Airy Battle Jewel]
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 63.66
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Skill) Stealth: +5 [(Imperfect) Airy Battle Jewel]
+2. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+3. (Resist) Spirit: +5% [(Flawed) Vapor Shielding Jewel]
+4. (Resist) Cold: +5% [(Flawed) Icy Shielding Jewel]
+
+
+Torso
+Name: Azure Hauberk of Notes
+Level: 51 (100% Quality)
+Utility: 130
+Source Type: Loot
+1. (Stat) Strength: +24
+2. (Stat) Constitution: +24
+3. (Resist) Crush: +3%
+4. (Resist) Slash: +3%
+5. (Resist) Thrust: +3%
+6. (Skill) All Magic Skills: +4
+7. (Bonus) Melee Damage: +4
+8. (Bonus) Spell Duration: +4
+9. (Bonus) Style Damage: +4
+10. (Stat Cap) Cap Strength: +6
+
+
+Arms
+Name: Fire-Scored Sleeves
+Level: 51 (100% Quality)
+Utility: 103
+Source Type: Loot
+1. (H.P.) Hit Points: +60
+2. (Resist) Heat: +7%
+3. (Resist) Matter: +7%
+4. (Bonus) Spell Range: +5
+5. (Bonus) Buff: +5
+6. (Bonus) Healing: +5
+7. (Stat Cap) Cap Hit Points: +60
+
+
+Feet
+Name: Saliva-Flecked Sabatons
+Level: 51 (100% Quality)
+Utility: 94.33
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Resist) Crush: +5%
+3. (Resist) Slash: +5%
+4. (Resist) Thrust: +5%
+5. (Stat) Acuity: +22
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +5
+8. (Stat Cap) Cap Acuity: +5
+
+
+Legs
+Name: Dragonslayer Lament Mail Chausses
+Level: 51 (100% Quality)
+Utility: 69.66
+Source Type: Loot
+1. (H.P.) Hit Points: +40
+2. (Resist) Cold: +5%
+3. (Resist) Heat: +5%
+4. (Resist) Spirit: +5%
+5. (Bonus) Melee Speed: +1
+6. (Stat) Acuity: +22
+7. (Stat Cap) Cap Acuity: +5
+
+
+Right Hand
+Name: Conquering Minstrel Stone Breaker
+Level: 51 (100% Quality)
+Utility: 95
+Source Type: Loot
+: Body
+1. (Stat) Strength: +12
+2. (Stat) Quickness: +12
+3. (Skill) Slash: +4
+4. (Bonus) Melee Damage: +3
+5. (Bonus) Spell Damage: +3
+6. (Bonus) Style Damage: +3
+7. (Stat Cap) Cap Strength: +7
+
+
+Left Hand
+Name: Buckler of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 109.33
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Dexterity: +22
+3. (Skill) Shield: +3
+4. (Bonus) Melee Speed: +3
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +3
+7. (Stat Cap) Cap Strength: +5
+8. (Stat Cap) Cap Dexterity: +5
+
+
+Two Handed
+Name: Upsilon Harp
+Level: 50 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Stat) Dexterity: +27
+2. (Skill) Instruments: +4
+3. (Bonus) Spell Range: +4
+4. (Bonus) Spell Damage: +4
+5. (Bonus) Spell Duration: +6
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Neck
+Name: Albion Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Xanxicar Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat Cap) Cap Constitution: +6
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Band of Clandestinity
+Level: 51 (100% Quality)
+Utility: 102
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (H.P.) Hit Points: +60
+3. (Skill) Envenom: +4
+4. (Skill) Stealth: +4
+5. (Bonus) Armor Factor: +5
+6. (Bonus) Melee Speed: +5
+7. (Stat Cap) Cap Hit Points: +20
+
+
+R. Ring
+Name: Ring of Arcane Strength
+Level: 51 (100% Quality)
+Utility: 100.5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (H.P.) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat Cap) Cap Strength: +5
+10. (Stat Cap) Cap Hit Points: +35
+
+
+L. Wrist
+Name: Bracer of Arcane Commands
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+10. (Stat Cap) Cap Hit Points: +50
+
+
+R. Wrist
+Name: Stonewatch Bracer
+Level: 51 (100% Quality)
+Utility: 95.66
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Crush: +6%
+3. (Resist) Matter: +6%
+4. (Resist) Slash: +6%
+5. (Resist) Thrust: +6%
+6. (Stat) Acuity: +22
+7. (Skill) All Magic Skills: +3
+8. (Stat Cap) Cap Acuity: +3
+
+
+Mythical
+Name: Dragon Intellect Mythirian
+Level: 51 (100% Quality)
+Utility: 39
+Source Type: Loot
+1. (Stat) Dexterity: +3
+2. (Stat) Constitution: +3
+3. (Bonus) Spell Range: +1
+4. (Stat) Acuity: +3
+5. (Myth. Cap) Cap Constitution: +3
+6. (Myth. Cap) Cap Dexterity: +3
+7. (Myth. Cap) Cap Acuity: +3
+8. (Bonus) Spell Duration: +5
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 20
+Source Type: ROG
+1. (Stat Cap) Cap Dexterity: +5
+2. (Stat Cap) Cap Acuity: +5
