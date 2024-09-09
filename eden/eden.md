@@ -59,7 +59,7 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 
 + SC 37.5: almeno 1001
 
-## links
+## linkss
 
 + https://eden.leryk.ovh/alchemy-leveling/
 + https://apothecary.daoc-sites.info/reference_reactives.php
