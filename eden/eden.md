@@ -34,6 +34,7 @@
 + `/switch`
 + `/tradeskill`
 + `/loyalty`
++ `/wiki mobs` in housing per vedere prezzi case vacant
 
 ## How to speed up DAoC load times:
 
