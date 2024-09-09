@@ -35,6 +35,11 @@
 + `/tradeskill`
 + `/loyalty`
 + `/wiki mobs` in housing per vedere prezzi case vacant
++ `/list` cons merch public (non serve perchè è di default)
+
+## housing alb
+
++ 1251
 
 ## How to speed up DAoC load times:
 
