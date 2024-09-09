@@ -39,7 +39,7 @@
 
 ## housing alb
 
-+ 1251
++ 1251 old sarum
 
 ## How to speed up DAoC load times:
 
