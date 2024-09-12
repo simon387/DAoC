@@ -58,6 +58,8 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 ## info
 
 + SC 37.5: almeno 1001
++ pre drago: 45
++ mini: 48
 
 ## linkss
 
