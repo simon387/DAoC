@@ -65,3 +65,4 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + https://apothecary.daoc-sites.info/reference_reactives.php
 + https://www.darkageofcamelot.com/content/spellcraft-armor-bonuses
 + https://camelot.allakhazam.com/spellcraftcalc.html
++ http://tool.excidio.net/spelldamage.htm
