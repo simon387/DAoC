@@ -1,0 +1,403 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 12:02 p.m. mrt. 22, 2024
+Version: 8.3.47
+
+Character Summary for Bowbob S2 2 - Hunter
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+61 / 85  Strength
+76 / 75  Constitution
+115 / 106  Dexterity
+31 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+370 / 400  Hit Points
+0 / 26  Power
+
+With Mellee  strength 89 and Qui 53
+
+
+Bonuses
+Casting Speed: 10%
+Spell Damage: 12%
+Melee Damage: 9%
+Style Damage: 8%
+Spell Range: 7%
+Fatigue: 10%
+Arcane Siphon: 5%
+Resist Pierce: 10%
+Power Pool: 5%
+Armor Factor: 15%
+Health Regen: 20%
+Mana Regen: 5%
+Endurance Regen: 1%
+
+Resists (Racials not included)
+27% Crush
+27% Slash
+27% Thrust
+26% Heat
+27% Cold
+26% Matter
+33% Body
+25% Energy
+27% Spirit
+
+Skills
+11 Stealth
+11 Sword
+11 Spear
+11 Composite Bow
+9 Beastcraft
+
+Items
+
+
+Helmet
+Name: Feallan Steeple of the Tactful
+Level: 51 (100% Quality)
+Utility: 95,66
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Quickness: +16
+3. (H.P.) Hit Points: +40
+4. (Resist) Body: +7%
+5. (Resist) Energy: +7%
+6. (Skill) All Archery Skills: +3
+7. (Bonus) Casting Speed: +2
+8. (Bonus) Spell Damage: +2
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 56,66
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Spirit: +5% [(Flawed) Vapor Shielding Jewel]
+2. (Resist) Heat: +9% [(Polished) Heated Shielding Jewel]
+3. (Resist) Matter: +13% [(Precious) Earthen Shielding Jewel]
+4. (Stat) Strength: +4 [(Uncut) Fiery Essence Jewel]
+
+
+Torso
+Name: Wintery Seeker's Vest
+Level: 51 (100% Quality)
+Utility: 146,66
+Source Type: Loot
+1. (Stat) Constitution: +25
+2. (Resist) Crush: +3%
+3. (Resist) Slash: +3%
+4. (Resist) Thrust: +3%
+5. (Skill) Stealth: +4
+6. (Skill) All Melee Skills: +4
+7. (Bonus) Melee Damage: +4
+8. (Bonus) Spell Damage: +4
+9. (Bonus) Style Damage: +4
+10. (Stat Cap) Cap Dexterity: +6
+
+
+Arms
+Name: 
+Level: 51 (100% Quality)
+Utility: 64,66
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+2. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+3. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+4. (Stat) Strength: +16 [(Polished) Fiery Essence Jewel]
+
+
+Feet
+Name: Dragonslayer Feral Starkaskodd Boots
+Level: 51 (100% Quality)
+Utility: 81
+Source Type: Loot
+1. (H.P.) Hit Points: +20
+2. (Resist) Crush: +6%
+3. (Resist) Slash: +6%
+4. (Resist) Thrust: +6%
+5. (Skill) Stealth: +4
+6. (Skill) All Archery Skills: +4
+
+
+Legs
+Name: Astral Leggings of the Leech
+Level: 51 (100% Quality)
+Utility: 110
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Stat) Constitution: +15
+4. (H.P.) Hit Points: +40
+5. (Bonus) Spell Range: +2
+6. (Bonus) Melee Damage: +2
+7. (Bonus) Casting Speed: +2
+8. (Bonus) Style Damage: +2
+9. (Stat Cap) Cap Dexterity: +10
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33,5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33,5
+
+
+Two Handed
+Name: Kieren's Greatsword
+Level: 51 (100% Quality)
+Utility: 120,33
+Source Type: Loot
+: Body
+1. (Stat) Strength: +28
+2. (Stat) Quickness: +22
+3. (Bonus) Melee Speed: +4
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +4
+6. (Bonus) Style Damage: +4
+7. (Stat Cap) Cap Strength: +6
+
+
+Ranged
+Name: Nychta's Heartstring Bow
+Level: 51 (100% Quality)
+Utility: 118,66
+Source Type: Loot
+: Body
+1. (Stat) Dexterity: +22
+2. (Bonus) Spell Range: +4
+3. (Skill) All Archery Skills: +4
+4. (Bonus) Fatigue: +10
+5. (Bonus) Spell Damage: +4
+6. (Stat Cap) Cap Dexterity: +7
+7. (Bonus) Arcane Siphon: +5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 92,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Nosdoden Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Gemstone of Swirling Energy
+Level: 51 (100% Quality)
+Utility: 113
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +9%
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +3
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Power Pool: +5
+8. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Zahur's Ring
+Level: 51 (100% Quality)
+Utility: 75
+Source Type: Loot
+1. (H.P.) Hit Points: +60
+2. (Resist) Body: +6%
+3. (Resist) Cold: +6%
+4. (Resist) Energy: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+
+
+R. Ring
+Name: Tentacle Ring
+Level: 51 (100% Quality)
+Utility: 100,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (H.P.) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat Cap) Cap Strength: +5
+10. (Stat Cap) Cap Hit Points: +35
+
+
+L. Wrist
+Name: Gatekeeper Bracer of Chaos
+Level: 51 (100% Quality)
+Utility: 96,16
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (H.P.) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Skill) Stealth: +3
+7. (Bonus) Armor Factor: +10
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Hit Points: +30
+
+
+R. Wrist
+Name: Golden Bracer
+Level: 51 (100% Quality)
+Utility: 78
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Resist) Cold: +10%
+3. (Resist) Heat: +10%
+4. (Bonus) Spell Range: +1
+5. (Bonus) Casting Speed: +1
+6. (Bonus) Spell Damage: +2
+
+
+Mythical
+Name: Deserter Adept Mythirian
+Level: 51 (100% Quality)
+Utility: 78,66
+Source Type: Loot
+1. (Stat) Strength: +5
+2. (Stat) Dexterity: +5
+3. (Bonus) Health Regen: +20
+4. (Bonus) Mana Regen: +5
+5. (Bonus) Endurance Regen: +1
+6. (Myth. Cap) Cap Strength: +5
+7. (Myth. Cap) Cap Dexterity: +5
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Dexterity: +15
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Quickness: +15
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
