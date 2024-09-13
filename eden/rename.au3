@@ -6,7 +6,7 @@
 #NoTrayIcon
 #include <MsgBoxConstants.au3>
 
-Local $sWindowTitle = "Dark Age of Camelot � 2001-2021 Electronic Arts Inc. All Rights Reserved."
+Local $sWindowTitle = "Dark Age of Camelot © 2001-2021 Electronic Arts Inc. All Rights Reserved."
 Local $sNewTitle = "i"
 
 Local $hWnd = WinGetHandle($sWindowTitle)
