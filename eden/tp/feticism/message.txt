@@ -1,0 +1,393 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 10:12 PM Aug 23, 2024
+Version: 8.3.48
+
+Character Summary for Sned noRog - Hunter
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+83 / 88  Strength
+90 / 89  Constitution
+101 / 101  Dexterity
+62 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+393 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 9%
+Melee Damage: 4%
+Casting Speed: 10%
+Spell Damage: 10%
+Armor Factor: 30%
+Spell Range: 4%
+Resist Pierce: 10%
+Debuff: 5%
+Spell Duration: 5%
+
+Resists (Racials not included)
+24% Crush
+25% Slash
+24% Thrust
+20% Heat
+25% Cold
+24% Matter
+24% Body
+25% Energy
+25% Spirit
+
+Skills
+11 Stealth
+6 Sword
+8 Spear
+6 Composite Bow
+6 Beastcraft
+4 Envenom
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (100% Quality)
+Utility: 61.33
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Strength: +28 [(Perfect) Fiery Essence Jewel]
+2. (Skill) Spear: +2 [(Uncut) Heated War Rune]
+3. (Stat) Dexterity: +22 [(Precious) Vapor Essence Jewel]
+4. (Resist) Heat: +9% [(Polished) Heated Shielding Jewel]
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 62.33
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Stat) Strength: +28 [(Perfect) Fiery Essence Jewel]
+2. (Stat) Quickness: +22 [(Precious) Airy Essence Jewel]
+3. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+4. (Skill) Stealth: +3 [(Rough) Airy Battle Jewel]
+
+
+Torso
+Name: Astral Vest of Purification
+Level: 51 (100% Quality)
+Utility: 137
+Source Type: Merchant
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Melee Skills: +3
+4. (Bonus) Melee Damage: +4
+5. (Bonus) Casting Speed: +4
+6. (Stat Cap) Cap Strength: +8
+7. (Stat Cap) Cap Dexterity: +8
+8. (Stat Cap) Cap Constitution: +8
+
+
+Arms
+Name: Everlasting Twilight Sleeves
+Level: 51 (100% Quality)
+Utility: 83.25
+Source Type: Loot
+1. (Stat) Quickness: +21
+2. (H.P.) Hit Points: +60
+3. (Resist) Crush: +8%
+4. (Resist) Slash: +8%
+5. (Resist) Thrust: +8%
+6. (Stat Cap) Cap Hit Points: +25
+
+
+Feet
+Name: 
+Level: 51 (100% Quality)
+Utility: 63.66
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Quickness: +19 [(Faceted) Airy Essence Jewel]
+2. (Skill) Stealth: +4 [(Flawed) Airy Battle Jewel]
+3. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+4. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+
+
+Legs
+Name: Shadowhunter Leggings
+Level: 51 (100% Quality)
+Utility: 99.66
+Source Type: Quest
+1. (Stat) Dexterity: +16
+2. (H.P.) Hit Points: +40
+3. (Resist) Thrust: +7%
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Spell Damage: +4
+6. (Stat Cap) Cap Strength: +5
+7. (Stat Cap) Cap Dexterity: +5
+8. (Stat Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Two Handed
+Name: Bloodfrost Battle Spear
+Level: 51 (100% Quality)
+Utility: 103
+Source Type: Merchant
+: 1:00 min
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Melee Damage: +4
+9. (Stat Cap) Cap Strength: +10
+10. (Stat Cap) Cap Dexterity: +10
+
+
+Ranged
+Name: Astral Bow of Dismay
+Level: 51 (100% Quality)
+Utility: 111
+Source Type: Merchant
+: Essence
+1. (Stat) Dexterity: +15
+2. (Bonus) Armor Factor: +15
+3. (Bonus) Spell Range: +4
+4. (Skill) All Archery Skills: +6
+5. (Bonus) Spell Damage: +4
+6. (Stat Cap) Cap Dexterity: +8
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 92.25
+Source Type: Merchant
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Nosdoden Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Merchant
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Merchant
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat Cap) Cap Constitution: +6
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Merchant
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Zahur's Ring
+Level: 51 (100% Quality)
+Utility: 75
+Source Type: Merchant
+1. (H.P.) Hit Points: +60
+2. (Resist) Body: +6%
+3. (Resist) Cold: +6%
+4. (Resist) Energy: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+
+
+R. Ring
+Name: Band of Clandestinity
+Level: 51 (100% Quality)
+Utility: 102
+Source Type: Merchant
+1. (Stat) Strength: +18
+2. (H.P.) Hit Points: +60
+3. (Skill) Envenom: +4
+4. (Skill) Stealth: +4
+5. (Bonus) Armor Factor: +5
+6. (Bonus) Melee Speed: +5
+7. (Stat Cap) Cap Hit Points: +20
+
+
+L. Wrist
+Name: Worked Wormhide Wrap
+Level: 51 (100% Quality)
+Utility: 78
+Source Type: Merchant
+1. (Stat) Dexterity: +30
+2. (Resist) Cold: +8%
+3. (Resist) Slash: +8%
+4. (Resist) Spirit: +8%
+5. (Bonus) Casting Speed: +2
+
+
+R. Wrist
+Name: Spiked Bracelet
+Level: 47 (100% Quality)
+Utility: 78
+Source Type: Loot
+1. (Stat) Strength: +9
+2. (Resist) Body: +4%
+3. (Resist) Cold: +4%
+4. (Resist) Crush: +4%
+5. (Resist) Energy: +4%
+6. (Resist) Heat: +4%
+7. (Resist) Matter: +4%
+8. (Resist) Slash: +4%
+9. (Resist) Spirit: +4%
+10. (Resist) Thrust: +4%
+
+
+Mythical
+Name: Dragon Focus Mythirian
+Level: 51 (100% Quality)
+Utility: 32
+Source Type: Loot
+1. (Stat) Strength: +3
+2. (Stat) Dexterity: +3
+3. (Stat) Constitution: +3
+4. (Bonus) Endurance Regen: +1
+5. (Bonus) Evade: +3
+6. (Myth. Cap) Cap Strength: +3
+7. (Myth. Cap) Cap Constitution: +3
+8. (Myth. Cap) Cap Dexterity: +3
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Constitution: +15
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat Cap) Cap Dexterity: +5
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Armor Factor: +10
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
