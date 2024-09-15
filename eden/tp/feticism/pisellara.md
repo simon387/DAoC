@@ -1,6 +1,6 @@
 + ~~Feallan Steeple of the Tactful (quest in DF)~~
 + ~~Nychta's Heartstring Bow (600 grim)~~
-+ Everlasting Twilight Sleeves (600 grimoire)
++ ~~Everlasting Twilight Sleeves (600 grimoire)~~
 + Gemstone of Swirling Energy (600 grim)
 + Wintery Seeker's Vest (600 tusca)
 + Dragonseye Strand (625 tusca)
