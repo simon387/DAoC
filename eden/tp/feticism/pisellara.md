@@ -1,16 +1,16 @@
-+ Feallan Steeple of the Tactful (quest in DF)
-+ Wintery Seeker's Vest (600 tusca)
++ ~~Feallan Steeple of the Tactful (quest in DF)~~
++ ~~Nychta's Heartstring Bow (600 grim)~~
 + Everlasting Twilight Sleeves (600 grimoire)
-+ Astral Leggings of the Leech (800 atlantean)
-+ Nychta's Heartstring Bow (600 grim)
-+ Dragonseye Strand (625 tusca ice)
-+ Nosdoden Remnant Cloak (600 tusca ice)
 + Gemstone of Swirling Energy (600 grim)
-+ Soulbinder's Belt (475 dragon scales)
-+ Zahur's Ring (600 atlantean glass)
++ Wintery Seeker's Vest (600 tusca)
++ Dragonseye Strand (625 tusca)
++ Nosdoden Remnant Cloak (600 tusca ice)
 + Tentacle Ring (625 tusca)
-+ Gatekeeper Bracer of Chaos (500 daemon blood seals)
++ Astral Leggings of the Leech (800 atlantean)
 + Golden Bracer (650 atlantean)
++ Zahur's Ring (600 atlantean glass)
++ Soulbinder's Belt (475 dragon scales)
++ Gatekeeper Bracer of Chaos (500 daemon blood seals)
 
 Totale:
 + Tusca 2450
