@@ -1,3 +1,5 @@
+# template @1
+
 + ~~Feallan Steeple of the Tactful (quest in DF)~~
 + ~~Nychta's Heartstring Bow (600 grim)~~
 + ~~Everlasting Twilight Sleeves (600 grimoire)~~
