@@ -15,9 +15,9 @@
 + Gatekeeper Bracer of Chaos (500 daemon blood seals)
 
 Totale:
-+ Tusca 2450
 + ~~Grimoire 600~~
-+ Atlantean 2000
 + ~~Dragon 475~~
++ Tusca 2450
++ Atlantean 2000
 + Daemon blood 500
 
