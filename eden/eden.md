@@ -36,6 +36,8 @@
 + `/loyalty`
 + `/wiki mobs` in housing per vedere prezzi case vacant
 + `/list` cons merch public (non serve perchè è di default)
++ `/tradeorder exchangerate`
++ `/tradeorder place alb mid 1p`
 
 ## housing alb
 
