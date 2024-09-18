@@ -10,7 +10,7 @@
 + Nosdoden Remnant Cloak (600 tusca ice)
 + Tentacle Ring (625 tusca)
 + ~~Astral Leggings of the Leech (800 atlantean)~~
-+ Golden Bracer (650 atlantean)
++ ~~Golden Bracer (650 atlantean)~~
 + Zahur's Ring (600 atlantean glass)
 + Gatekeeper Bracer of Chaos (500 daemon blood seals)
 
