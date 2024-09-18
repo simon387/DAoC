@@ -17,7 +17,7 @@
 Totale:
 + ~~Grimoire 600~~
 + ~~Dragon 475~~
-+ Tusca 2450
 + ~~Atlantean 1250~~
++ Tusca 2450
 + Daemon blood 500
 
