@@ -149,22 +149,6 @@ Source Type: Loot
 10. (Stat_Cap) Cap Hit Points: +40
 
 
-Right Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
-Left Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
 Two Handed
 Name: Bloodfrost Battle spear
 Level: 51 (100% Quality)
