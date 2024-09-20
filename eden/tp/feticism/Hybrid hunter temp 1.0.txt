@@ -3,7 +3,6 @@ https://store.steampowered.com/app/2098510/Zenkcraft/
 Last Saved: 11:06 AM on set 13, 2024
 Version: 1.0.019
 
-
 Note: All items are included. Stats shown below reflect only currently equipped items.
 
 Stats
@@ -11,12 +10,7 @@ Stats
 76 / 75  Constitution
 115 / 106  Dexterity
 52 / 75  Quickness
-0 / 75  Intelligence
-0 / 75  Piety
-0 / 75  Charisma
-0 / 75  Empathy
 410 / 400  Hit Points
-0 / 26  Power
 
 Bonuses
 Casting Speed: 10%
@@ -50,9 +44,6 @@ Skills
 11 Spear
 7 Composite Bow
 9 Beastcraft
-
-Items
-
 
 Bonuses
 Name: 
