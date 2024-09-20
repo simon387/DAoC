@@ -45,11 +45,7 @@ Skills
 7 Composite Bow
 9 Beastcraft
 
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 20
-Source Type: ROG
+
 1. (Stat) Quickness: +15
 2. (Stat) Dexterity: +15
 
