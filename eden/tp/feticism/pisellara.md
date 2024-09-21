@@ -19,5 +19,5 @@ Totale:
 + ~~Dragon 475~~
 + ~~Atlantean 1250~~
 + Tusca 2450
-+ Daemon blood 500
++ Daemon blood 500 uscita a destra di jordheimn fino al dungeon cl5
 
