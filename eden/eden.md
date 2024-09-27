@@ -71,3 +71,5 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + https://camelot.allakhazam.com/spellcraftcalc.html
 + http://tool.excidio.net/spelldamage.htm
 + https://discord.com/channels/1281895088456335360/1281895088456335364/1287864529329586207
++ https://eden-daoc.net/herald?n=top_lwrp&c=hunter
+
