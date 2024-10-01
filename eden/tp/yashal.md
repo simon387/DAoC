@@ -2,7 +2,7 @@
 + shimmering silksteel dragonsworn knit padded arms 40 hits
 + ~~shimmering silksteel rune knit padded pants~~ 5% pp
 + ~~arcane shadow cuff (50 gold)~~
-+ staff of ageless power (350 dragon)
++ ~~staff of ageless power (350 dragon)~~
 + cloth cap (500 dragon)
 + aidon's slippers (600 grimoire)
 + gemstone of swirling energy (600 grimoire)
