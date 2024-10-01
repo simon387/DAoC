@@ -1,4 +1,4 @@
-+ shimmering silksteel dragonsworn knit padded gloves
++ ~~shimmering silksteel dragonsworn knit padded gloves~~
 + shimmering silksteel dragonsworn knit padded arms
 + shimmering silksteel rune kint padded pants
 + ~~arcane shadow cuff (50 gold)~~
