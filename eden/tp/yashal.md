@@ -12,11 +12,12 @@
 + runed tuscarian vest (600 tusca)
 + slime coated ring (625 tusca)
 + dragon intellect mythirian (500 tusca)
-+ gatekeeper bracer of anarchy (500 daemon blood)
-+ director's ring of bedlam (500 daemon blood)
++ ~~gatekeeper bracer of anarchy (500 daemon blood)~~
++ ~~director's ring of bedlam (500 daemon blood)~~
 
 
 + 850 dragon
 + 2500 grimoire
 + 2375 tusca
-+ 1000 daemon blood
++ ~~1000 daemon blood~~
+
