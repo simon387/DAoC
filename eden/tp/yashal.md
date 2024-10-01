@@ -1,6 +1,6 @@
 + ~~shimmering silksteel dragonsworn knit padded gloves~~
 + shimmering silksteel dragonsworn knit padded arms
-+ shimmering silksteel rune kint padded pants
++ ~~shimmering silksteel rune kint padded pants~~
 + ~~arcane shadow cuff (50 gold)~~
 + staff of ageless power (350 dragon)
 + cloth cap (500 dragon)
