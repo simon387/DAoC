@@ -1,6 +1,6 @@
-+ ~~shimmering silksteel dragonsworn knit padded gloves~~
-+ shimmering silksteel dragonsworn knit padded arms
-+ ~~shimmering silksteel rune kint padded pants~~
++ ~~shimmering silksteel dragonsworn knit padded gloves~~ 5% dur
++ shimmering silksteel dragonsworn knit padded arms 40 hits
++ ~~shimmering silksteel rune knit padded pants~~ 5% pp
 + ~~arcane shadow cuff (50 gold)~~
 + staff of ageless power (350 dragon)
 + cloth cap (500 dragon)
