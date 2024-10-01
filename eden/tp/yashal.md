@@ -3,7 +3,7 @@
 + ~~shimmering silksteel rune knit padded pants~~ 5% pp
 + ~~arcane shadow cuff (50 gold)~~
 + ~~staff of ageless power (350 dragon)~~
-+ cloth cap (500 dragon)
++ ~~cloth cap (500 dragon)~~
 + aidon's slippers (600 grimoire)
 + gemstone of swirling energy (600 grimoire)
 + cape of legerdemain (700 grimoire)
@@ -16,7 +16,7 @@
 + ~~director's ring of bedlam (500 daemon blood)~~
 
 
-+ 850 dragon
++ ~~850 dragon~~
 + 2500 grimoire
 + 2375 tusca
 + ~~1000 daemon blood~~
