@@ -10,8 +10,8 @@
 + shimmering satin sash (600 grimoire)
 + dragonseye strand (625 tusca)
 + runed tuscarian vest (600 tusca)
-+ slime coated ring (625 tusca)
-+ dragon intellect mythirian (500 tusca)
++ ~~slime coated ring (625 tusca)~~
++ ~~dragon intellect mythirian (500 tusca)~~
 + ~~gatekeeper bracer of anarchy (500 daemon blood)~~
 + ~~director's ring of bedlam (500 daemon blood)~~
 
