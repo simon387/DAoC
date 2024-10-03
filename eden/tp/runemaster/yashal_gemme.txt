@@ -1,0 +1,112 @@
+LOKI Craft Report
+Chest:
+Imbue: 37.5/32 (Quality: 100)
+Gem 1: Rough Watery Shielding Jewel (3% Slash)
+	1 On Gem, 11 Ground Draconic Scales, 3 Leviathan Blood
+Gem 2: Faceted Watery Essence Jewel (19 Piety)
+	1 Ros Gem, 25 Essence of Life, 7 Leviathan Blood
+Gem 3: Uncut Airy Shielding Jewel (2% Thrust)
+	1 Um Gem, 6 Ground Draconic Scales, 2 Air Elemental Essence
+Gem 4: Flawless Dusty Shielding Jewel (15% Body)
+	1 Kath Gem, 41 Ground Draconic Scales, 9 Undead Ash and Holy Water
+
+Arms:
+Imbue: 37.5/32 (Quality: 100)
+Gem 1: Flawed Light Shielding Jewel (5% Energy)
+	1 Ee Gem, 16 Ground Draconic Scales, 4 Sun Light
+Gem 2: Flawless Vapor Essence Jewel (25 Dexterity)
+	1 Kath Gem, 33 Essence of Life, 9 Swamp Fog
+Gem 3: Flawless Watery Essence Jewel (25 Piety)
+	1 Kath Gem, 33 Essence of Life, 9 Leviathan Blood
+Gem 4: Polished Heated Shielding Jewel (9% Heat)
+	1 Mon Gem, 26 Ground Draconic Scales, 6 Heat From an Unearthly Pyre
+
+Head:
+Imbue: 37.5/32 (Quality: 100)
+Gem 1: Precious Watery Essence Jewel (22 Piety)
+	1 Zo Gem, 29 Essence of Life, 8 Leviathan Blood
+Gem 2: Polished Earthen Shielding Jewel (9% Matter)
+	1 Mon Gem, 26 Ground Draconic Scales, 6 Treant Blood
+Gem 3: Imperfect Icy Shielding Jewel (7% Cold)
+	1 Pal Gem, 21 Ground Draconic Scales, 5 Frost From a Wasteland
+Gem 4: Polished Vapor Shielding Jewel (9% Spirit)
+	1 Mon Gem, 26 Ground Draconic Scales, 6 Swamp Fog
+
+
+
+Gem List
+Watery Shielding Jewel
+	1 Rough
+Watery Essence Jewel
+	1 Faceted
+	1 Precious
+	1 Flawless
+Airy Shielding Jewel
+	1 Uncut
+Dusty Shielding Jewel
+	1 Flawless
+Light Shielding Jewel
+	1 Flawed
+Vapor Essence Jewel
+	1 Flawless
+Heated Shielding Jewel
+	1 Polished
+Earthen Shielding Jewel
+	1 Polished
+Icy Shielding Jewel
+	1 Imperfect
+Vapor Shielding Jewel
+	1 Polished
+
+
+Shopping List
+Chest:
+	1 Um Gem
+	1 On Gem
+	1 Ros Gem
+	1 Kath Gem
+	25 Essence of Life
+	58 Ground Draconic Scales
+	2 Air Elemental Essence
+	9 Undead Ash and Holy Water
+	10 Leviathan Blood
+Arms:
+	1 Ee Gem
+	1 Mon Gem
+	2 Kath Gem
+	66 Essence of Life
+	42 Ground Draconic Scales
+	9 Swamp Fog
+	9 Leviathan Blood
+	6 Heat From an Unearthly Pyre
+	4 Sun Light
+Head:
+	1 Pal Gem
+	2 Mon Gem
+	1 Zo Gem
+	29 Essence of Life
+	73 Ground Draconic Scales
+	6 Treant Blood
+	6 Swamp Fog
+	8 Leviathan Blood
+	5 Frost From a Wasteland
+
+Material Totals
+	1 Um Gem
+	1 On Gem
+	1 Ee Gem
+	1 Pal Gem
+	3 Mon Gem
+	1 Ros Gem
+	1 Zo Gem
+	3 Kath Gem
+	120 Essence of Life
+	173 Ground Draconic Scales
+	6 Treant Blood
+	15 Swamp Fog
+	2 Air Elemental Essence
+	9 Undead Ash and Holy Water
+	27 Leviathan Blood
+	5 Frost From a Wasteland
+	6 Heat From an Unearthly Pyre
+	4 Sun Light
