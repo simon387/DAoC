@@ -21,3 +21,5 @@
 + 2375 tusca
 + ~~1000 daemon blood~~
 
+
++ mancanti 2500 grimoire, 1225 tusca
