@@ -1,0 +1,113 @@
+LOKI Build Report
+Default Configuration:
+Build Utility: 178.7
+Useable Utility: 178.7
+TOA Utility:  0.0
+
+Statistics
+STR:0/75     CON:0/75     DEX:25/75
+QUI:0/75     INT:0/75     PIE:66/75
+CHA:0/75     EMP:0/75
+Hits:0/200
+Power:0/25
+AF:0/50
+
+Resistances
+Body: 15
+Cold: 7
+Heat: 9
+Energy: 5+5
+Matter: 9
+Spirit: 9
+Crush: 0+5
+Slash: 3
+Thrust: 2
+
+Skills
+
+Focuses
+
+Bonuses
+
+Chest:
+Imbue: 37.5/32 (Quality: 100)
+3% Slash
+19 Piety
+2% Thrust
+15% Body
+Utility: 52.7
+TOA Utility: 0.0
+
+Arms:
+Imbue: 37.5/32 (Quality: 100)
+5% Energy
+25 Dexterity
+25 Piety
+9% Heat
+Utility: 61.3
+TOA Utility: 0.0
+
+Head:
+Imbue: 37.5/32 (Quality: 100)
+22 Piety
+9% Matter
+7% Cold
+9% Spirit
+Utility: 64.7
+TOA Utility: 0.0
+
+Legs:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Hands:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Feet:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Neck:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Cloak:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Jewel:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Belt:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Left Ring:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Right Ring:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Left Wrist:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
+Right Wrist:
+Imbue: 0.0
+Utility: 0.0
+TOA Utility: 0.0
+
