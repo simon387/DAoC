@@ -73,3 +73,6 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + https://discord.com/channels/1281895088456335360/1281895088456335364/1287864529329586207
 + https://eden-daoc.net/herald?n=top_lwrp&c=hunter
 
+## todos
+
++ s/s rm
