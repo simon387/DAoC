@@ -75,6 +75,5 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 
 ## todos
 
-+ s/s rm
 + qbinds
 
