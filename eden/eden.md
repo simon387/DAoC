@@ -38,6 +38,7 @@
 + `/list` cons merch public (non serve perchè è di default)
 + `/currency money` da fare dallo stronzo del re, nel reame in cui vuoi i soldi
 + `/recorder start`
++ `/items build`
 
 ## housing alb
 
