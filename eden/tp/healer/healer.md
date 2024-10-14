@@ -12,7 +12,7 @@ Imbue Points: 37.5 of 37.5
 3. (Resist) Cold: +2% [(Uncut) Icy Shielding Jewel]
 4. (Resist) Heat: +11% [(Faceted) Heated Shielding Jewel]
 
-Earthen Entranced Hauberk - Blessed Balm Hauberk - epica healer o shamano
+~~Earthen Entranced Hauberk - Blessed Balm Hauberk - epica healer o shamano~~
 
 Arms 	Rune Bound Starkakedja - 40 hits cap
 Imbue Points: 37.5 of 37.5
@@ -21,7 +21,7 @@ Imbue Points: 37.5 of 37.5
 3. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
 4. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
 
-Saliva-Flecked Sabatons
+Saliva-Flecked Sabatons - 600 Grimoire Pages
 
 Legs		Dragonsworn Bound Starkakedja - 15str
 Imbue Points: 37.5 of 37.5
@@ -30,10 +30,10 @@ Imbue Points: 37.5 of 37.5
 3. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
 4. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
 
-Frigid Soul Quencher
-Basalt Buckler of Oblivion
+Frigid Soul Quencher - 250 Dragon Scales
+Basalt Buckler of Oblivion - 600 Daemon Blood Seals
 Midgard Medal of Honor
-Cape of Legerdemain
+Cape of Legerdemain - 700 Grimoire Pages
 Ensorcelled Mystic Gem
 Spirit Bound Demonic Belt
 Slime Coated Ring
@@ -41,3 +41,7 @@ Director's Ring of Anarchy
 Bracer of Snow
 Gatekeeper Bracer of Bedlam
 Deserter Curative Mythirian
+
+- 1300 Grimoire Pages
+- 250 Dragon Scales
+- 600 Daemon Blood Seals
