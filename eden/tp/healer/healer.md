@@ -1,4 +1,4 @@
-Helmet	Dragonsworn Marked Starkakedja	+15 con
+~~Helmet	Dragonsworn Marked Starkakedja	+15 con~~
 Imbue Points: 36.5 of 37.5
 1. (Resist) Thrust: +2% [(Uncut) Airy Shielding Jewel]
 2. (Resist) Energy: +15% [(Flawless) Light Shielding Jewel]
@@ -40,7 +40,7 @@ Imbue Points: 37.5 of 37.5
 ~~Director's Ring of Anarchy - 500 Daemon Blood Seals~~
 ~~Bracer of Snow - 650 Atlantean Glass~~
 ~~Gatekeeper Bracer of Bedlam - 500 Daemon Blood Seals~~
-Deserter Curative Mythirian
+~~Deserter Curative Mythirian~~
 
 ~~- 1900 Grimoire Pages - 1600~~
 ~~- 250 Dragon Scales~~
