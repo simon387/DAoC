@@ -31,19 +31,19 @@ Imbue Points: 37.5 of 37.5
 4. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
 
 ~~Frigid Soul Quencher - 250 Dragon Scales~~
-Basalt Buckler of Oblivion - 600 Daemon Blood Seals
+~~Basalt Buckler of Oblivion - 600 Daemon Blood Seals~~
 ~~Midgard Medal of Honor~~
 ~~Cape of Legerdemain - 700 Grimoire Pages~~
 ~~Ensorcelled Mystic Gem - 600 Grimoire Pages~~
-Spirit Bound Demonic Belt - 600 Daemon Blood Seals
+~~Spirit Bound Demonic Belt - 600 Daemon Blood Seals~~
 ~~Slime Coated Ring - 625 Tuscaran Glacier Ices~~
-Director's Ring of Anarchy - 500 Daemon Blood Seals
+~~Director's Ring of Anarchy - 500 Daemon Blood Seals~~
 ~~Bracer of Snow - 650 Atlantean Glass~~
-Gatekeeper Bracer of Bedlam - 500 Daemon Blood Seals
+~~Gatekeeper Bracer of Bedlam - 500 Daemon Blood Seals~~
 Deserter Curative Mythirian
 
 ~~- 1900 Grimoire Pages - 1600~~
 ~~- 250 Dragon Scales~~
-- 2300 Daemon Blood Seals
+~~- 2200 Daemon Blood Seals~~
 ~~- 625 Tuscaran Glacier Ices~~
 ~~- 650 Atlantean Glass~~
