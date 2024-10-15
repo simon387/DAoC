@@ -21,7 +21,7 @@ Imbue Points: 37.5 of 37.5
 3. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
 4. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
 
-Saliva-Flecked Sabatons - 600 Grimoire Pages
+~~Saliva-Flecked Sabatons - 600 Grimoire Pages~~
 
 Legs		Dragonsworn Bound Starkakedja - 15str
 Imbue Points: 37.5 of 37.5
@@ -33,7 +33,7 @@ Imbue Points: 37.5 of 37.5
 Frigid Soul Quencher - 250 Dragon Scales
 Basalt Buckler of Oblivion - 600 Daemon Blood Seals
 Midgard Medal of Honor
-Cape of Legerdemain - 700 Grimoire Pages
+~~Cape of Legerdemain - 700 Grimoire Pages~~
 ~~Ensorcelled Mystic Gem - 600 Grimoire Pages~~
 Spirit Bound Demonic Belt - 600 Daemon Blood Seals
 Slime Coated Ring - 625 Tuscaran Glacier Ices
@@ -42,7 +42,7 @@ Bracer of Snow - 650 Atlantean Glass
 Gatekeeper Bracer of Bedlam - 500 Daemon Blood Seals
 Deserter Curative Mythirian
 
-- 1900 Grimoire Pages - 1600
+~~- 1900 Grimoire Pages - 1600~~
 - 250 Dragon Scales
 - 2300 Daemon Blood Seals
 - 625 Tuscaran Glacier Ices
