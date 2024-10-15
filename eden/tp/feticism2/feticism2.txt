@@ -65,7 +65,7 @@ Source Type: Loot
 
 
 Hands
-Name: 
+Name:  dragonsworn etched
 Level: 51 (99% Quality)
 Utility: 65
 Source Type: Spellcraft
@@ -107,7 +107,7 @@ Source Type: Loot
 
 
 Feet
-Name: 
+Name: rune carved
 Level: 51 (99% Quality)
 Utility: 60
 Source Type: Spellcraft
