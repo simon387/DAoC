@@ -14,7 +14,7 @@ Imbue Points: 37.5 of 37.5
 
 ~~Earthen Entranced Hauberk - Blessed Balm Hauberk - epica healer o shamano~~
 
-Arms 	Rune Bound Starkakedja - 40 hits cap
+~~Arms 	Rune Bound Starkakedja - 40 hits cap~~
 Imbue Points: 37.5 of 37.5
 1. (Stat) Piety: +10 [(Flawed) Watery Essence Jewel]
 2. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
