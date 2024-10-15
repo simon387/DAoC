@@ -36,7 +36,7 @@ Midgard Medal of Honor
 ~~Cape of Legerdemain - 700 Grimoire Pages~~
 ~~Ensorcelled Mystic Gem - 600 Grimoire Pages~~
 Spirit Bound Demonic Belt - 600 Daemon Blood Seals
-Slime Coated Ring - 625 Tuscaran Glacier Ices
+~~Slime Coated Ring - 625 Tuscaran Glacier Ices~~
 Director's Ring of Anarchy - 500 Daemon Blood Seals
 Bracer of Snow - 650 Atlantean Glass
 Gatekeeper Bracer of Bedlam - 500 Daemon Blood Seals
@@ -45,5 +45,5 @@ Deserter Curative Mythirian
 ~~- 1900 Grimoire Pages - 1600~~
 - 250 Dragon Scales
 - 2300 Daemon Blood Seals
-- 625 Tuscaran Glacier Ices
+~~- 625 Tuscaran Glacier Ices~~
 - 650 Atlantean Glass
