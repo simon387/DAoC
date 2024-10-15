@@ -23,7 +23,7 @@ Imbue Points: 37.5 of 37.5
 
 ~~Saliva-Flecked Sabatons - 600 Grimoire Pages~~
 
-Legs		Dragonsworn Bound Starkakedja - 15str
+~~Legs		Dragonsworn Bound Starkakedja - 15str~~
 Imbue Points: 37.5 of 37.5
 1. (Resist) Energy: +2% [(Uncut) Light Shielding Jewel]
 2. (Resist) Matter: +13% [(Precious) Earthen Shielding Jewel]
