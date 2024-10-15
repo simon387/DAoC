@@ -5,7 +5,7 @@ Imbue Points: 36.5 of 37.5
 3. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
 4. (Stat) Hit Points: +12 [(Uncut) Blood Essence Jewel]
 
-Hands		Rune Bound Starkakedja - 5 dex cap
+~~Hands		Rune Bound Starkakedja - 5 dex cap~~
 Imbue Points: 37.5 of 37.5
 1. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
 2. (Resist) Slash: +11% [(Faceted) Watery Shielding Jewel]
