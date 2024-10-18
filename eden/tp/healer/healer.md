@@ -45,9 +45,10 @@ Imbue Points: 37.5 of 37.5
 + Deserter Curative Mythirian
 
 
+## totali
 
-+ - 1900 Grimoire Pages - 1600
-+ - 250 Dragon Scales
-+ - 2200 Daemon Blood Seals
-+ - 625 Tuscaran Glacier Ices
-+ - 650 Atlantean Glass
++ 1900 Grimoire Pages
++ 250 Dragon Scales
++ 2200 Daemon Blood Seals
++ 625 Tuscaran Glacier Ices
++ 650 Atlantean Glass
