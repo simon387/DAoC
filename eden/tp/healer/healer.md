@@ -31,6 +31,7 @@ Imbue Points: 37.5 of 37.5
 4. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
 
 
+## gioelli
 
 + Frigid Soul Quencher - 250 Dragon Scales
 + Basalt Buckler of Oblivion - 600 Daemon Blood Seals
