@@ -186,14 +186,6 @@ Source Type: Loot
 10. (Stat Cap) Cap Strength: +10
 
 
-Ranged
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
-
-
 Neck
 Name: Sturdy Stygia Necklace
 Level: 51 (100% Quality)
@@ -298,88 +290,14 @@ Source Type: Loot
 6. (Bonus) Style Damage: +2
 
 
-Mythical
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Torso Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Arms Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Legs Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
 Feet Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Stat Cap) Cap Charisma: +5
 
 
 Hands Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Bonus) Healing: +5
 
 
 Helmet Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Stat Cap) Cap Constitution: +5
 
-
-Right Hand Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Left Hand Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Two Handed Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Ranged Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
