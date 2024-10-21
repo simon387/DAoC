@@ -9,8 +9,8 @@
 + arcane-infused armband         600 Grimoire Pages
 + bracer of sudden finality       
 + tock                           400 Daemon Blood Seals
-+ ring of the vaettir             
-+ aidon's slippers                
++ ring of the vaettir            625 Tuscaran Glacier Ices
++ aidon's slippers               600 Grimoire Pages
 
 ## armor
 
