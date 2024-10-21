@@ -1,14 +1,14 @@
 + soul-scarred vest              600 Tuscaran Glacier Ices 
-+ sulphurous fiend gem            
++ sulphurous fiend gem           600 Daemon Blood Seals
 + tenacious night shadow          
-+ cloth cap                       
++ cloth cap                      500 Dragon Scales
 + belt of consumed souls          
-+ cape of legerdemain             
++ cape of legerdemain            700 Grimoire Pages
 + ~~dragon intellect mythirian~~
 + ~~midgard medal of honor~~
-+ arcane-infused armband          
++ arcane-infused armband         600 Grimoire Pages
 + bracer of sudden finality       
-+ tock                            
++ tock                           400 Daemon Blood Seals
 + ring of the vaettir             
 + aidon's slippers                
 
