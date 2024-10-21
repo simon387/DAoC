@@ -5,7 +5,7 @@
 + belt of consumed souls          
 + ~~cape of legerdemain            700 Grimoire Pages~~
 + ~~dragon intellect mythirian~~
-+ ~~midgard medal of honor                           ~~
++ ~~midgard medal of honor~~
 + ~~arcane-infused armband         600 Grimoire Pages~~
 + bracer of sudden finality       
 + tock                           400 Daemon Blood Seals
