@@ -1,5 +1,5 @@
 + Feallan Steeple of the Sword
-+ Tuscarian Bloodforged Hauberk (600 Tuscaran Glacier Ices)
++ ~~Tuscarian Bloodforged Hauberk (600 Tuscaran Glacier Ices)~~
 + Sabatons of the Shard (600 Grimoire Pages)
 + ~~Basalt Shield of Bedlam~~
 + ~~Potent Deathwatcher Chain (450 Dragon Scales)~~
