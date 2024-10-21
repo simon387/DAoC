@@ -4,7 +4,7 @@
 + cloth cap
 + belt of consumed souls
 + cape of legerdemain
-+ dragon intellect mythirian
++ ~~dragon intellect mythirian~~
 + ~~midgard medal of honor~~
 + arcane-infused armband
 + bracer of sudden finality
