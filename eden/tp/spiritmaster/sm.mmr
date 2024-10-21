@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character name="" level="50" realm="Midgard" class="Spiritmaster" race="Kobold">
+	<skill>1001</skill>
+	<optimization>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Strength</stat>
+		<stat priority="1" minvalue="0" TwoHandPriority="1" TwoHandMinvalue="0" RngPriority="1" RngMinvalue="0">Constitution</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Dexterity</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Quickness</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Intelligence</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Piety</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Charisma</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Empathy</stat>
+		<stat priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Hits</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Power</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">AF</stat>
+		<stat priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Acuity</stat>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Body</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Cold</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Heat</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Energy</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Matter</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Spirit</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Crush</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Slash</resist>
+		<resist priority="2" minvalue="0" TwoHandPriority="2" TwoHandMinvalue="0" RngPriority="2" RngMinvalue="0">Thrust</resist>
+		<skill priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Darkness</skill>
+		<skill priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Suppression</skill>
+		<skill priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Summoning</skill>
+		<skill priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Staff</skill>
+		<focus priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Darkness</focus>
+		<focus priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Suppression</focus>
+		<focus priority="0" minvalue="0" TwoHandPriority="0" TwoHandMinvalue="0" RngPriority="0" RngMinvalue="0">Summoning</focus>
+		<overcharge>5</overcharge>
+		<effort>3</effort>
+		<TwoHandedLeftHand>no</TwoHandedLeftHand>
+		<RangedLeftHand>no</RangedLeftHand>
+		<LoadAllItems>no</LoadAllItems>
+		<SkillGemUse>no</SkillGemUse>
+		<TOAGems>no</TOAGems>
+	</optimization>
+	<items>
+		<item loc="Chest" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Arms" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Head" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Legs" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Hands" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Feet" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Right Hand" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Left Hand" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Two-Handed" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Ranged" origin="drop" equip="no" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<speed>0.0</speed>
+					<type>Unspecified</type>
+					<damage>None</damage>
+					<lhwield>false</lhwield>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Neck" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<gem num="0">
+					<type>Cap Increase</type>
+					<amount>170</amount>
+					<effect>Hits</effect>
+				</gem>
+				<gem num="1">
+					<type>Hits</type>
+					<amount>210</amount>
+					<effect></effect>
+				</gem>
+				<gem num="2">
+					<type>Cap Increase</type>
+					<amount>15</amount>
+					<effect>Constitution</effect>
+				</gem>
+				<gem num="3">
+					<type>Stat</type>
+					<amount>88</amount>
+					<effect>Constitution</effect>
+				</gem>
+				<gem num="4">
+					<type>Resist</type>
+					<amount>25</amount>
+					<effect>Body</effect>
+				</gem>
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Cloak" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Jewel" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Belt" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Left Ring" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Right Ring" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Left Wrist" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Right Wrist" origin="drop" equip="yes" lock="no">
+			<crafted name="" level="51" quality="99" realm="All">
+				<info>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+	</items>
+</character>
