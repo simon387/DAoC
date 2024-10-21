@@ -14,6 +14,6 @@
 
 ## armor
 
-+ shimmering silksteel dragonsworn knit padded gloves
-+ shimmering silksteel drafonsworn knit padded pants
-+ shimmering silksteel rune knit padded arms
++ shimmering silksteel dragonsworn knit padded gloves (10 AF)
++ shimmering silksteel drafonsworn knit padded pants  ()
++ shimmering silksteel rune knit padded arms          ()
