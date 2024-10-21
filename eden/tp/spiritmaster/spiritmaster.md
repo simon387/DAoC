@@ -1,7 +1,7 @@
 + soul-scarred vest              600 Tuscaran Glacier Ices 
 + sulphurous fiend gem           600 Daemon Blood Seals
 + tenacious night shadow          
-+ cloth cap                      500 Dragon Scales
++ ~~cloth cap~~                      500 Dragon Scales
 + belt of consumed souls          
 + ~~cape of legerdemain~~            700 Grimoire Pages
 + ~~dragon intellect mythirian~~
