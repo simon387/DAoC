@@ -14,6 +14,6 @@
 
 ## armor
 
-+ shimmering silksteel dragonsworn knit padded gloves (10 AF)
-+ shimmering silksteel drafonsworn knit padded pants  ()
-+ shimmering silksteel rune knit padded arms          ()
++ shimmering silksteel dragonsworn knit padded gloves (5% dur) ma io farei i 10 AF
++ shimmering silksteel dragonsworn knit padded pants  (5 Pow Cap)
++ shimmering silksteel rune knit padded arms          (40 Hit Cap)
