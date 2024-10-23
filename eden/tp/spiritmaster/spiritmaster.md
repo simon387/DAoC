@@ -4,7 +4,7 @@
 + ~~cloth cap                      500 Dragon Scales~~
 + ~~belt of consumed souls          250 golds~~
 + ~~cape of legerdemain            700 Grimoire Pages~~
-+ ~~dragon intellect mythirian~~
++ ~~dragon intellect mythirian     500 Tuscaran Glacier Ices~~
 + ~~midgard medal of honor~~
 + ~~arcane-infused armband         600 Grimoire Pages~~
 + ~~bracer of sudden finality       quest~~
