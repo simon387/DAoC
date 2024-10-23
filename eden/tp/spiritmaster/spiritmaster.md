@@ -41,10 +41,7 @@ Skill
 All Magic Skill: 11/11
 
 TOA Bonus
-Armour Factor: 0/25
 Debuff Effectiveness: 5/25
-Buff Effectiveness: 0/25
-Healing Effectiveness: 0/25
 Spell Duration: 28/25
 Casting Speed: 10/10
 Spell Range: 11/10
