@@ -185,7 +185,7 @@ shift00=0
 key00=17
 usemmo=1
 [main]
-EffectsFlag=0
+EffectsFlag=3
 mouselooklock=0
 cameraheight=10
 cameradistance=700
@@ -217,7 +217,7 @@ item9=1
 [interface]
 item1=8
 [shadows]
-item2=2
+item2=4
 item1=1
 [water]
 item1=2
