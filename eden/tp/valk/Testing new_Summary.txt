@@ -1,0 +1,304 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 10:52 am Oct 31, 2024
+Version: 8.3.48
+
+Character Summary for Testing new - Valkyrie
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+98 / 103  Strength
+97 / 99  Constitution
+40 / 98  Dexterity
+94 / 90  Quickness
+18 / 75  Piety
+370 / 365  Hit Points
+
+Bonuses
+Melee Speed: 10%
+Melee Damage: 20%
+Casting Speed: 6%
+Spell Damage: 6%
+Armor Factor: 29%
+Spell Duration: 13%
+Style Damage: 9%
+Spell Range: 2%
+Healing: 28%
+Resist Pierce: 10%
+Fatigue: 5%
+Debuff: 27%
+Endurance Regen: 2%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+43% Thrust
+26% Heat
+31% Cold
+27% Matter
+28% Body
+34% Energy
+28% Spirit
+
+Skills
+15 Spear
+15 Sword
+3 Shield
+7 Parry
+9 Mending
+9 Odin's Will
+
+
+Helmet
+(Dragonsworn Scribed Starkakedja) Healing: +5
+Imbue Points: 36.5 of 33.5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+3. (H.P.) Hit Points: +44 [(Polished) Blood Essence Jewel]
+4. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+
+
+Hands
+(Dragonsworn Scribed Starkakedja) Quickness: +15
+Imbue Points: 37.5 of 33.5
+1. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
+2. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+3. (H.P.) Hit Points: +60 [(Precious) Blood Essence Jewel]
+4. (Skill) Parry: +3 [(Rough) Vapor Battle Jewel]
+
+
+Torso
+Name: Astral Hauberk of the Favored
+Level: 51 (100% Quality)
+Utility: 172
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +4
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Spell Damage: +4
+8. (Stat Cap) Cap Strength: +8
+9. (Stat Cap) Cap Dexterity: +8
+10. (Stat Cap) Cap Constitution: +8
+
+
+Arms
+Name: 
+Level: 51 (99% Quality)
+Utility: 120.66
+Source Type: ROG
+1. (Resist) Thrust: +10%
+2. (Stat) Quickness: +18
+3. (Stat) Strength: +16
+4. (Resist) Energy: +12%
+5. (Bonus) Armor Factor: +28
+6. (Bonus) Spell Duration: +13
+
+
+Feet
+Name: Sabatons of the Shard
+Level: 51 (100% Quality)
+Utility: 113.33
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Melee Damage: +4
+7. (Bonus) Style Damage: +4
+8. (Stat Cap) Cap Constitution: +7
+
+
+Legs
+Name: Astral Leggings of Fortification
+Level: 51 (100% Quality)
+Utility: 124
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Constitution: +18
+3. (H.P.) Hit Points: +40
+4. (Bonus) Spell Range: +2
+5. (Bonus) Melee Damage: +2
+6. (Bonus) Healing: +10
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Style Damage: +2
+9. (Stat Cap) Cap Dexterity: +10
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Fine Steel Long Sword
+Level: 51 (100% Quality)
+Utility: 105
+Source Type: Loot
+: 1:00 min
+1. (Stat) Strength: +15
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +5
+8. (Bonus) Melee Damage: +4
+9. (Stat Cap) Cap Strength: +10
+10. (Stat Cap) Cap Quickness: +10
+
+
+Left Hand
+Name: Buckler of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 109.33
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Dexterity: +22
+3. (Skill) Shield: +3
+4. (Bonus) Melee Speed: +3
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +3
+7. (Stat Cap) Cap Strength: +5
+8. (Stat Cap) Cap Dexterity: +5
+
+
+Two Handed
+Name: Dragonfury
+Level: 51 (100% Quality)
+Utility: 105
+Source Type: Loot
+1. (Stat) Strength: +30
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Bonus) Armor Factor: +10
+8. (Skill) All Melee Skills: +5
+9. (Bonus) Melee Damage: +4
+10. (Stat Cap) Cap Strength: +10
+
+
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 92.25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Nosdoden Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Jewel of the Haughty Warrior
+Level: 51 (100% Quality)
+Utility: 118
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +9%
+3. (Bonus) Melee Speed: +3
+4. (Skill) All Melee Skills: +4
+5. (Bonus) Melee Damage: +3
+6. (Bonus) Fatigue: +5
+7. (Bonus) Style Damage: +3
+8. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: 
+Level: 51 (99% Quality)
+Utility: 109.75
+Source Type: ROG
+1. (Resist) Thrust: +13%
+2. (Resist) Spirit: +14%
+3. (H.P.) Hit Points: +111
+4. (Bonus) Debuff: +14
+
+
+R. Ring
+Name: 
+Level: 51 (99% Quality)
+Utility: 122
+Source Type: ROG
+1. (Bonus) Debuff: +13
+2. (Resist) Energy: +14%
+3. (Resist) Cold: +12%
+4. (Bonus) Healing: +13
+5. (Stat Cap) Cap Constitution: +9
+
+
+L. Wrist
+Name: Bracer of Arawn
+Level: 51 (100% Quality)
+Utility: 77
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Crush: +6%
+3. (Resist) Heat: +7%
+4. (Resist) Matter: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Spirit: +7%
+7. (Bonus) Armor Factor: +1
+
+
+R. Wrist
+Name: 
+Level: 51 (99% Quality)
+Utility: 116
+Source Type: ROG
+1. (Resist) Cold: +11%
+2. (Resist) Body: +14%
+3. (Resist) Matter: +14%
+4. (Resist) Thrust: +9%
+5. (Skill) Parry: +4
+
+
+Mythical
+Name: Deserter Mighty Mythirian
+Level: 51 (100% Quality)
+Utility: 30.66
+Source Type: Loot
+1. (Stat) Strength: +5
+2. (Stat) Quickness: +5
+3. (Bonus) Endurance Regen: +2
+4. (Myth. Cap) Cap Strength: +5
+5. (Myth. Cap) Cap Quickness: +5
