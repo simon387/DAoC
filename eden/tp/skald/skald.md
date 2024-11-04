@@ -1,4 +1,4 @@
-Helmet
+Helmet Dragonsworn Marked Starkakedja
 Imbue Points: 37 of 37,5
 1. (Stat) Charisma: +28 [(Perfect) Icy Essence Jewel]
 2. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
@@ -6,7 +6,7 @@ Imbue Points: 37 of 37,5
 4. (Resist) Crush: +3% [(Rough) Fiery Shielding Jewel]
 5. (Stat) Constitution: +15 [(?) Earthen Essence Jewel]
 
-Hands
+Hands +15 dex Dragonsworn Bound Starkakedja
 Imbue Points: 37,5 of 37,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
@@ -14,7 +14,7 @@ Imbue Points: 37,5 of 37,5
 4. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
 5. (Bonus) Buff: +5 [(Raw) Not Found]
 
-Feet
+Feet Dragonsworn Scribed Starkakedja
 Imbue Points: 37,5 of 37,5
 1. (Resist) Spirit: +13% [(Precious) Vapor Shielding Jewel]
 2. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
