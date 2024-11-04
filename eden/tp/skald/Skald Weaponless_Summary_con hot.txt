@@ -1,0 +1,315 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 10:36 PM on ott 30, 2024
+Version: 1.1.015
+
+Character Summary for Skald Weaponless(Level 50) - Skald
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+106 / 101  Strength
+87 / 93  Constitution
+48 / 101  Dexterity
+73 / 86  Quickness
+76 / 80  Charisma
+380 / 400  Hit Points
+
+Bonuses
+Buff: 5%
+Melee Speed: 9%
+Melee Damage: 10%
+Casting Speed: 6%
+Spell Damage: 8%
+Spell Range: 2%
+Healing: 10%
+Style Damage: 6%
+Armor Factor: 47%
+Resist Pierce: 5%
+
+Resists (Racials not included)
+24% Crush
+23% Slash
+24% Thrust
+24% Cold
+23% Energy
+25% Heat
+24% Matter
+26% Spirit
+23% Body
+
+Skills
+15 Axe
+15 Hammer
+15 Sword
+6 Battlesongs
+11 Parry
+
+
+Helmet
+Name: 
+Level: 51 (100% Quality)
+Utility: 71,34
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Charisma: +28 [(Perfect) Icy Essence Jewel]
+2. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+3. (Stat) Quickness: +25 [(Flawless) Airy Essence Jewel]
+4. (Resist) Crush: +3% [(Rough) Fiery Shielding Jewel]
+5. (Stat) Constitution: +15 [(?) Earthen Essence Jewel]
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 80
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+3. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+4. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+5. (Bonus) Buff: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Astral Hauberk of the Favored
+Level: 51 (100% Quality)
+Utility: 160
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +4
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Spell Damage: +4
+8. (Stat_Cap) Cap Strength: +8
+9. (Stat_Cap) Cap Dexterity: +8
+10. (Stat_Cap) Cap Constitution: +8
+
+
+Arms
+Name: Mail Sleeves of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 115
+Source Type: Loot
+1. (Resist) Cold: +5%
+2. (Resist) Crush: +8%
+3. (Resist) Heat: +5%
+4. (Resist) Slash: +8%
+5. (Resist) Thrust: +9%
+6. (Bonus) Melee Speed: +3
+7. (Skill) All Melee Skills: +3
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 65
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Spirit: +13% [(Precious) Vapor Shielding Jewel]
+2. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+3. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+4. (Stat) Acuity: +15 [(?) ]
+
+
+Legs
+Name: Astral Leggings of Fortification
+Level: 51 (100% Quality)
+Utility: 106,5
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Constitution: +18
+3. (Stat) Hit Points: +40
+4. (Bonus) Spell Range: +2
+5. (Bonus) Melee Damage: +2
+6. (Bonus) Healing: +10
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Frigid Soul Crusher
+Level: 51 (100% Quality)
+Utility: 83
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Quickness: +15
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Melee Damage: +4
+9. (Stat_Cap) Cap Strength: +10
+10. (Stat_Cap) Cap Quickness: +10
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 87,42
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: Dragonstorm
+Level: 51 (100% Quality)
+Utility: 112,5
+Source Type: Loot
+1. (Stat) Strength: +30
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Bonus) Armor Factor: +10
+8. (Skill) All Melee Skills: +5
+9. (Bonus) Melee Damage: +4
+10. (Stat_Cap) Cap Strength: +10
+
+
+Neck
+Name: Searing Fiend Necklace
+Level: 51 (100% Quality)
+Utility: 81,25
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Constitution: +15
+3. (Stat) Quickness: +15
+4. (Stat) Hit Points: +30
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Bonus) Armor Factor: +12
+8. (Stat_Cap) Cap Strength: +5
+9. (Stat_Cap) Cap Constitution: +5
+10. (Stat_Cap) Cap Quickness: +5
+
+
+Cloak
+Name: Nosdoden Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 103
+Source Type: Loot
+1. (Stat) Quickness: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Melee Speed: +2
+6. (Skill) All Dual Wield Skills: +2
+7. (Bonus) Style Damage: +2
+8. (Stat_Cap) Cap Strength: +6
+9. (Stat_Cap) Cap Quickness: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Ring of the Vaettir
+Level: 51 (100% Quality)
+Utility: 81,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Body: +4%
+4. (Resist) Energy: +4%
+5. (Resist) Matter: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+R Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 76
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+L Wrist
+Name: Gatekeeper Bracer of Oblivion
+Level: 51 (100% Quality)
+Utility: 87,42
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Skill) Parry: +3
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Strength: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+R Wrist
+Name: Dragonscale Bracelet
+Level: 51 (100% Quality)
+Utility: 111,75
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
