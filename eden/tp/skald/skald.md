@@ -26,12 +26,13 @@ Imbue Points: 37,5 of 37,5
 + Astral Hauberk of the Favored       900 Atlantean Glass
 + Astral Leggings of Fortification    800 Atlantean Glass
 + Mail Sleeves of Eternal Retribution 500 Grimoire Pages
-+ Basalt Buckler of Oblivion          
-+ Searing Fiend Necklace              
-+ Nosdoden Remnant Cloak              
-+ Searing Fiend Gem                   
-+ Soulbinder's Belt                   
-+ Ring of the Vaettir                 
-+ Director's Ring of Chaos            
-+ Gatekeeper Bracer of Oblivion       
-+ Dragonscale Bracelet                
++ Basalt Buckler of Oblivion          600 Daemon Blood Seals
++ Searing Fiend Necklace              600 Daemon Blood Seals
++ Searing Fiend Gem                   600 Daemon Blood Seals
++ Director's Ring of Chaos            500 Daemon Blood Seals
++ Gatekeeper Bracer of Oblivion       500 Daemon Blood Seals
++ Nosdoden Remnant Cloak              600 Tuscaran Glacier Ices
++ Ring of the Vaettir                 625 Tuscaran Glacier Ices
++ Soulbinder's Belt                   475 Dragon Scales
++ Dragonscale Bracelet                500 Dragon Scales
+
