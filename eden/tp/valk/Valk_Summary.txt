@@ -1,0 +1,331 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 03:12 PM on nov 06, 2024
+Version: 1.1.017
+
+Character Summary for Valk(Level 50) - Valkyrie
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+112 / 101  Strength
+85 / 86  Constitution
+78 / 101  Dexterity
+68 / 85  Quickness
+0 / 75  Intelligence
+65 / 88  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+305 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Healing: 20%
+Melee Speed: 7%
+Melee Damage: 13%
+Casting Speed: 10%
+Spell Damage: 10%
+Mana Regen: 10%
+Spell Range: 9%
+Style Damage: 6%
+Power Pool: 15%
+Arcane Siphon: 10%
+Spell Duration: 5%
+Armor Factor: 10%
+
+Resists (Racials not included)
+26% Crush
+25% Slash
+27% Thrust
+28% Cold
+24% Energy
+24% Heat
+27% Matter
+22% Spirit
+28% Body
+
+Skills
+19 Spear
+19 Sword
+3 Shield
+4 Parry
+13 Mending
+13 Odin's Will
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (99% Quality)
+Utility: 72
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+3. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+4. (Resist) Spirit: +2% [(Uncut) Vapor Shielding Jewel]
+5. (Stat) Quickness: +15 [(?) Airy Essence Jewel]
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 71,34
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+2. (Stat) Dexterity: +25 [(Flawless) Vapor Essence Jewel]
+3. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
+4. (Stat) Quickness: +25 [(Flawless) Airy Essence Jewel]
+5. (Bonus) Healing: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Astral Hauberk of the Favored
+Level: 51 (100% Quality)
+Utility: 160
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +4
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Spell Damage: +4
+8. (Stat_Cap) Cap Strength: +8
+9. (Stat_Cap) Cap Dexterity: +8
+10. (Stat_Cap) Cap Constitution: +8
+
+
+Arms
+Name: Infernal Starkakedja Sleeves
+Level: 51 (100% Quality)
+Utility: 73,84
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +16
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +16
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Healing: +5
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 66,34
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+2. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+3. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+4. (Stat) Constitution: +7 [(Rough) Earthen Essence Jewel]
+5. (Stat) Piety: +15 [(?) Watery Essence Jewel]
+
+
+Legs
+Name: Astral Leggings of Fortification
+Level: 51 (100% Quality)
+Utility: 106,5
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Constitution: +18
+3. (Stat) Hit Points: +40
+4. (Bonus) Spell Range: +2
+5. (Bonus) Melee Damage: +2
+6. (Bonus) Healing: +10
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Fine Steel Long Sword
+Level: 51 (100% Quality)
+Utility: 95
+Source Type: Loot
+Special 1:  1:00 min
+Special 2:  Heat
+1. (Stat) Strength: +15
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +5
+8. (Bonus) Melee Damage: +4
+9. (Stat_Cap) Cap Strength: +10
+10. (Stat_Cap) Cap Quickness: +10
+
+
+Left Hand
+Name: Buckler of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 106,84
+Source Type: Loot
+Special 2:  Spirit
+1. (Stat) Strength: +22
+2. (Stat) Dexterity: +22
+3. (Skill) Shield: +3
+4. (Bonus) Melee Speed: +3
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +3
+7. (Stat_Cap) Cap Strength: +5
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Soulbound Necklace
+Level: 51 (100% Quality)
+Utility: 104,17
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Resist) Body: +6%
+3. (Resist) Energy: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Stat) Acuity: +19
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +3
+9. (Stat_Cap) Cap Acuity: +3
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 120
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Tentacle Ring
+Level: 51 (100% Quality)
+Utility: 111,75
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+R Ring
+Name: Slime Coated Ring
+Level: 51 (100% Quality)
+Utility: 81,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+L Wrist
+Name: 
+Level: 51 (99% Quality)
+Utility: 116
+Source Type: Loot
+1. (Resist) Cold: +11%
+2. (Resist) Body: +14%
+3. (Resist) Thrust: +9%
+4. (Resist) Matter: +14%
+5. (Skill) Parry: +4
+
+
+R Wrist
+Name: Dragonscale Bracelet
+Level: 51 (100% Quality)
+Utility: 111,75
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
