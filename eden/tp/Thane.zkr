@@ -1,0 +1,1522 @@
+<?xml version="1.0"?>
+<RemasteredTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerName>Thane</playerName>
+  <realm>Midgard</realm>
+  <className>Thane</className>
+  <race>Dwarf</race>
+  <level>50</level>
+  <items>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedSlot>Helmet</allowedSlot>
+      <currencyAmount>0</currencyAmount>
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId />
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>25</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Piety</bonusAttribute>
+          <bonusAmount>19</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Quickness</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+      </spellcraftBonusStats>
+      <weaponSpeed>0</weaponSpeed>
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedSlot>Hands</allowedSlot>
+      <currencyAmount>0</currencyAmount>
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId />
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>25</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Piety</bonusAttribute>
+          <bonusAmount>28</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>Stormcalling</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+      </spellcraftBonusStats>
+      <weaponSpeed>0</weaponSpeed>
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Torso</allowedSlot>
+      <itemName>Astral Hauberk of the Favored</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:20 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>2e81ec6vf</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>21</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Speed</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Melee Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Damage</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Strength</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Constitution</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <armorType>Chainmail</armorType>
+      <weaponType>Crush</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedSlot>Arms</allowedSlot>
+      <currencyAmount>0</currencyAmount>
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId />
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Quickness</bonusAttribute>
+          <bonusAmount>28</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Piety</bonusAttribute>
+          <bonusAmount>19</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </spellcraftBonusStats>
+      <weaponSpeed>0</weaponSpeed>
+      <chargeProc />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedSlot>Feet</allowedSlot>
+      <currencyAmount>0</currencyAmount>
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId />
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Quickness</bonusAttribute>
+          <bonusAmount>28</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>68</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+      </spellcraftBonusStats>
+      <weaponSpeed>0</weaponSpeed>
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Legs</allowedSlot>
+      <itemName>Astral Leggings of Fortification</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:20 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>0kfqv0s2u</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Healing</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Style Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <armorType>Chainmail</armorType>
+      <weaponType>Crush</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Right_Hand</allowedSlot>
+      <itemName>Fine Steel Long Sword</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:20 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>z7ghjybth</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Melee Skills</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Damage</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Strength</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Quickness</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Slash</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>4.2</weaponSpeed>
+      <chargeProc> 1:00 min</chargeProc>
+      <chargeProc2> Heat</chargeProc2>
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Left_Hand</allowedSlot>
+      <itemName>Bewitched Draconic Shield</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:21 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>vipt7dnnf</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>Shield</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Speed</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Melee Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Strength</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Large Shield</additionalWeaponFilter>
+      <weaponSpeed>3</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Two_Handed</allowedSlot>
+      <itemName />
+      <itemNotes />
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <stats />
+      <spellcraftBonusStats />
+      <armorType />
+      <weaponType />
+      <additionalWeaponFilter />
+      <weaponSpeed>0</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Ranged</allowedSlot>
+      <itemName />
+      <itemNotes />
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <stats />
+      <spellcraftBonusStats />
+      <armorType />
+      <weaponType />
+      <additionalWeaponFilter />
+      <weaponSpeed>0</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Neck</allowedSlot>
+      <itemName>Dragonseye Strand</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:21 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>qwp5versk</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>30</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Resist Pierce</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>35</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Cloak</allowedSlot>
+      <itemName>Cape of Legerdemain</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:21 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>zi7rfms16</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>21</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>9</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Arcane Siphon</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Jewelry</allowedSlot>
+      <itemName>Sulphurous Fiend Gem</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:22 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>zx3yym9wz</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Debuff</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Duration</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Constitution</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Waist</allowedSlot>
+      <itemName>Soulbinder's Belt</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:22 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>hb3ak7s5n</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>35</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>L_Ring</allowedSlot>
+      <itemName>Director's Ring of Anarchy</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:22 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>pw8j9jk5o</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>30</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>R_Ring</allowedSlot>
+      <itemName>Ring of the Torrent</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:22 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>psxpv9bhv</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>11</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>L_Wrist</allowedSlot>
+      <itemName>Bracer of Arawn</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:23 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>jhmyf4dnu</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>R_Wrist</allowedSlot>
+      <itemName>Dragontooth Bracelet</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:23 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>o28yliflc</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>50</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat_Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>50</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedSlot>Mythical</allowedSlot>
+      <itemName>Deserter Arcane Mythirian</itemName>
+      <itemNotes>Imported from Eden Database on Nov 10, 2024 02:23 pm</itemNotes>
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>100</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId>8y5noy8b2</vaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Mana Regen</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Mythical</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+      </stats>
+      <spellcraftBonusStats />
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedSlot>Bonuses</allowedSlot>
+      <itemName />
+      <itemNotes />
+      <currencyAmount>0</currencyAmount>
+      <currencyType />
+      <level>51</level>
+      <quality>99</quality>
+      <itemAcquired>false</itemAcquired>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <AT_numGems>4</AT_numGems>
+      <vaultItemId />
+      <stats />
+      <spellcraftBonusStats />
+      <armorType />
+      <weaponType />
+      <additionalWeaponFilter />
+      <weaponSpeed>0</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <allowedClasses />
+    </Item>
+  </items>
+  <currentSwapWeapon>A</currentSwapWeapon>
+  <swapWeapons>
+    <SwapItemsInfo>
+      <swapOutfitLetter>B</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Loot</sourceType>
+          <allowedSlot>Right_Hand</allowedSlot>
+          <itemName>Gjalpinulva's Claw</itemName>
+          <itemNotes>Imported from Eden Database on Nov 10, 2024 03:26 pm</itemNotes>
+          <currencyAmount>0</currencyAmount>
+          <currencyType />
+          <level>51</level>
+          <quality>100</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId>dy9judpi0</vaultItemId>
+          <stats>
+            <StatEntry>
+              <bonusType>Stat</bonusType>
+              <bonusAttribute>Strength</bonusAttribute>
+              <bonusAmount>15</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Body</bonusAttribute>
+              <bonusAmount>1</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Cold</bonusAttribute>
+              <bonusAmount>1</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Crush</bonusAttribute>
+              <bonusAmount>1</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Slash</bonusAttribute>
+              <bonusAmount>1</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Thrust</bonusAttribute>
+              <bonusAmount>1</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Resist Pierce</bonusAttribute>
+              <bonusAmount>5</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Stat_Cap</bonusType>
+              <bonusAttribute>Cap Strength</bonusAttribute>
+              <bonusAmount>10</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Stat_Cap</bonusType>
+              <bonusAttribute>Cap Dexterity</bonusAttribute>
+              <bonusAmount>10</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Arcane Siphon</bonusAttribute>
+              <bonusAmount>10</bonusAmount>
+            </StatEntry>
+          </stats>
+          <spellcraftBonusStats />
+          <weaponType>Slash</weaponType>
+          <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+          <weaponSpeed>4.2</weaponSpeed>
+          <chargeProc />
+          <chargeProc2> 30s</chargeProc2>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Loot</sourceType>
+          <allowedSlot>Left_Hand</allowedSlot>
+          <itemName>Basalt Buckler of Oblivion</itemName>
+          <itemNotes>Imported from Eden Database on Nov 10, 2024 03:52 pm</itemNotes>
+          <currencyAmount>0</currencyAmount>
+          <currencyType />
+          <level>51</level>
+          <quality>100</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId>u3tmlcwnh</vaultItemId>
+          <stats>
+            <StatEntry>
+              <bonusType>Stat</bonusType>
+              <bonusAttribute>Dexterity</bonusAttribute>
+              <bonusAmount>16</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Crush</bonusAttribute>
+              <bonusAmount>4</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Slash</bonusAttribute>
+              <bonusAmount>4</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Resist</bonusType>
+              <bonusAttribute>Thrust</bonusAttribute>
+              <bonusAmount>4</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Armor Factor</bonusAttribute>
+              <bonusAmount>10</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Spell Range</bonusAttribute>
+              <bonusAmount>4</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Healing</bonusAttribute>
+              <bonusAmount>5</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Bonus</bonusType>
+              <bonusAttribute>Power Pool</bonusAttribute>
+              <bonusAmount>5</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Stat_Cap</bonusType>
+              <bonusAttribute>Cap Dexterity</bonusAttribute>
+              <bonusAmount>6</bonusAmount>
+            </StatEntry>
+            <StatEntry>
+              <bonusType>Stat_Cap</bonusType>
+              <bonusAttribute>Cap Acuity</bonusAttribute>
+              <bonusAmount>5</bonusAmount>
+            </StatEntry>
+          </stats>
+          <spellcraftBonusStats />
+          <weaponType>Crush</weaponType>
+          <additionalWeaponFilter>Small Shield</additionalWeaponFilter>
+          <weaponSpeed>2.8</weaponSpeed>
+          <chargeProc />
+          <chargeProc2 />
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Two_Handed</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Ranged</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>C</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Right_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Left_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Two_Handed</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Ranged</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>D</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Right_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Left_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Two_Handed</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Ranged</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>E</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Right_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Left_Hand</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Two_Handed</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedSlot>Ranged</allowedSlot>
+          <currencyAmount>0</currencyAmount>
+          <level>51</level>
+          <quality>99</quality>
+          <itemAcquired>false</itemAcquired>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <AT_numGems>4</AT_numGems>
+          <vaultItemId />
+          <stats />
+          <spellcraftBonusStats />
+          <weaponSpeed>0</weaponSpeed>
+          <allowedClasses />
+        </Item>
+      </items>
+    </SwapItemsInfo>
+  </swapWeapons>
+  <lastSaved>2024-11-10T17:06:30.4120748+00:00</lastSaved>
+  <templateID>h2jbxcs3yryi1rb</templateID>
+  <saveIteration>149</saveIteration>
+  <selectedWeaponType>Right_Hand</selectedWeaponType>
+  <serverConfigName>Eden</serverConfigName>
+  <AutoTemplate_StatOrder />
+  <AutoTemplate_DisabledStats />
+  <disabledQuickbarSlots />
+  <ROGifyStatWeights />
+  <ROGifyDisabledSlots />
+  <ROGifySelectedVaultIds_Torso />
+  <ROGifySelectedVaultIds_Helmet />
+  <ROGifySelectedVaultIds_Arms />
+  <ROGifySelectedVaultIds_Hands />
+  <ROGifySelectedVaultIds_Legs />
+  <ROGifySelectedVaultIds_Feet />
+  <ROGifySelectedVaultIds_Waist />
+  <ROGifySelectedVaultIds_Jewelry />
+  <ROGifySelectedVaultIds_Ring />
+  <ROGifySelectedVaultIds_Wrist />
+  <ROGifySelectedVaultIds_Cloak />
+  <ROGifySelectedVaultIds_Neck />
+  <ROGifySelectedVaultIds_Mythical />
+  <ROGifySelectedVaultIds_RightHand />
+  <ROGifySelectedVaultIds_LeftHand />
+  <ROGifySelectedVaultIds_TwoHanded />
+  <ROGifySelectedVaultIds_Ranged />
+</RemasteredTemplate>

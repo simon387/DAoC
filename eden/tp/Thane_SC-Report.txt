@@ -1,0 +1,90 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 05:06 pm on Nov 10, 2024
+Version: 1.1.019
+
+Spellcraft Report for Thane - Thane
+
+Helmet:
+Imbue Points: 37 of 37.5  (Quality: 99)
+Gem 1: (Flawless) Vapor Essence Jewel
+        (Stat) Dexterity: +25
+
+Gem 2: (Faceted) Watery Essence Jewel
+        (Stat) Piety: +19
+
+Gem 3: (Precious) Fiery Essence Jewel
+        (Stat) Strength: +22
+
+Gem 4: (Imperfect) Light Shielding Jewel
+        (Resist) Energy: +7%
+
+
+Hands:
+Imbue Points: 36 of 37.5  (Quality: 99)
+Gem 1: (Flawless) Fiery Essence Jewel
+        (Stat) Strength: +25
+
+Gem 2: (Perfect) Watery Essence Jewel
+        (Stat) Piety: +28
+
+Gem 3: (Imperfect) Earthen Shielding Jewel
+        (Resist) Matter: +7%
+
+Gem 4: (Uncut) Fiery Primal Rune
+        (Skill) Stormcalling: +2
+
+
+Arms:
+Imbue Points: 35.5 of 37.5  (Quality: 99)
+Gem 1: (Perfect) Airy Essence Jewel
+        (Stat) Quickness: +28
+
+Gem 2: (Faceted) Watery Essence Jewel
+        (Stat) Piety: +19
+
+Gem 3: (Imperfect) Dusty Shielding Jewel
+        (Resist) Body: +7%
+
+Gem 4: (Flawed) Watery Shielding Jewel
+        (Resist) Slash: +5%
+
+
+Feet:
+Imbue Points: 37.5 of 37.5  (Quality: 99)
+Gem 1: (Perfect) Airy Essence Jewel
+        (Stat) Quickness: +28
+
+Gem 2: (Imperfect) Icy Shielding Jewel
+        (Resist) Cold: +7%
+
+Gem 3: (Flawed) Light Shielding Jewel
+        (Resist) Energy: +5%
+
+Gem 4: (Flawless) Blood Essence Jewel
+        (Stat) Hit Points: +68
+
+
+
+Skill needed for craft: 0
+
+
+
+Gems: 16
+
+(Flawless) Vapor Essence Jewel
+(Faceted) Watery Essence Jewel
+(Precious) Fiery Essence Jewel
+(Imperfect) Light Shielding Jewel
+(Flawless) Fiery Essence Jewel
+(Perfect) Watery Essence Jewel
+(Imperfect) Earthen Shielding Jewel
+(Uncut) Fiery Primal Rune
+(Perfect) Airy Essence Jewel
+(Faceted) Watery Essence Jewel
+(Imperfect) Dusty Shielding Jewel
+(Flawed) Watery Shielding Jewel
+(Perfect) Airy Essence Jewel
+(Imperfect) Icy Shielding Jewel
+(Flawed) Light Shielding Jewel
+(Flawless) Blood Essence Jewel
