@@ -14,16 +14,16 @@ Imbue Points: 36 of 37,5
 4. (Stat) Charisma: +22 [(Precious) Icy Essence Jewel]
 5. (Stat_Cap) Cap Dexterity: +5 [(Raw) Not Found]
 
-+ Timeless Indigo Mail
-+ Fire-Scored Sleeves
-+ Saliva-Flecked Sabatons
-+ Astral Leggings of Fortification
-+ Upsilon Harp
-+ Dragonseye Strand
-+ Cloak of Heavenly Bodies
-+ Sulphurous Fiend Gem
-+ Soulbinder's Belt
-+ Ring of Granite Enhancement
-+ Ring of Granite Enhancement
-+ Dragonforged Bracelet
-+ Stonewatch Bracer
++ Timeless Indigo Mail             
++ Fire-Scored Sleeves              
++ Saliva-Flecked Sabatons          
++ Astral Leggings of Fortification 
++ Upsilon Harp                     
++ Dragonseye Strand                
++ Cloak of Heavenly Bodies         
++ Sulphurous Fiend Gem             
++ Soulbinder's Belt                
++ Ring of Granite Enhancement      
++ Ring of Granite Enhancement      
++ Dragonforged Bracelet            
++ Stonewatch Bracer                
