@@ -28,3 +28,8 @@ Imbue Points: 36 of 37,5
 + Sulphurous Fiend Gem             600 Daemon Blood Seals
 + Upsilon Harp
 
++ Dragon Scales      2300
++ Grimoire Pages     1200
++ Atlantean Glass    1400
++ Caer Sidi Souls    1250
++ Daemon Blood Seals  600
