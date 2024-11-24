@@ -1,4 +1,4 @@
-Helmet
+Helmet: sigil enscrolled mail
 Imbue Points: 36 of 37,5
 1. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
 2. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
@@ -6,7 +6,7 @@ Imbue Points: 36 of 37,5
 4. (Skill) Insturments: +1 [(Raw) Vapor Fervor Sigil]
 5. (Stat_Cap) Cap Acuity: +5
 
-Hands
+Hands: sigil enchanted mail
 Imbue Points: 36 of 37,5
 1. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
 2. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
