@@ -74,9 +74,11 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + https://discord.com/channels/1281895088456335360/1281895088456335364/1287864529329586207
 + https://eden-daoc.net/herald?n=top_lwrp&c=hunter
 
-## todos
+## legenday crandmaster artisan
 
-+ qbinds
-+ respec hunter
-+ reinstalla tastiera
-
++ 1049 sc
++ 1080 fletching
++ 1080 waapon
++ 1100 alc
++ 1100 armor
++ 1100 tayloring
