@@ -74,11 +74,11 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + https://discord.com/channels/1281895088456335360/1281895088456335364/1287864529329586207
 + https://eden-daoc.net/herald?n=top_lwrp&c=hunter
 
-## legenday crandmaster artisan
+## legendary grandmaster artisan
 
 + 1049 sc
 + 1080 fletching
 + 1080 waapon
 + 1100 alc
 + 1100 armor
-+ 1100 tayloring
++ 1100 tailoring
