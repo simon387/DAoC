@@ -78,7 +78,7 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 
 + 1049 sc
 + 1080 fletching
-+ 1080 waapon
++ 1080 weapon
 + 1100 alc
 + 1100 armor
 + 1100 tailoring
