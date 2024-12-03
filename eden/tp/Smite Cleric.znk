@@ -1,0 +1,1627 @@
+<?xml version="1.0"?>
+<PlayerSaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <playerName>Smite Cleric</playerName>
+  <realm>Albion</realm>
+  <className>Cleric</className>
+  <race>Briton</race>
+  <level>50</level>
+  <items>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedPosition>Helmet</allowedPosition>
+      <itemName>Sigil Enchanted Mail (Stygia)	</itemName>
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>9</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>60</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>9</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedPosition>Hands</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Power</bonusType>
+          <bonusAttribute>Power</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Torso</allowedPosition>
+      <itemName>Celestial Warchain Hauberk</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>qW56tARP</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>60</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <armorType>Chainmail</armorType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses>Cleric</eligibleClasses>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedPosition>Arms</allowedPosition>
+      <itemName>Sigil Enchanted Mail (Stygia)	</itemName>
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>60</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>11</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Feet</allowedPosition>
+      <itemName>Saliva-Flecked Sabatons</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>pjWWxvxc</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Duration</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <armorType>Chainmail</armorType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Legs</allowedPosition>
+      <itemName>Astral Leggings of Fortification</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>esmXv4nc</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Strength</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Melee Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Healing</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Style Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </stats>
+      <armorType>Chainmail</armorType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Right Hand</allowedPosition>
+      <itemName>Cleric Dextera Mace</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>L6RvUHs6</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Healing</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus Cap</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Crush</weaponType>
+      <additionalWeaponFilter>Main Hand</additionalWeaponFilter>
+      <weaponSpeed>4.2</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses>Cleric</eligibleClasses>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Left Hand</allowedPosition>
+      <itemName>Basalt Buckler of Oblivion</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>i4uVbdXw</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>16</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Range</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Healing</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Shields</weaponType>
+      <additionalWeaponFilter>Small</additionalWeaponFilter>
+      <weaponSpeed>2.8</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedPosition>Two Handed</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Spellcraft</sourceType>
+      <allowedPosition>Ranged</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Neck</allowedPosition>
+      <itemName>Dragonseye Strand</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>klDJu3KQ</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>30</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>4</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Resist Pierce</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>35</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Cloak</allowedPosition>
+      <itemName>Xanxicar Remnant Cloak</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>50</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>3c32Ek9U</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>1</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Resist Pierce</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc>HoT</chargeProc>
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Jewelry</allowedPosition>
+      <itemName>Sulphurous Fiend Gem</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>fZUKxSVZ</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Constitution</bonusAttribute>
+          <bonusAmount>18</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Debuff</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Duration</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Constitution</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc>acuity buff</chargeProc>
+      <chargeProc2>abla</chargeProc2>
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Waist</allowedPosition>
+      <itemName>Sulphurous Fiend Belt</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>6pauWA1K</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>30</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>7</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>12</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Casting Speed</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Power Pool</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Damage</bonusAttribute>
+          <bonusAmount>2</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Power</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc>power regen</chargeProc>
+      <chargeProc2>abla</chargeProc2>
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>L. Ring</allowedPosition>
+      <itemName>Ring of Granite Enhancement</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>QdoRYreF</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>50</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Cold</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Melee Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>50</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>R. Ring</allowedPosition>
+      <itemName>Director's Ring of Anarchy</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>PGnkKYiP</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>H.P.</bonusType>
+          <bonusAttribute>Hit Points</bonusAttribute>
+          <bonusAmount>30</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Heat</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Spirit</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Armor Factor</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>L. Wrist</allowedPosition>
+      <itemName>Bodybender Supreme Bracer</itemName>
+      <itemNotes>. [ Albion ] Sherborne 1547. Price: 6p</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>13</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Spell Duration</bonusAttribute>
+          <bonusAmount>14</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>17</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Energy</bonusAttribute>
+          <bonusAmount>14</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Quickness</bonusAttribute>
+          <bonusAmount>12</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Buff</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>0</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>R. Wrist</allowedPosition>
+      <itemName>Stonewatch Bracer</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>VMT4ZNlu</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Body</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Crush</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Matter</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Slash</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Resist</bonusType>
+          <bonusAttribute>Thrust</bonusAttribute>
+          <bonusAmount>6</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Acuity</bonusAttribute>
+          <bonusAmount>22</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Skill</bonusType>
+          <bonusAttribute>All Magic Skills</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Acuity</bonusAttribute>
+          <bonusAmount>3</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>Loot</sourceType>
+      <allowedPosition>Mythical</allowedPosition>
+      <itemName>Deserter Arcane Mythirian</itemName>
+      <itemNotes>Imported from Eden Database</itemNotes>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>100</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <assignedVaultItemId>QVnlUF2D</assignedVaultItemId>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Bonus</bonusType>
+          <bonusAttribute>Mana Regen</bonusAttribute>
+          <bonusAmount>10</bonusAmount>
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Myth. Cap</bonusType>
+          <bonusAttribute>Cap Dexterity</bonusAttribute>
+          <bonusAmount>8</bonusAmount>
+        </StatEntry>
+      </stats>
+      <weaponType>Main Hand</weaponType>
+      <weaponSpeed>5</weaponSpeed>
+      <chargeProc />
+      <chargeProc2 />
+      <eligibleClasses />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Torso Bonuses</allowedPosition>
+      <itemName />
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Arms Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Hit Points</bonusAttribute>
+          <bonusAmount>40</bonusAmount>
+          <bonusDescription />
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Legs Bonuses</allowedPosition>
+      <itemName />
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Feet Bonuses</allowedPosition>
+      <itemName />
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Hands Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat</bonusType>
+          <bonusAttribute>Dexterity</bonusAttribute>
+          <bonusAmount>15</bonusAmount>
+          <bonusDescription />
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Helmet Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Stat Cap</bonusType>
+          <bonusAttribute>Cap Constitution</bonusAttribute>
+          <bonusAmount>5</bonusAmount>
+          <bonusDescription />
+        </StatEntry>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Right Hand Bonuses</allowedPosition>
+      <itemName />
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Left Hand Bonuses</allowedPosition>
+      <itemName />
+      <itemNotes />
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats>
+        <StatEntry>
+          <bonusType>Unused</bonusType>
+          <bonusAmount>0</bonusAmount>
+        </StatEntry>
+      </stats>
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Two Handed Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+    <Item>
+      <sourceType>ROG</sourceType>
+      <allowedPosition>Ranged Bonuses</allowedPosition>
+      <numAtlasOrbs>0</numAtlasOrbs>
+      <level>51</level>
+      <quality>99</quality>
+      <itemEnabled>true</itemEnabled>
+      <AT_itemIncluded>true</AT_itemIncluded>
+      <stats />
+      <offhandUsable>false</offhandUsable>
+    </Item>
+  </items>
+  <currentSwapWeapon>A</currentSwapWeapon>
+  <swapWeapons>
+    <SwapItemsInfo>
+      <swapOutfitLetter>B</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Right Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Left Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Two Handed</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Ranged</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Right Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Left Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Two Handed Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Ranged Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>C</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Right Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Left Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Two Handed</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Ranged</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Right Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Left Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Two Handed Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Ranged Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>D</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Right Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Left Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Two Handed</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Ranged</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Right Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Left Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Two Handed Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Ranged Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+      </items>
+    </SwapItemsInfo>
+    <SwapItemsInfo>
+      <swapOutfitLetter>E</swapOutfitLetter>
+      <items>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Right Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Left Hand</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Two Handed</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>Spellcraft</sourceType>
+          <allowedPosition>Ranged</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Right Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Left Hand Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Two Handed Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+        <Item>
+          <sourceType>ROG</sourceType>
+          <allowedPosition>Ranged Bonuses</allowedPosition>
+          <numAtlasOrbs>0</numAtlasOrbs>
+          <level>51</level>
+          <quality>99</quality>
+          <itemEnabled>true</itemEnabled>
+          <AT_itemIncluded>true</AT_itemIncluded>
+          <stats />
+          <offhandUsable>false</offhandUsable>
+        </Item>
+      </items>
+    </SwapItemsInfo>
+  </swapWeapons>
+  <lastSaveTime>10:22 am</lastSaveTime>
+  <lastSaveDate>Dec 02, 2024</lastSaveDate>
+  <profileID>h9htjqk6j5</profileID>
+  <SF_TemplateID>121456828</SF_TemplateID>
+  <selectedWeaponType>Right Hand</selectedWeaponType>
+  <freeshard>Eden</freeshard>
+  <AutoTemplate_StatOrder>
+    <StatEntry>
+      <bonusType>Power</bonusType>
+      <bonusAttribute>Power</bonusAttribute>
+      <bonusAmount>17</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Smite</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Enhancement</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Rejuvenation</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Stat</bonusType>
+      <bonusAttribute>Quickness</bonusAttribute>
+      <bonusAmount>63</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Stat</bonusType>
+      <bonusAttribute>Strength</bonusAttribute>
+      <bonusAmount>57</bonusAmount>
+    </StatEntry>
+  </AutoTemplate_StatOrder>
+  <AutoTemplate_DisabledStats>
+    <StatEntry>
+      <bonusType>Stat</bonusType>
+      <bonusAttribute>Strength</bonusAttribute>
+      <bonusAmount>57</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Stat</bonusType>
+      <bonusAttribute>Quickness</bonusAttribute>
+      <bonusAmount>63</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Rejuvenation</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Enhancement</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+    <StatEntry>
+      <bonusType>Skill</bonusType>
+      <bonusAttribute>Smite</bonusAttribute>
+      <bonusAmount>2</bonusAmount>
+    </StatEntry>
+  </AutoTemplate_DisabledStats>
+</PlayerSaveData>
