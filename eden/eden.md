@@ -40,10 +40,6 @@
 + `/recorder start`
 + `/items build`
 
-## housing alb
-
-+ 1251 old sarum
-
 ## How to speed up DAoC load times:
 
 + Press the Windows key and type "Windows Security" then select it
@@ -64,7 +60,7 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + pre drago: 45
 + mini: 48
 
-## linkss
+## links
 
 + https://eden.leryk.ovh/alchemy-leveling/
 + https://apothecary.daoc-sites.info/reference_reactives.php
@@ -82,3 +78,11 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + 1100 alc
 + 1100 armor
 + 1100 tailoring
+
+## ?
+
+250gold se li vendi
+
++ bracer of sudden finality
++ ring of the claimed
++ belt of consumed souls
