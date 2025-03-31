@@ -295,17 +295,3 @@ Source Type: Loot
 6. (Stat) Acuity: +22
 7. (Skill) All Magic Skills: +3
 8. (Stat_Cap) Cap Acuity: +3
-
-
-Mythical
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
