@@ -14,6 +14,7 @@ xcopy /y /s /e "%srcDir%" "%toDir%"
 
 echo Copy Done.
 
+git pull
 git add .
 git commit -m "back up"
 git push
