@@ -185,7 +185,7 @@ shift00=0
 key00=17
 usemmo=1
 [main]
-EffectsFlag=0
+EffectsFlag=2
 mouselooklock=0
 cameraheight=10
 cameradistance=700
@@ -204,7 +204,7 @@ fullscreen_windowed=1
 ui_scale=1000
 torchmode=0
 [performance]
-item8=0
+item8=2
 item2=0
 item10=1
 item7=0
@@ -217,7 +217,7 @@ item9=1
 [interface]
 item1=8
 [shadows]
-item2=2
+item2=4
 item1=0
 [water]
 item1=0
