@@ -185,7 +185,7 @@ shift00=0
 key00=17
 usemmo=1
 [main]
-EffectsFlag=2
+EffectsFlag=0
 mouselooklock=0
 cameraheight=10
 cameradistance=700
