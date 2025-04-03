@@ -5,14 +5,9 @@ Character Summary for Bard
 Note: All items are included. Stats shown below reflect only currently equipped items.
 
 Stats
-0 / 75 Strength
 95 / 93 Constitution
 109 / 103 Dexterity
-0 / 75 Quickness
-0 / 75 Intelligence
-0 / 75 Piety
 103 / 103 Charisma
-0 / 75 Empathy
 406 / 400 Hit Points
 5 / 26 Power
 
@@ -22,7 +17,7 @@ Buff: 19%
 Healing: 24%
 Power Pool: 32%
 Spell Range: 12%
-Armor Factor: 54%
+Armor Factor: 54
 Arcane Siphon: 10%
 Spell Duration: 10%
 Spell Damage: 2%
@@ -39,14 +34,9 @@ Resists (Racials not included)
 27% Spirit
 
 Skills
-0 Blades
-0 Blunt
 12 Regrowth
 12 Nurture
 12 Music
-
-Items
-
 
 Helmet
 Name: Melodious Wreath
@@ -307,31 +297,12 @@ Source Type: Loot
 
 
 Arms Bonuses
-Name:
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Stat Cap) Cap Hit Points: +40
 
 
-Legs Bonuses
-Name:
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
 Feet Bonuses
-Name:
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Stat) Dexterity: +15
 
 
 Hands Bonuses
-Name:
-Level: 51 (99% Quality)
-Utility: 10
-Source Type: ROG
 1. (Bonus) Healing: +5
