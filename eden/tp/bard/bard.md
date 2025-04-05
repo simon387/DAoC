@@ -35,7 +35,7 @@ Imbue Points: 37,5 of 33,5
 + Sulphurous Fiend Belt        600 Daemon Blood Seals [done]
 + Director's Ring of Anarchy   500 Daemon Blood Seals [done]
 + Director's Ring of Bedlam    500 Daemon Blood Seals [done]
-+ Gatekeeper Bracer of Anarchy 500 Daemon Blood Seals [manca]
++ Gatekeeper Bracer of Anarchy 500 Daemon Blood Seals [done]
 + Tanned Wormhide Wrap         600 Daemon Blood Seals [done]
 + Dragon Intellect Mythirian   500 Galladoria Roots   [done]
 
