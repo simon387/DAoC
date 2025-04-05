@@ -40,8 +40,6 @@ Skills
 
 Helmet
 Name: Melodious Wreath
-Level: 51 (100% Quality)
-Utility: 96,66
 Source Type: Loot
 1. (Stat) Dexterity: +16
 2. (Stat) Constitution: +18
@@ -54,11 +52,7 @@ Source Type: Loot
 9. (Stat Cap) Cap Hit Points: +40
 
 
-Hands
-Name:
-Level: 51 (99% Quality)
-Utility: 61,66
-Source Type: Spellcraft
+Hands (Bonus) Healing: +5
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Body: +9% [(Polished) Dusty Shielding Jewel]
@@ -68,8 +62,6 @@ Imbue Points: 37,5 of 33,5
 
 Torso
 Name: Melodious Hauberk
-Level: 51 (100% Quality)
-Utility: 102
 Source Type: Loot
 1. (Stat) Charisma: +15
 2. (H.P.) Hit Points: +40
@@ -81,11 +73,7 @@ Source Type: Loot
 8. (Stat Cap) Cap Hit Points: +40
 
 
-Arms
-Name:
-Level: 51 (99% Quality)
-Utility: 65
-Source Type: Spellcraft
+Arms (Stat Cap) Cap Hit Points: +40
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
@@ -93,11 +81,7 @@ Imbue Points: 37,5 of 33,5
 4. (H.P.) Hit Points: +60 [(Precious) Blood Essence Jewel]
 
 
-Feet
-Name:
-Level: 51 (99% Quality)
-Utility: 55
-Source Type: Spellcraft
+Feet (Stat) Dexterity: +15
 Imbue Points: 36 of 33,5
 1. (Resist) Cold: +11% [(Faceted) Icy Shielding Jewel]
 2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
@@ -106,10 +90,6 @@ Imbue Points: 36 of 33,5
 
 
 Legs
-Name:
-Level: 51 (99% Quality)
-Utility: 60,66
-Source Type: Spellcraft
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
 2. (Resist) Crush: +11% [(Faceted) Fiery Shielding Jewel]
@@ -117,34 +97,8 @@ Imbue Points: 37,5 of 33,5
 4. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
 
 
-Right Hand
-Name:
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
-
-
-Left Hand
-Name:
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
-
-
-Two Handed
-Name:
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
-
-
 Ranged
 Name: Dirge of Sheeroe Hills
-Level: 51 (100% Quality)
-Utility: 100
 Source Type: Loot
 1. (Stat) Dexterity: +15
 2. (Resist) Crush: +1%
@@ -160,8 +114,6 @@ Source Type: Loot
 
 Neck
 Name: Sulphurous Fiend Necklace
-Level: 51 (100% Quality)
-Utility: 117,5
 Source Type: Loot
 1. (Stat) Dexterity: +15
 2. (H.P.) Hit Points: +30
@@ -177,8 +129,6 @@ Source Type: Loot
 
 Cloak
 Name: Cape of Legerdemain
-Level: 51 (100% Quality)
-Utility: 148
 Source Type: Loot
 1. (Stat) Constitution: +21
 2. (Resist) Cold: +5%
@@ -192,8 +142,6 @@ Source Type: Loot
 
 Jewelry
 Name: Ensorcelled Mystic Gem
-Level: 51 (100% Quality)
-Utility: 120
 Source Type: Loot
 1. (H.P.) Hit Points: +50
 2. (Resist) Crush: +8%
@@ -206,8 +154,6 @@ Source Type: Loot
 
 Waist
 Name: Sulphurous Fiend Belt
-Level: 51 (100% Quality)
-Utility: 105,5
 Source Type: Loot
 1. (H.P.) Hit Points: +30
 2. (Resist) Cold: +7%
@@ -223,8 +169,6 @@ Source Type: Loot
 
 L. Ring
 Name: Director's Ring of Anarchy
-Level: 51 (100% Quality)
-Utility: 93,5
 Source Type: Loot
 1. (Stat) Dexterity: +15
 2. (H.P.) Hit Points: +30
@@ -239,8 +183,6 @@ Source Type: Loot
 
 R. Ring
 Name: Director's Ring of Bedlam
-Level: 51 (100% Quality)
-Utility: 93,5
 Source Type: Loot
 1. (Stat) Constitution: +15
 2. (H.P.) Hit Points: +30
@@ -255,8 +197,6 @@ Source Type: Loot
 
 L. Wrist
 Name: Gatekeeper Bracer of Anarchy
-Level: 51 (100% Quality)
-Utility: 111,16
 Source Type: Loot
 1. (Stat) Constitution: +22
 2. (H.P.) Hit Points: +60
@@ -271,8 +211,6 @@ Source Type: Loot
 
 R. Wrist
 Name: Tanned Wormhide Wrap
-Level: 51 (100% Quality)
-Utility: 78
 Source Type: Loot
 1. (Stat) Dexterity: +30
 2. (Resist) Energy: +8%
@@ -283,8 +221,6 @@ Source Type: Loot
 
 Mythical
 Name: Dragon Intellect Mythirian
-Level: 51 (100% Quality)
-Utility: 39
 Source Type: Loot
 1. (Stat) Dexterity: +3
 2. (Stat) Constitution: +3
@@ -294,15 +230,3 @@ Source Type: Loot
 6. (Myth. Cap) Cap Dexterity: +3
 7. (Myth. Cap) Cap Acuity: +3
 8. (Bonus) Spell Duration: +5
-
-
-Arms Bonuses
-1. (Stat Cap) Cap Hit Points: +40
-
-
-Feet Bonuses
-1. (Stat) Dexterity: +15
-
-
-Hands Bonuses
-1. (Bonus) Healing: +5

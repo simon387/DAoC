@@ -26,7 +26,7 @@ Imbue Points: 36 of 37,5
 + Dragonseye Strand                625 Caer Sidi Souls
 + Dragonforged Bracelet            625 Caer Sidi Souls
 + Sulphurous Fiend Gem             600 Daemon Blood Seals
-+ Upsilon Harp                     CL5 oppure quest drago (che è pure meglio che ha le resist fisiche)
++ Upsilon Harp                     CL5 oppure quest drago (che e' pure meglio che ha le resist fisiche)
 
 + Dragon Scales      2300
 + Grimoire Pages     1200

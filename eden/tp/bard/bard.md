@@ -26,8 +26,8 @@ Imbue Points: 37,5 of 33,5
 3. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
 4. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
 
-+ Melodious Wreath             epic?
-+ Melodious Hauberk            epic?
++ Melodious Wreath             epic
++ Melodious Hauberk            epic
 + Dirge of Sheeroe Hills       250 Dragon Scales
 + Ensorcelled Mystic Gem       600 Grimoire Pages
 + Cape of Legerdemain          700 Grimoire Pages
