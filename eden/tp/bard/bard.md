@@ -28,9 +28,9 @@ Imbue Points: 37,5 of 33,5
 
 + Melodious Wreath             epic                   [done]
 + Melodious Hauberk            epic                   [done]
-+ Dirge of Sheeroe Hills       250 Dragon Scales      [le ho ma manca quest]
++ Dirge of Sheeroe Hills       250 Dragon Scales      [done]
 + Ensorcelled Mystic Gem       600 Grimoire Pages     [done]
-+ Cape of Legerdemain          700 Grimoire Pages     [manca]
++ Cape of Legerdemain          700 Grimoire Pages     [done]
 + Sulphurous Fiend Necklace    600 Daemon Blood Seals [done]
 + Sulphurous Fiend Belt        600 Daemon Blood Seals [done]
 + Director's Ring of Anarchy   500 Daemon Blood Seals [manca]
