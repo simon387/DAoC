@@ -26,18 +26,18 @@ Imbue Points: 37,5 of 33,5
 3. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
 4. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
 
-+ Melodious Wreath             epic
-+ Melodious Hauberk            epic
-+ Dirge of Sheeroe Hills       250 Dragon Scales
-+ Ensorcelled Mystic Gem       600 Grimoire Pages
-+ Cape of Legerdemain          700 Grimoire Pages
-+ Sulphurous Fiend Necklace    600 Daemon Blood Seals
-+ Sulphurous Fiend Belt        600 Daemon Blood Seals
-+ Director's Ring of Anarchy   500 Daemon Blood Seals
-+ Director's Ring of Bedlam    500 Daemon Blood Seals
-+ Gatekeeper Bracer of Anarchy 500 Daemon Blood Seals
-+ Tanned Wormhide Wrap         600 Daemon Blood Seals
-+ Dragon Intellect Mythirian   500 Galladoria Roots
++ Melodious Wreath             epic                   [done]
++ Melodious Hauberk            epic                   [done]
++ Dirge of Sheeroe Hills       250 Dragon Scales      [le ho ma manca quest]
++ Ensorcelled Mystic Gem       600 Grimoire Pages     [done]
++ Cape of Legerdemain          700 Grimoire Pages     [done]
++ Sulphurous Fiend Necklace    600 Daemon Blood Seals [done]
++ Sulphurous Fiend Belt        600 Daemon Blood Seals [done]
++ Director's Ring of Anarchy   500 Daemon Blood Seals [manca]
++ Director's Ring of Bedlam    500 Daemon Blood Seals [manca]
++ Gatekeeper Bracer of Anarchy 500 Daemon Blood Seals [manca]
++ Tanned Wormhide Wrap         600 Daemon Blood Seals [manca]
++ Dragon Intellect Mythirian   500 Galladoria Roots   [manca]
 
 + Dragon Scales                250
 + Grimoire Pages              1300
