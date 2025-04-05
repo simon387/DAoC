@@ -1,18 +1,18 @@
-Hands (Bonus) Healing: +5
+Hands (Bonus) Healing: +5 - Blazed Cailocht (Volc)
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Body: +9% [(Polished) Dusty Shielding Jewel]
 3. (Stat) Charisma: +25 [(Flawless) Icy Essence Jewel]
 4. (H.P.) Hit Points: +36 [(Imperfect) Blood Essence Jewel]
 
-Arms (Stat Cap) Cap Hit Points: +40
+Arms (Stat Cap) Cap Hit Points: +40 - Ornamented Cailocht (Volc)
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
 3. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
 4. (H.P.) Hit Points: +60 [(Precious) Blood Essence Jewel]
 
-Feet (Stat) Dexterity: +15
+Feet (Stat) Dexterity: +15 - Dragonsworn Blazed Cailocht
 Imbue Points: 36 of 33,5
 1. (Resist) Cold: +11% [(Faceted) Icy Shielding Jewel]
 2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
