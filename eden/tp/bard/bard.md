@@ -37,7 +37,7 @@ Imbue Points: 37,5 of 33,5
 + Director's Ring of Bedlam    500 Daemon Blood Seals [manca]
 + Gatekeeper Bracer of Anarchy 500 Daemon Blood Seals [manca]
 + Tanned Wormhide Wrap         600 Daemon Blood Seals [manca]
-+ Dragon Intellect Mythirian   500 Galladoria Roots   [manca]
++ Dragon Intellect Mythirian   500 Galladoria Roots   [done]
 
 + Dragon Scales                250
 + Grimoire Pages              1300
