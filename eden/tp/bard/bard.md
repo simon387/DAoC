@@ -1,4 +1,4 @@
-Hands (Bonus) Healing: +5 - Blazed Cailocht (Volc)
+Hands (Bonus) Healing: +5 - Dragonsworn Blazed Cailocht
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 2. (Resist) Body: +9% [(Polished) Dusty Shielding Jewel]
