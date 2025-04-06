@@ -19,7 +19,7 @@ Imbue Points: 36 of 33,5
 3. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
 4. (Power) Power: +5 [(Flawed) Mystical Essence Jewel]
 
-Legs
+Legs +5 power pool, non so se funzioneranno - Blazed Cailocht (armor pattern)
 Imbue Points: 37,5 of 33,5
 1. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
 2. (Resist) Crush: +11% [(Faceted) Fiery Shielding Jewel]
