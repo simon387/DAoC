@@ -1,0 +1,36 @@
+Hands (Stat Cap) Cap Dexterity: +5
+Imbue Points: 37 of 37.5
+1. (Stat) Piety: +7 [(Rough) Watery Essence Jewel]
+2. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Skill) Shield: +5 [(Imperfect) Fiery Battle Jewel]
+
+Feet (Stat Cap) Cap Dexterity: +5
+Imbue Points: 36 of 37.5
+1. (H.P.) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+2. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+3. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+4. (Skill) Shield: +4 [(Flawed) Fiery Battle Jewel]
+
+Legs (Bonus Cap) Power Pool: +5
+Imbue Points: 34.5 of 37.5
+1. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
+3. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+4. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
+
+
+Helmet     - Fierce Cap of the Hallowed  []
+Torso      - Robe of the Infidel         []
+Arms       - Infernal Quilted Sleeves    []
+Right Hand - Bloodstained War Hammer     []
+Left Hand  - Basalt Buckler of Oblivion  []
+Neck       - Albion Medal of Honor       []
+Cloak      - Cape of Legerdemain         []
+Jewelry    - Ensorcelled Mystic Gem      []
+Waist      - Soulbinder's Belt           []
+L. Ring    - Director's Ring of Anarchy  []
+R. Ring    - Ring of Arcane Gestures     []
+L. Wrist   - Gatekeeper Bracer of Bedlam []
+R. Wrist   - Gatekeeper Bracer of Bedlam []
+Mythical   - Deserter Curative Mythirian []
