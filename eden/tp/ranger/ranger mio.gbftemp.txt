@@ -1,0 +1,281 @@
+GearBunny Fusion v1.127.0.2 Template
+Template: ranger (Lv50)
+
+======= Stats =======
+
+Regular Stats
+ - Strength : 127 / 118 (+9)
+ - Constitution : 111 / 117 (-6)
+ - Dexterity : 114 / 109 (+5)
+ - Quickness : 48 / 75 (-27)
+ - Hit Points : 550 / 600 (-50)
+ - Armor Factor : 25 / 50 (-25)
+
+Resists
+ - Crush Resist : 23 / 26 (-3)
+ - Slash Resist : 28 / 26 (+2)
+ - Thrust Resist : 37 / 26 (+11)
+ - Heat Resist : 33 / 26 (+7)
+ - Cold Resist : 28 / 28 (+0)
+ - Energy Resist : 31 / 26 (+5)
+ - Matter Resist : 27 / 26 (+1)
+ - Body Resist : 28 / 26 (+2)
+ - Spirit Resist : 26 / 26 (+0)
+
+Skills
+ - All Melee : 8 / 11 (-3)
+ - Celtic Duel : 11 / 11 (+0)
+ - Pierce : 12 / 11 (+1)
+ - Recurve Bows : 7 / 11 (-4)
+ - Stealth : 12 / 11 (+1)
+ - All Dual Wielding : 7 / 11 (-4)
+ - All Archery : 4 / 11 (-7)
+
+Focus
+
+ToA
+ - Archery/Casting Damage : 12 / 10 (+2)
+ - Archery/Casting Range : 4 / 10 (-6)
+ - Archery/Casting Speed : 17 / 10 (+7)
+ - Archery/Spell Pierce : 10 / 10 (+0)
+ - Melee Damage : 12 / 10 (+2)
+ - Melee Speed : 18 / 10 (+8)
+ - Style Damage : 12 / 10 (+2)
+
+PvE
+ - Melee Damage vs. (PvE Only) : 2 / 10 (-8)
+
+Mythical
+ - Myth Crowd Control Reduction : 3 / 50 (-47)
+ - Myth Damage Conversion : 5 / 127 (-122)
+ - Myth Damage Increase : 9 / 10 (-1)
+ - Myth Health Regeneration : 40 / 50 (-10)
+
+Caps
+ - ToA Strength Cap : 32 / 26 (+6)
+ - Myth Strength Cap : 17 / 26 (-9)
+ - ToA Constitution Cap : 15 / 26 (-11)
+ - Myth Constitution Cap : 27 / 37 (-10)
+ - ToA Dexterity Cap : 21 / 26 (-5)
+ - Myth Dexterity Cap : 13 / 31 (-18)
+ - ToA Hit Points Cap : 490 / 400 (+90)
+ - Myth Cold Resist Cap : 2 / 15 (-13)
+
+======= Items =======
+
+Jewel : Emerald of the Harbinger ( Vault )
+ - Archery/Casting Damage : 4
+ - Archery/Casting Speed : 4
+ - Hit Points Cap : 50
+ - Hit Points : 50
+ - Energy Resist : 9
+ - Spirit Resist : 9
+ - Matter Resist : 9
+ - Archery/Spell Pierce : 5
+ * Charges/Use : Arrogance
+ * Charges/Use : <Select>
+
+Neck : Ghostly Medal of Valor ( Vault )
+ - Hit Points : 100
+ - Hit Points Cap : 75
+ - Armor Factor : 20
+ - Cold Resist : 7
+ - Heat Resist : 7
+ - Matter Resist : 7
+ - Body Resist : 7
+ - Energy Resist : 7
+ - Spirit Resist : 7
+ * Charges/Use : <Select>
+
+Cloak : Astral Cloak of the Outrider ( Vault )
+ - All Archery : 4
+ - Stealth : 4
+ - Archery/Casting Speed : 2
+ - Dexterity : 22
+ - Quickness : 22
+ - Hit Points : 50
+ - Archery/Spell Pierce : 5
+ * Charges/Use : Dispel
+ * Charges/Use : Heal : All Over Time
+
+Belt : Adept Belt of the Vigilant ( Vault )
+ - Strength : 21
+ - Dexterity : 18
+ - Strength Cap : 5
+ - Dexterity Cap : 4
+ - Hit Points : 40
+ - Hit Points Cap : 40
+ - Slash Resist : 5
+ - Thrust Resist : 5
+ - Crush Resist : 5
+ - Archery/Casting Speed : 5
+ * Charges/Use : <Select>
+ * Charges/Use : Resist Buff (Melee)
+
+Ring : Otherworldly Furtive Ring ( Vault )
+ - Stealth : 4
+ - Strength : 10
+ - Constitution : 10
+ - Myth Strength Cap : 4
+ - Myth Constituion Cap : 4
+ - Hit Points Cap : 50
+ - Hit Points : 50
+ - Spirit Resist : 5
+ - Energy Resist : 5
+ - Body Resist : 5
+ * Charges/Use : Buff (Other)
+ * Charges/Use : Heal : Other
+
+Wrist : Bracer of the Fomor ( Vault )
+ - All Melee : 4
+ - Strength : 21
+ - Strength Cap : 5
+ - Hit Points : 35
+ - Hit Points Cap : 35
+ - Armor Factor : 5
+ - Slash Resist : 4
+ - Crush Resist : 4
+ - Thrust Resist : 4
+ - Style Damage : 2
+ * Charges/Use : <Select>
+ * Charges/Use : Resist Buff (Melee)
+
+Ring : Midsummer's Triumphant Wrap ( Vault )
+ - Myth Damage Conversion : 3
+ - Constitution : 25
+ - Myth Constituion Cap : 8
+ - Hit Points : 40
+ - Melee Speed : 2
+ - Archery/Casting Speed : 2
+ - Crush Resist : 8
+ - Slash Resist : 8
+ - Thrust Resist : 8
+ - Hit Points Cap : 40
+ * Charges/Use : Debuff (Absorb)
+
+Wrist : Band of the Dream Conqueror ( Vault )
+ - Body Resist : 5
+ - Cold Resist : 5
+ - Matter Resist : 5
+ - Energy Resist : 5
+ - Heat Resist : 5
+ - Spirit Resist : 5
+ - Crush Resist : 6
+ - Slash Resist : 6
+ - Thrust Resist : 6
+ - Hit Points Cap : 40
+ * Charges/Use : <Select>
+
+Mythirian : Freezing Gale Mythirian ( Vault )
+ - Myth Dexterity Cap : 6
+ - Archery/Casting Damage : 2
+ - Archery/Casting Range : 4
+ - Cold Resist : 5
+ - Myth Cold Cap : 2
+ - Dexterity : 6
+
+Chest : Gargoyle Hide Tunic ( Vault )
+ - Strength : 30
+ - Strength Cap : 10
+ - Hit Points : 60
+ - Hit Points Cap : 60
+ - Myth Damage Increase : 2
+ - Myth Health Regeneration : 10
+ - Myth Crowd Control Reduction : 3
+ - Myth Damage Conversion : 2
+ - Archery/Casting Damage : 4
+ - Melee Speed : 4
+ * Defense : Heal : Hit Points
+ * Defense : Heal : All Over Time
+
+Head : Otherworldly Mighty Eyes ( Vault )
+ - Strength : 15
+ - Constitution : 15
+ - Myth Strength Cap : 6
+ - Body Resist : 6
+ - Cold Resist : 6
+ - Matter Resist : 6
+ - Style Damage : 2
+ - Melee Speed : 4
+ - Melee Damage : 2
+ - Myth Damage Increase : 7
+ * Defense : Heal : Hit Points
+ * Defense : Ablative
+
+Arms : Infernal Cailiocht Sleeves ( Vault )
+ - Dexterity : 21
+ - Constitution : 21
+ - Dexterity Cap : 5
+ - Constitution Cap : 5
+ - Archery/Casting Damage : 2
+ - Melee Damage : 2
+ - Heat Resist : 7
+ - Myth Health Regeneration : 30
+ * Defense : Heal : Hit Points
+
+Hands : Cursed Blood Gauntlets ( Vault )
+ - Constitution : 40
+ - Hit Points : 50
+ - Hit Points Cap : 50
+ - Constitution Cap : 10
+ - Heat Resist : 5
+ - Energy Resist : 5
+ - Body Resist : 5
+ - Thrust Resist : 5
+ - Slash Resist : 5
+ - Myth Constituion Cap : 15
+ * Defense : Heal : Hit Points
+ * Charges/Use : <Select>
+
+Legs : Shrouded Mist Leggings ( Vault )
+ - Stealth : 4
+ - Dexterity : 21
+ - Myth Dexterity Cap : 7
+ - Hit Points : 75
+ - Hit Points Cap : 50
+ - Thrust Resist : 9
+ - Heat Resist : 9
+ - Archery/Casting Speed : 4
+ - Myth Strength Cap : 7
+ - Melee Damage vs. (PvE Only) : 2
+ * Defense : <Select>
+ * Defense : <Select>
+
+Feet :  [ Spellcraft ]
+ - Cold Resist : 5 (Flawed icy shielding jewel)
+ - Recurve Bows : 3 (Rough airy war spell stone)
+ - Pierce : 4 (Flawed dusty war spell stone)
+ - Celtic Duel : 4 (Flawed icy war spell stone)
+ - All Dual Wielding : 3
+
+Main Hand Weapon : Venomous Ranger Steel ( Vault )
+ - All Melee : 4
+ - Strength : 15
+ - Dexterity : 13
+ - Quickness : 13
+ - Strength Cap : 6
+ - Dexterity Cap : 6
+ - Melee Damage : 4
+ - Style Damage : 4
+ - Melee Speed : 4
+ * Attack : Debuff (Other)
+ * Attack : Debuff (Other)
+
+Shield : <Empty Slot> ( Vault )
+
+Off Hand Weapon : Infectious Ranger Steel ( Vault )
+ - All Dual Wielding : 4
+ - Strength : 15
+ - Dexterity : 13
+ - Quickness : 13
+ - Strength Cap : 6
+ - Dexterity Cap : 6
+ - Melee Damage : 4
+ - Style Damage : 4
+ - Melee Speed : 4
+ * Attack : Buff (Accuracy)
+ * Attack : Debuff (Absorb)
+
+Two Hand Weapon : <Empty Slot> ( Vault )
+
+GearBunny Fusion can be downloaded from https://gearbunnystudio.itch.io
