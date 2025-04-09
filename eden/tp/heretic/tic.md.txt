@@ -20,7 +20,7 @@ Imbue Points: 34.5 of 37.5
 4. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
 
 
-Helmet     - Fierce Cap of the Hallowed  [quest cappello]        []
+Helmet     - Fierce Cap of the Hallowed  [quest cappello]        [done]
 Torso      - Robe of the Infidel         [600 Caer Sidi Souls]   []
 Arms       - Infernal Quilted Sleeves    [20P?]                  []
 Right Hand - Bloodstained War Hammer     [350 Dragon Scales]     []
