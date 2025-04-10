@@ -185,7 +185,7 @@ shift00=0
 key00=17
 usemmo=1
 [main]
-EffectsFlag=2
+EffectsFlag=0
 mouselooklock=0
 cameraheight=10
 cameradistance=700
@@ -197,10 +197,10 @@ ClassicNameFont=0
 windowed=0
 screen_height=1080
 screen_width=1920
-last_slot=1
+last_slot=4
 adapter=NVIDIA GeForce GTX 1050 Ti with Max-Q Design
 version=1409
-fullscreen_windowed=1
+fullscreen_windowed=0
 ui_scale=1000
 torchmode=0
 [performance]
@@ -209,20 +209,20 @@ item2=0
 item10=1
 item7=0
 item5=0
-item6=1
+item6=2
 item1=0
 item4=0
 item3=8
-item9=1
+item9=0
 [interface]
 item1=8
 [shadows]
-item2=4
-item1=0
+item2=1
+item1=2
 [water]
 item1=0
 item3=2
-item2=0
+item2=2
 [atlantis_internal]
 item5=0
 item3=0
@@ -287,7 +287,7 @@ entry7=Brunetta, Eden, 142.132.144.167, 10300, 2, 41
 entry6=Pisellara, Eden, 142.132.144.167, 10300, 2, 41
 entry5=Porcodio, Eden, 142.132.144.167, 10300, 3, 41
 entry4=Geasy, Eden, 142.132.144.167, 10300, 3, 41
-entry3=Rayvsx, Eden, 142.132.144.167, 10300, 1, 41
-entry2=Rayvaughan, Eden, 142.132.144.167, 10300, 1, 41
-entry1=Bmwskrr, Eden, 142.132.144.167, 10300, 1, 41
-entry0=Porcodiosos, Eden, 142.132.144.167, 10300, 1, 41
+entry3=Rayvaughan, Eden, 142.132.144.167, 10300, 1, 41
+entry2=Bmwskrr, Eden, 142.132.144.167, 10300, 1, 41
+entry1=Porcodiosos, Eden, 142.132.144.167, 10300, 1, 41
+entry0=Rayvsx, Eden, 142.132.144.167, 10300, 1, 41
