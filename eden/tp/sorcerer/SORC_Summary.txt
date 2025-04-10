@@ -7,14 +7,9 @@ Character Summary for SORC(Level 50) - Sorcerer
 Note: All items are included. Stats shown below reflect only currently equipped items.
 
 Stats
-0 / 75  Strength
 119 / 99  Constitution
 107 / 101  Dexterity
-0 / 75  Quickness
 106 / 96  Intelligence
-0 / 75  Piety
-0 / 75  Charisma
-0 / 75  Empathy
 386 / 385  Hit Points
 0 / 31  Power
 
