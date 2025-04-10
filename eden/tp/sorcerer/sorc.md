@@ -1,11 +1,11 @@
 ## needed for sorc
 
 + Tenacious Stone Shaper (Dragonslayer Weapon) []
-+ Cloth Cap (dragon, 500)                      []
-+ Band of Ilmenite (dragon, 250)               []
-+ Sable Warlock's Robe (sidi, 600)             []
++ Cloth Cap (dragon, 500)                      [done]
++ Band of Ilmenite (dragon, 250)               [done]
++ Sable Warlock's Robe (sidi, 600)             [done]
 + Dragon Intellect Mythirian (sidi 500)        [done]
-+ Dragonseye Strand (sidi, 625)                []
++ Dragonseye Strand (sidi, 625)                [done]
 + Aidon's Slippers (SH, 600)                   []
 + Cape of Legerdemain (SH, 700)                []
 + Shimmering Satin Sash (SH, 600)              []
