@@ -33,3 +33,5 @@ Imbue Points: 36 of 37,5
 + Atlantean Glass    1400
 + Caer Sidi Souls    1250
 + Daemon Blood Seals  600
+
++ poi preso il basalt buckler of oblivion che da snare
