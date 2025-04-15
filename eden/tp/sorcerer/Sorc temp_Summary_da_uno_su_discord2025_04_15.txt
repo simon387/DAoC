@@ -1,0 +1,338 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 12:57 em on apr. 13, 2025
+Version: 1.2.010
+
+Character Summary for Sorc temp(Level 50) - Sorcerer
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+75 / 75  Constitution
+100 / 101  Dexterity
+0 / 75  Quickness
+103 / 101  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+406 / 400  Hit Points
+0 / 41  Power
+
+Bonuses
+Resist Pierce: 10%
+Spell Damage: 10%
+Spell Range: 10%
+Spell Duration: 8%
+Casting Speed: 10%
+Arcane Siphon: 20%
+Power Pool: 35%
+Melee Damage: 3%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+26% Thrust
+25% Cold
+25% Energy
+26% Heat
+27% Matter
+25% Spirit
+25% Body
+
+Skills
+10 Body Magic
+10 Matter Magic
+10 Mind Magic
+
+Item Procs and Charges
+Helmet: Power Heal
+Helmet: Ablative Armor
+Torso: Heal
+Torso: Ablative Armor
+Feet: Heal
+Feet: Unbreakable Speed Decrease
+Neck: - 30 Charges
+Cloak: - 30 Charges
+Cloak: - 27 Charges
+Jewelry: - 30 Charges
+Jewelry: - 30 Charges
+R Wrist: - 30 Charges
+R Wrist: - 30 Charges
+Two Handed: Power Heal
+Two Handed: Cure Nearsight
+
+
+Items
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 108,5
+Source Type: Loot
+Special 1: Power Heal
+Special 2: Ablative Armor
+1. (Bonus) Resist Pierce: +5
+2. (Stat) Hit Points: +30
+3. (Stat_Cap) Cap Acuity: +10
+4. (Stat_Cap) Cap Dexterity: +10
+5. (Resist) Heat: +3%
+6. (Resist) Cold: +3%
+7. (Resist) Spirit: +3%
+8. (Resist) Energy: +3%
+9. (Resist) Matter: +3%
+10. (Resist) Body: +3%
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 57,34
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Slash: +3% [(Rough) Watery Shielding Jewel]
+2. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+3. (Stat) Intelligence: +22 [(Precious) Dusty Essence Jewel]
+4. (Stat) Constitution: +22 [(Precious) Earthen Essence Jewel]
+
+
+Torso
+Name: Sable Warlock's Robe
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+Special 1: Heal
+Special 2: Ablative Armor
+1. (Skill) All Magic Skills: +4
+2. (Stat) Dexterity: +24
+3. (Stat_Cap) Cap Dexterity: +8
+4. (Stat) Hit Points: +60
+5. (Stat_Cap) Cap Hit Points: +60
+6. (Resist) Crush: +1%
+7. (Resist) Slash: +1%
+8. (Resist) Thrust: +1%
+9. (Bonus) Spell Damage: +4
+10. (Bonus) Spell Range: +4
+
+
+Arms
+Name: 
+Level: 51 (99% Quality)
+Utility: 67,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+2. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+3. (Resist) Heat: +11% [(Faceted) Heated Shielding Jewel]
+4. (Stat) Constitution: +10 [(Flawed) Earthen Essence Jewel]
+5. (Stat) Hit Points: +40 [(?) Blood Essence Jewel]
+
+
+Feet
+Name: Aidon's Slippers
+Level: 51 (100% Quality)
+Utility: 90,34
+Source Type: Loot
+Special 1: Heal
+Special 2: Unbreakable Speed Decrease
+1. (Stat) Constitution: +22
+2. (Stat) Dexterity: +22
+3. (Stat_Cap) Cap Dexterity: +5
+4. (Resist) Slash: +5%
+5. (Resist) Crush: +5%
+6. (Resist) Thrust: +5%
+7. (Bonus) Spell Duration: +3
+8. (Bonus) Casting Speed: +3
+
+
+Legs
+Name: 
+Level: 51 (99% Quality)
+Utility: 61
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+2. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+3. (Resist) Body: +5% [(Flawed) Dusty Shielding Jewel]
+4. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Two Handed
+Name: Staff of Perfect Incantation
+Level: 51 (100% Quality)
+Utility: 114
+Source Type: Loot
+Special 1: Power Heal
+Special 2: Cure Nearsight
+1. (Stat) Dexterity: +15
+2. (Stat_Cap) Cap Dexterity: +10
+3. (Stat_Cap) Cap Acuity: +10
+4. (Bonus) Arcane Siphon: +10
+5. (Bonus) Power Pool: +5
+6. (Stat_Cap) Cap Power: +5
+7. (Resist) Heat: +1%
+8. (Resist) Matter: +1%
+9. (Bonus) Spell Damage: +4
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Albion Medal of Honor
+Level: 51 (99% Quality)
+Utility: 90
+Source Type: Loot
+Special 1: - 30 Charges
+1. (Resist) Crush: +5%
+2. (Resist) Slash: +5%
+3. (Resist) Thrust: +5%
+4. (Resist) Cold: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Body: +5%
+8. (Resist) Energy: +5%
+9. (Resist) Spirit: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (99% Quality)
+Utility: 148
+Source Type: Loot
+Special 1: - 30 Charges
+Special 2: - 27 Charges
+1. (Skill) All Magic Skills: +3
+2. (Stat) Constitution: +21
+3. (Resist) Thrust: +9%
+4. (Resist) Cold: +5%
+5. (Bonus) Power Pool: +8
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Arcane Siphon: +10
+8. (Bonus) Spell Range: +4
+
+
+Jewelry
+Name: Gemstone of Swirling Energy
+Level: 51 (99% Quality)
+Utility: 143
+Source Type: Loot
+Special 1: - 30 Charges
+Special 2: - 30 Charges
+1. (Skill) All Melee Skills: +3
+2. (Skill) All Magic Skills: +3
+3. (Stat) Hit Points: +50
+4. (Stat_Cap) Cap Hit Points: +50
+5. (Resist) Crush: +9%
+6. (Bonus) Power Pool: +5
+7. (Bonus) Casting Speed: +3
+8. (Bonus) Melee Damage: +3
+
+
+Waist
+Name: Belt of Consumed Souls
+Level: 51 (99% Quality)
+Utility: 87,67
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Stat_Cap) Cap Dexterity: +7
+3. (Stat) Acuity: +16
+4. (Stat_Cap) Cap Acuity: +7
+5. (Bonus) Spell Duration: +5
+6. (Bonus) Power Pool: +5
+7. (Bonus) Resist Pierce: +3
+
+
+L Ring
+Name: Ring of Granite Enhancement
+Level: 51 (99% Quality)
+Utility: 115
+Source Type: Loot
+1. (Skill) All Melee Skills: +3
+2. (Stat) Hit Points: +50
+3. (Stat_Cap) Cap Hit Points: +50
+4. (Resist) Slash: +6%
+5. (Resist) Crush: +6%
+6. (Resist) Thrust: +6%
+7. (Resist) Heat: +6%
+8. (Resist) Cold: +6%
+
+
+R Ring
+Name: Band of Ircon
+Level: 51 (99% Quality)
+Utility: 88,67
+Source Type: Loot
+1. (Stat) Acuity: +22
+2. (Stat_Cap) Cap Power: +10
+3. (Resist) Body: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Resist) Energy: +6%
+7. (Stat_Cap) Cap Acuity: +3
+
+
+L Wrist
+Name: Bracer of Sudden Finality
+Level: 51 (99% Quality)
+Utility: 90
+Source Type: Loot
+1. (Stat) Acuity: +21
+2. (Stat_Cap) Cap Hit Points: +40
+3. (Stat) Dexterity: +18
+4. (Stat_Cap) Cap Dexterity: +7
+5. (Stat) Hit Points: +40
+6. (Bonus) Power Pool: +5
+7. (Bonus) Resist Pierce: +2
+8. (Bonus) Spell Range: +2
+
+
+R Wrist
+Name: Arcane-Infused Armband
+Level: 51 (99% Quality)
+Utility: 90,67
+Source Type: Loot
+Special 1: - 30 Charges
+Special 2: - 30 Charges
+1. (Stat) Acuity: +22
+2. (Stat_Cap) Cap Acuity: +8
+3. (Resist) Slash: +6%
+4. (Resist) Cold: +6%
+5. (Resist) Body: +6%
+6. (Bonus) Power Pool: +7
+7. (Bonus) Spell Damage: +2
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
