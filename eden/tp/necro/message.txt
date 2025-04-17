@@ -1,14 +1,8 @@
 Stats
-0 / 75  Strength
 57 / 88  Constitution
 109 / 104  Dexterity
-0 / 75  Quickness
 109 / 104  Intelligence
-0 / 75  Piety
-0 / 75  Charisma
-0 / 75  Empathy
 140 / 325  Hit Points
-0 / 31  Power
 
 Bonuses
 Resist Pierce: 10%
