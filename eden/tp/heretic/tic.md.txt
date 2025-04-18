@@ -1,18 +1,18 @@
-Hands (Stat Cap) Cap Dexterity: +5
+Hands  + 10 AF (sigil stitched)
 Imbue Points: 37 of 37.5
 1. (Stat) Piety: +7 [(Rough) Watery Essence Jewel]
 2. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
 3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
 4. (Skill) Shield: +5 [(Imperfect) Fiery Battle Jewel]
 
-Feet (Stat Cap) Cap Dexterity: +5
+Feet (Stat Cap) Cap Dexterity: +5 (sigil stitched)
 Imbue Points: 36 of 37.5
 1. (H.P.) Hit Points: +52 [(Faceted) Blood Essence Jewel]
 2. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
 3. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
 4. (Skill) Shield: +4 [(Flawed) Fiery Battle Jewel]
 
-Legs (Bonus Cap) Power Pool: +5
+Legs (Bonus Cap) Power Pool: +5 (sigil stitched)
 Imbue Points: 34.5 of 37.5
 1. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
 2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
@@ -32,5 +32,5 @@ Left Hand  - Basalt Buckler of Oblivion  [600 Daemon Blood Seals][done]
 L. Ring    - Director's Ring of Anarchy  [500 Daemon Blood Seals][done]
 L. Wrist   - Gatekeeper Bracer of Bedlam [500 Daemon Blood Seals][done]
 R. Wrist   - Gatekeeper Bracer of Bedlam [500 Daemon Blood Seals][done]
-Mythical   - Deserter Curative Mythirian [7p]                    []
+Mythical   - Deserter Curative Mythirian [7p]                    [done]
 Arms       - Infernal Quilted Sleeves    [20P?]                  [done]
