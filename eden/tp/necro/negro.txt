@@ -20,3 +20,6 @@ R. Ring - Band of Ilmenite                [250 Dragon Scales]                   
 L. Wrist - Stonewatch Bracer              [475 Dragon Scales]                    [done]
 R. Wrist - Hardened Wormhide Wrap         [500 Daemon Blood Seals]               [done]
 Mythical - Dragon Intellect Mythirian     []                                     [done]
+
+57/88 cost
+140/325 hits
