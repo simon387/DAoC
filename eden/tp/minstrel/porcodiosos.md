@@ -35,3 +35,4 @@ Imbue Points: 36 of 37,5
 + Daemon Blood Seals  600
 
 + poi preso il basalt buckler of oblivion che da snare
++ sanguine cowl per AF spec da inventario
