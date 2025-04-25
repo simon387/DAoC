@@ -1,0 +1,344 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 01:12 AM on apr 24, 2025
+Version: 1.2.013
+
+Character Summary for Melee Friar Template(Level 50) - Friar
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+106 / 104  Constitution
+142 / 104  Dexterity
+77 / 75  Quickness
+0 / 75  Intelligence
+21 / 88  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+365 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 11%
+Armor Factor: 60%
+Melee Damage: 14%
+Healing: 30%
+Style Damage: 10%
+Casting Speed: 6%
+Power Pool: 20%
+Arcane Siphon: 10%
+Spell Range: 4%
+Resist Pierce: 5%
+Fatigue: 5%
+
+Resists (Racials not included)
+33% Crush
+31% Slash
+31% Thrust
+26% Cold
+27% Energy
+24% Heat
+25% Matter
+27% Spirit
+26% Body
+
+Skills
+6 Rejuvenation
+6 Enhancement
+16 Staff
+5 Parry
+
+Item Procs and Charges
+Right Hand:  30s
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Helmet
+Name: Crown of Fervency
+Level: 51 (100% Quality)
+Utility: 108,67
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +6%
+4. (Resist) Energy: +6%
+5. (Bonus) Melee Speed: +2
+6. (Skill) All Magic Skills: +3
+7. (Stat_Cap) Cap Constitution: +5
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 72,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Quickness: +25 [(Flawless) Airy Essence Jewel]
+2. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+3. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+4. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+5. (Stat_Cap) Cap Dexterity: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Azure Prayerbound Robe
+Level: 51 (100% Quality)
+Utility: 131
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Resist) Crush: +2%
+3. (Resist) Slash: +2%
+4. (Resist) Thrust: +2%
+5. (Skill) Staff: +3
+6. (Bonus) Armor Factor: +10
+7. (Bonus) Melee Damage: +5
+8. (Bonus) Healing: +10
+9. (Bonus) Style Damage: +5
+10. (Stat_Cap) Cap Dexterity: +6
+
+
+Arms
+Name: Sleeves of Decaying Flesh
+Level: 51 (100% Quality)
+Utility: 128
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Stat) Quickness: +21
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Melee Speed: +4
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Melee Damage: +4
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 70,34
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Constitution: +19 [(Faceted) Earthen Essence Jewel]
+2. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+3. (Stat) Dexterity: +13 [(Imperfect) Vapor Essence Jewel]
+4. (Skill) Parry: +5 [(Imperfect) Vapor Battle Jewel]
+5. (Bonus) Armor Factor: +10 [(Raw) Not Found]
+
+
+Legs
+Name: Astral Torporific Leggings
+Level: 51 (100% Quality)
+Utility: 129,34
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Stat) Quickness: +16
+3. (Stat) Hit Points: +40
+4. (Bonus) Melee Speed: +2
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +2
+7. (Bonus) Style Damage: +2
+8. (Stat_Cap) Cap Dexterity: +7
+9. (Stat_Cap) Cap Constitution: +7
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Bloodstained War Hammer
+Level: 51 (100% Quality)
+Utility: 105,67
+Source Type: Loot
+Special 2:  30s
+1. (Stat) Dexterity: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Thrust: +1%
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +10
+7. (Stat_Cap) Cap Dexterity: +5
+8. (Stat_Cap) Cap Acuity: +5
+9. (Bonus_Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Loot
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Albion Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Xanxicar Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Jewel of the Haughty Warrior
+Level: 51 (100% Quality)
+Utility: 138
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +9%
+3. (Bonus) Melee Speed: +3
+4. (Skill) All Melee Skills: +4
+5. (Bonus) Melee Damage: +3
+6. (Bonus) Fatigue: +5
+7. (Bonus) Style Damage: +3
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+R Ring
+Name: Ring of Granite Enhancement
+Level: 51 (100% Quality)
+Utility: 115
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Cold: +6%
+3. (Resist) Crush: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Thrust: +6%
+7. (Skill) All Melee Skills: +3
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+L Wrist
+Name: Gatekeeper Bracer of Bedlam
+Level: 51 (100% Quality)
+Utility: 91,17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Bonus) Healing: +5
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+R Wrist
+Name: Gatekeeper Bracer of Bedlam
+Level: 51 (100% Quality)
+Utility: 91,17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Bonus) Healing: +5
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: Dragon Will Mythirian
+Level: 51 (100% Quality)
+Utility: 49
+Source Type: Loot
+1. (Stat) Dexterity: +3
+2. (Stat) Constitution: +3
+3. (Stat) Acuity: +3
+4. (Mythical) Cap Constitution: +3
+5. (Mythical) Cap Dexterity: +3
+6. (Mythical) Cap Acuity: +3
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Bonus_Cap) Power Pool: +5
