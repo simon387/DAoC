@@ -48,19 +48,6 @@ Skills
 16 Staff
 5 Parry
 
-Item Procs and Charges
-Right Hand:  30s
-
-
-Items
-
-
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
 
 Helmet
 Name: Crown of Fervency
