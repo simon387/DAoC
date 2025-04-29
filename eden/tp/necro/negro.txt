@@ -21,5 +21,11 @@ L. Wrist - Stonewatch Bracer              [475 Dragon Scales]                   
 R. Wrist - Hardened Wormhide Wrap         [500 Daemon Blood Seals]               [done]
 Mythical - Dragon Intellect Mythirian     []                                     [done]
 
-57/88 cost
-140/325 hits
+
+Dex/Qui, Str/Con, and AF can all be charged to the pet from a few specific items.
+
+Dex/Qui: Ring of Conflicting Forces
+Str/Con: Ring of Elemental Conflict
+AF: Robe of Clandestine Rites (necro epic)
+
+Both of the rings have to be equipped to be use their charges, but you can just swap them on, use them, then swap them off.
