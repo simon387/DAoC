@@ -70,3 +70,7 @@ Add patchui.dll and game.dll as file type exclusions. Make sure to pick the ones
 + bracer of sudden finality
 + ring of the claimed
 + belt of consumed souls
+
+## doppio click sul lancher e non va un cazzo (spesso dopo qtd o crash)
+
++ Delete the "Eden_DAoC" folder hidden in C:\Users\NAME\AppData\LOCAL, You can get there: Type "%LocalAppData%\Eden_DAoC" into the windows search and delete everything in that folder
