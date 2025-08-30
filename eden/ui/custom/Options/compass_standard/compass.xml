@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+	<Texture>
+		<Name>compass</Name>
+		<File>custom/compass.bmp</File>
+	</Texture>
+	<CompassControlTemplate>
+		<Name>compass</Name>
+		<Parent>none</Parent>
+		<Texture>compass</Texture>
+	</CompassControlTemplate>
+	<WindowTemplate>
+		<Name>compass</Name>
+		<CloseButton>false</CloseButton>
+		<MoveButton>false</MoveButton>
+		<Width>100</Width>
+		<Height>100</Height>
+		<TitleWidth>0</TitleWidth>
+		<TitleHeight>0</TitleHeight>
+		<ResizeableWidth>0</ResizeableWidth>
+		<ResizeableHeight>0</ResizeableHeight>
+		<ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+		<ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+		<WindowId>Compass</WindowId>
+		<MinWidth>0</MinWidth>
+		<MinHeight>0</MinHeight>
+		<!--Small Compass-->
+		<CompassControlDef>
+			<ControlId>1000</ControlId>
+			<Position>
+				<X>0</X>
+				<Y>0</Y>
+			</Position>
+			<AdapterName>compass_heading</AdapterName>
+			<Width>64</Width>
+			<Height>16</Height>
+			<TemplateName>compass</TemplateName>
+		</CompassControlDef>
+		<!--Large Compass-->
+		<CompassControlDef>
+			<ControlId>1001</ControlId>
+			<Position>
+				<X>0</X>
+				<Y>0</Y>
+			</Position>
+			<AdapterName>compass_heading</AdapterName>
+			<Width>128</Width>
+			<Height>32</Height>
+			<TemplateName>compass</TemplateName>
+		</CompassControlDef>
+	</WindowTemplate>
+</Root_Element>

@@ -1,0 +1,1 @@
+It will look like Type 1 (non transparent) when you hover your mouse over it.

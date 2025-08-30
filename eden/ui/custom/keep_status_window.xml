@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+
+<!-- @@ Edited with the DAoC User Interface Editor v1.71 -->
+<!-- @@ Free download available at http://www.bradtownsend.com/daoced -->
+
+    <WindowTemplate>
+        <Name>keep_status</Name>
+        <WindowId></WindowId>
+        <CloseButton>true</CloseButton>
+        <MoveButton>true</MoveButton>
+        <TopRightResizeButton>false</TopRightResizeButton>
+        <BottomRightResizeButton>false</BottomRightResizeButton>
+        <BottomLeftResizeButton>false</BottomLeftResizeButton>
+        <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
+        <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
+        <TitleWidth>200</TitleWidth>
+        <TitleHeight>18</TitleHeight>
+        <Width>200</Width>
+        <Height>125</Height>
+        <ResizeableWidth>0</ResizeableWidth>
+        <ResizeableHeight>0</ResizeableHeight>
+        <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+        <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+        <MinWidth>0</MinWidth>
+        <MinHeight>0</MinHeight>
+
+        <FullResizeImageDef>
+            <ControlId>Background</ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <GrowWidth>true</GrowWidth>
+                <GrowHeight>true</GrowHeight>
+            </Alignment>
+            <TemplateName>g_window_background</TemplateName>
+            <Width>200</Width>
+            <Height>125</Height>
+        </FullResizeImageDef>
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>6</Y>
+            </Position>
+            <Alignment>
+                <CenterHorizontally>true</CenterHorizontally>
+            </Alignment>
+            <FontName>arial11</FontName>
+            <Adapter>keep_status_title</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>200</Width>
+            <Height>16</Height>
+            <MaxCharacters>128</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data>Keep Name</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!--keep lord type-->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>10</X>
+                <Y>24</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>keep_status_type</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>128</Width>
+            <Height>16</Height>
+            <MaxCharacters>128</MaxCharacters>
+            <Color>
+                <R>192</R>
+                <G>192</G>
+                <B>192</B>
+                <A>255</A>
+            </Color>
+            <Data>Keep Type</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!--current level-->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>10</X>
+                <Y>40</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>keep_status_level</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>190</Width>
+            <Height>16</Height>
+            <MaxCharacters>128</MaxCharacters>
+            <Color>
+                <R>192</R>
+                <G>192</G>
+                <B>192</B>
+                <A>255</A>
+            </Color>
+            <Data>Current Level</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!--target level-->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>10</X>
+                <Y>56</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>keep_status_target</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>190</Width>
+            <Height>16</Height>
+            <MaxCharacters>128</MaxCharacters>
+            <Color>
+                <R>192</R>
+                <G>192</G>
+                <B>192</B>
+                <A>255</A>
+            </Color>
+            <Data>Target Level</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!--controlled by-->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>10</X>
+                <Y>72</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>keep_status_claimed</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>190</Width>
+            <Height>16</Height>
+            <MaxCharacters>128</MaxCharacters>
+            <Color>
+                <R>192</R>
+                <G>192</G>
+                <B>192</B>
+                <A>255</A>
+            </Color>
+            <Data>Claiming Keep Name</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!--repair and hookpoint buttons-->
+
+        <ButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>25</X>
+                <Y>92</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_generic_button</TemplateName>
+            <Label>Repair</Label>
+            <onClickEvent>KeepStatusRepair</onClickEvent>
+        </ButtonDef>
+
+        <ButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>25</X>
+                <Y>92</Y>
+            </Position>
+            <Alignment>
+                <OffsetRight>true</OffsetRight>
+            </Alignment>
+            <TemplateName>g_generic_button_smalltext</TemplateName>
+            <Label>Hookpoints</Label>
+            <onClickEvent>KeepStatusHookpoints</onClickEvent>
+        </ButtonDef>
+
+    </WindowTemplate>
+
+</Root_Element>

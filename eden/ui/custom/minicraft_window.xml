@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+
+<!-- @@ Edited with the DAoC User Interface Editor v1.71 -->
+<!-- @@ Free download available at http://www.bradtownsend.com/daoced -->
+
+    <WindowTemplate>
+        <Name>mini_craft</Name>
+        <WindowId>MiniCraft</WindowId>
+        <CloseButton>true</CloseButton>
+        <MoveButton>true</MoveButton>
+        <TopRightResizeButton>false</TopRightResizeButton>
+        <BottomRightResizeButton>false</BottomRightResizeButton>
+        <BottomLeftResizeButton>false</BottomLeftResizeButton>
+        <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
+        <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
+        <TitleWidth>128</TitleWidth>
+        <TitleHeight>18</TitleHeight>
+        <Width>220</Width>
+        <Height>96</Height>
+        <ResizeableWidth>0</ResizeableWidth>
+        <ResizeableHeight>0</ResizeableHeight>
+        <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+        <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+        <MinWidth>0</MinWidth>
+        <MinHeight>0</MinHeight>
+
+        <FullResizeImageDef>
+            <ControlId>Background</ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <GrowWidth>true</GrowWidth>
+                <GrowHeight>true</GrowHeight>
+            </Alignment>
+            <TemplateName>g_window_background</TemplateName>
+            <Width>220</Width>
+            <Height>70</Height>
+        </FullResizeImageDef>
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>19</Y>
+            </Position>
+            <Alignment>
+                <CenterHorizontally>true</CenterHorizontally>
+            </Alignment>
+            <FontName>arial11</FontName>
+            <Adapter>mini_craft_title</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>220</Width>
+            <Height>16</Height>
+            <MaxCharacters>64</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data>Mini Craft</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <ButtonDef>
+            <ControlId>1000</ControlId>
+            <Position>
+                <X>10</X>
+                <Y>45</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_generic_button</TemplateName>
+            <Label>Repair</Label>
+            <onClickEvent>Repair</onClickEvent>
+        </ButtonDef>
+
+        <ButtonDef>
+            <ControlId>1001</ControlId>
+            <Position>
+                <X>78</X>
+                <Y>45</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>g_generic_button</TemplateName>
+            <Label>Craft</Label>
+            <onClickEvent>Craft</onClickEvent>
+        </ButtonDef>
+
+        <ButtonDef>
+            <ControlId>1002</ControlId>
+            <Position>
+                <X>148</X>
+                <Y>45</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>g_generic_button</TemplateName>
+            <Label>Salvage</Label>
+            <onClickEvent>Salvage</onClickEvent>
+        </ButtonDef>
+
+    </WindowTemplate>
+
+</Root_Element>

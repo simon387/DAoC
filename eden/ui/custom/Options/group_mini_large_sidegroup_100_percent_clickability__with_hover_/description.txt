@@ -1,0 +1,1 @@
+The black background will disapear when the mouse is moved away.

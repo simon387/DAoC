@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+    <Font>
+        <Name>ghost_chat_font</Name>
+        <File>custom/ghost_verdana12_bold_shadowed_normalized.tga</File>
+    </Font>
+</Root_Element>

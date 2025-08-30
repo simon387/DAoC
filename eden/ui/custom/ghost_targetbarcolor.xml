@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Root_Element ID="DAOCUi">
+
+<!-- @@ Edited with the DAoC User Interface Editor v1.80 -->
+<!-- @@ Free download available at http://www.bradtownsend.com/daoced -->
+
+
+<StatusBarTemplate>
+<Name>target_status_bar_color</Name>
+<ForegroundHResizeTemplate>sidegroup_purple_foreground</ForegroundHResizeTemplate>
+<BackgroundHResizeTemplate>sidegroup_purple_background</BackgroundHResizeTemplate>
+<Height>18</Height>
+<ForegroundOffset>
+<X>0</X>
+<Y>0</Y>
+</ForegroundOffset>
+</StatusBarTemplate>
+
+
+</Root_Element>

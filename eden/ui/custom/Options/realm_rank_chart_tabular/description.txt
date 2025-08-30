@@ -1,0 +1,1 @@
+Mouse-over a row to get a row highlight. Click that row to keep or "stick" the highlight after moving the mouse away. Re-click to disable the highlight-stick.

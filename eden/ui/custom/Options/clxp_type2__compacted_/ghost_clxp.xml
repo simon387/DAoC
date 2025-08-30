@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+
+    <WindowTemplate>
+        <Name>custom19_window</Name>
+        <WindowId>custom19_window</WindowId>
+        <CloseButton>false</CloseButton>
+        <MoveButton>false</MoveButton>
+        <TopRightResizeButton>false</TopRightResizeButton>
+        <BottomRightResizeButton>false</BottomRightResizeButton>
+        <BottomLeftResizeButton>false</BottomLeftResizeButton>
+        <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
+        <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
+        <TitleWidth>99</TitleWidth>
+        <TitleHeight>23</TitleHeight>
+        <Width>99</Width>
+        <Height>23</Height>
+        <ResizeableWidth>0</ResizeableWidth>
+        <ResizeableHeight>0</ResizeableHeight>
+        <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+        <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+        <MinWidth>0</MinWidth>
+        <MinHeight>0</MinHeight>
+
+        <ButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>1</X>
+                <Y>12</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_highlight_smallfontbar</TemplateName>
+            <Label></Label>
+            <onClickEvent></onClickEvent>
+        </ButtonDef>
+
+        <!-- XP Window -->
+
+        <StatusBarDef>
+            <ControlId>xp coarse</ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_xpbubble_blue</TemplateName>
+            <AdapterName>summary_champ_exp_coarse</AdapterName>
+            <Width>100</Width>
+        </StatusBarDef>
+
+        <StatusBarDef>
+            <ControlId>xp fine</ControlId>
+            <Position>
+                <X>1</X>
+                <Y>12</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_smallfontbar_blue</TemplateName>
+            <AdapterName>summary_champ_exp_fine</AdapterName>
+            <Width>97</Width>
+        </StatusBarDef>
+
+        <ImageAreaDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>11</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_smallfontbar_outline_medium_static</TemplateName>
+        </ImageAreaDef>
+
+        <ScalarLabelDef>
+            <ControlId>level</ControlId>
+            <Position>
+                <X>2</X>
+                <Y>11</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_tahoma9</FontName>
+            <Adapter></Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>40</Width>
+            <Height>14</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data>CL: </Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter>summary_champ_level</Adapter>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>28</X>
+                <Y>11</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_tahoma9</FontName>
+            <Adapter>summary_champ_exp_total</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>40</Width>
+            <Height>14</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>true</TextCentered>
+            <DontDrawWhenZero>false</DontDrawWhenZero>
+        </ScalarLabelDef>
+
+        <LabelDef>
+            <ControlId>divisor</ControlId>
+            <Position>
+                <X>60</X>
+                <Y>11</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_tahoma9</FontName>
+            <Adapter></Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>40</Width>
+            <Height>14</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>153</R>
+                <G>153</G>
+                <B>153</B>
+                <A>255</A>
+            </Color>
+            <Data>/1000</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+
+    </WindowTemplate>
+
+</Root_Element>

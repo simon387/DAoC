@@ -1,0 +1,1 @@
+Same as classic helper but with all shadowed fonts.

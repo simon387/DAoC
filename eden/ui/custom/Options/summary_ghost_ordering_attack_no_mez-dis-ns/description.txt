@@ -1,0 +1,1 @@
+Attack-status red-highlight will appear when you go into combat mode (like the target window).

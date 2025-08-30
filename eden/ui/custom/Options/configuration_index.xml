@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Ghost Configure-Configure file -->
+<!-- 
+	 To make the configuration better, you may want to modify 
+	 the TITLE and DESCRIPTION fields for each option. 
+  -->
+
+<configuration>
+
+<option>
+
+	<title>Mini Chart</title>
+	<group>Realm Rank Chart</group>
+	<description>Click on the numbers on the top to show/hide that ranks numbers.</description>
+
+	<path>Options\realm_rank_chart_mini\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rpchart.xml</name>
+			<hash>C9C34E75764F71744E5C17096402C3B1F8ABFDFF</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rrchart.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 3</title>
+	<group>Experience (Realm Points)</group>
+	<description></description>
+
+	<path>Options\rp_type3__ultracompact_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rp.xml</name>
+			<hash>B593E95B85272182F06B5C111307E700D8F777EB</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Verdana 9</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_verdana9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>C289324E8928FA40CE999D5F6323DA19CD304338</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Three Column Verdana 11</title>
+	<group>Mini Stats</group>
+	<description></description>
+
+	<path>Options\mini_stats_three_column_verdana11\</path>
+	<ui_files>
+		<file>
+			<name>ghost_ministats.xml</name>
+			<hash>AE9BEAA9017DEF235812B7D0BAF5E1AA1CA14D1B</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>stats.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Tahoma 9</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_tahoma9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>B8E14150FE4798A3F8697C27362F679E03A40B3C</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Three Row Tahoma 11</title>
+	<group>Mini Stats</group>
+	<description></description>
+
+	<path>Options\mini_stats_tahoma11\</path>
+	<ui_files>
+		<file>
+			<name>ghost_ministats.xml</name>
+			<hash>A9031BFDC13631EDD64D7A597B9CBF5FCCA0B5CA</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>stats.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1 (not transparent)</title>
+	<group>Experience (Champion)</group>
+	<description></description>
+
+	<path>Options\clxp_type1__non_transparent_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_clxp.xml</name>
+			<hash>3EDD94B1BA9CDC5F4A66D6B0817DAE7516298B7A</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>cl.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Three Row Tahoma 9</title>
+	<group>Mini Stats</group>
+	<description></description>
+
+	<path>Options\mini_stats_tahoma9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_ministats.xml</name>
+			<hash>1CE70643E43E10A79D2885DA8A8C3C1CAC050A43</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>stats.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Ghost Ordering with Attack Status</title>
+	<group>Summary</group>
+	<description>Attack-status red-highlight will appear when you go into combat mode (like the target window).</description>
+
+	<path>Options\summary_ghost_ordering_attack_status\</path>
+	<ui_files>
+		<file>
+			<name>summary.xml</name>
+			<hash>BB812C77151FD6B3524664C1CD3E2819BA03DC79</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>summary.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Mini Transparent No-Hover</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_compact__no_hover_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>EF769017E267346637A28302296A2DF0D57174A9</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>mini.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Non Transparent Group</title>
+	<group>Group Main</group>
+	<description></description>
+
+	<path>Options\group_main_ghostui_E\</path>
+	<ui_files>
+		<file>
+			<name>stats_group_window.xml</name>
+			<hash>CF30157A315953B0B117107F553C989AAFC1DD64</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>group.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Single Column</title>
+	<group>Mini Resists</group>
+	<description></description>
+
+	<path>Options\mini_resists_single_column\</path>
+	<ui_files>
+		<file>
+			<name>ghost_miniresists.xml</name>
+			<hash>002C8A446540F2BBB0A2540D9620BCE5CC809BD4</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>miniresists.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Verdana 14 bold</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_verdana14bold\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>EC45712C1A86E23FED8ADF21D15E88C5131874B4</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Reverse Health Transparent Background</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_reverse_transparent\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>250E6C0974C0140250EE9E641F2D00227AB44428</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>reverse_trasnparent.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1</title>
+	<group>Experience (Champion)</group>
+	<description>It will look like Type 1 (non transparent) when you hover your mouse over it.</description>
+
+	<path>Options\clxp_type1\</path>
+	<ui_files>
+		<file>
+			<name>ghost_clxp.xml</name>
+			<hash>8BC93BF4B12F743D576E8CD09AF9120A58526042</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>cl.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Concentration Normal</title>
+	<group>Concentration</group>
+	<description></description>
+
+	<path>Options\concentration_standard\</path>
+	<ui_files>
+		<file>
+			<name>concentration_window.xml</name>
+			<hash>F12E9FF086C4CFB1E852B0627A52503EDFF33ECF</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>conc.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Verdana 14</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_verdana14\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>5FA348349BCFB27BAB6A08ACB2FC1FA1C84F629A</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Arial 9 outlined</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_arial9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>29552B2BC3E4F0B63D028B11C6B08EA80F720681</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Green</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_green\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>C4CE96F10EE52C163A4BBD97BAF9B42A8660705F</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>green.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Round Compass</title>
+	<group>Compass</group>
+	<description></description>
+
+	<path>Options\compass_round\</path>
+	<ui_files>
+		<file>
+			<name>compass.xml</name>
+			<hash>692830086101F42A59BFFEEB9A3476A18F60B897</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>compass_round.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Three Column</title>
+	<group>Mini Resists</group>
+	<description></description>
+
+	<path>Options\mini_resists_three_column\</path>
+	<ui_files>
+		<file>
+			<name>ghost_miniresists.xml</name>
+			<hash>BE5DE34A6FD757D51768FC859EA0B6DE1961CFBB</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>miniresists.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Background</title>
+	<group>Realm War Map</group>
+	<description></description>
+
+	<path>Options\realmwar_default\</path>
+	<ui_files>
+		<file>
+			<name>realmwar_agramon.xml</name>
+			<hash>D5D9F8830633A078CAF9AC4B04B1773955F9F0F0</hash>
+		</file>
+		<file>
+			<name>realmwar_alb.xml</name>
+			<hash>CF8C28F96B287BD6B1917BAF201B2C0412E5884F</hash>
+		</file>
+		<file>
+			<name>realmwar_hib.xml</name>
+			<hash>C82952FE682125295065FE66E44866EA1A39B7BE</hash>
+		</file>
+		<file>
+			<name>realmwar_mid.xml</name>
+			<hash>8E73D0612178DD6C8E6C48C7E213886B24810128</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rw.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Arial 9 (game default)</title>
+	<group>Chat Font</group>
+	<description>It's recommended you use the non-transparent chat window with this font.</description>
+
+	<path>Options\chat_font__game_default__arial9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>35ACCE707426EC33FFA6DC8A4EC914EBC1350EDB</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1</title>
+	<group>Experience (Realm Points)</group>
+	<description>It will look like Type 1 (non transparent) when you hover your mouse over it.</description>
+
+	<path>Options\rp_type1\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rp.xml</name>
+			<hash>2A828BEE9811C1A33638083355D76D2530E796B2</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Transparent Group</title>
+	<group>Group Main</group>
+	<description>An increased number of buffs will show under each player's name/bars.</description>
+
+	<path>Options\group_main_ghostui_F\</path>
+	<ui_files>
+		<file>
+			<name>stats_group_window.xml</name>
+			<hash>7B495FD157DAF9DA257AC737A31B996D4DBAD9A2</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>group.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Normal Toolbar</title>
+	<group>Toolbar</group>
+	<description></description>
+
+	<path>Options\daoc_toolbar_default\</path>
+	<ui_files>
+		<file>
+			<name>stats_index_window.xml</name>
+			<hash>A77FC473E8B784EF4D0B2AE53D9D1E7D3DB5D664</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>toolbar.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Reverse Health Transparent with Hover</title>
+	<group>Group Mini</group>
+	<description>Hovering over will cause a black background to appear.</description>
+
+	<path>Options\group_mini_reverse_transparent_hover\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>36DD16EB729E381759781E46AD869E55F03D121B</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>reverse_trasnparent.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Horizontal Helper</title>
+	<group>Group Healer Helper</group>
+	<description>The borders will change colors (gray, blue, yellow, red) as group members take more damage.</description>
+
+	<path>Options\group_helper_ghostui_E\</path>
+	<ui_files>
+		<file>
+			<name>ghost_horiz_group_window.xml</name>
+			<hash>5FF09DA947C49123D5003F7D5AF2E71A9353FE1F</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>helper.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1 (not transparent)</title>
+	<group>Experience</group>
+	<description></description>
+
+	<path>Options\xp_type1__non_transparent_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_xp.xml</name>
+			<hash>86F617D3C503FA2CD56902A4E389E0B42381A6A3</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>xp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Orange</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_orange\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>D0FC263520812DC25D46CF67C517B13701EC5C9F</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>orange.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Purple</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_purple\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>763BC64803227D17EE94FE79C775B99FE52E0A20</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>purple.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Reverse Health Normal Background</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_reverse_standard\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>545820545753ACF0021AD030FB14B24D85FB7285</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>reverse_standard.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Concentration Large</title>
+	<group>Concentration</group>
+	<description></description>
+
+	<path>Options\concentration__group_buffs_size_\</path>
+	<ui_files>
+		<file>
+			<name>concentration_window.xml</name>
+			<hash>402A19CEC1DAD538D52FB356AD5EC07AFE1A78EF</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>conc.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Verdana 11</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_verdana11\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>70F170613D350C00F561596108C638007D9110C0</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Classic Helper</title>
+	<group>Group Healer Helper</group>
+	<description>The backgrounds will change colors as group members take more damage.</description>
+
+	<path>Options\group_helper_hh_original\</path>
+	<ui_files>
+		<file>
+			<name>ghost_horiz_group_window.xml</name>
+			<hash>40F75F03AEEC00B1EE4256B9E5C518AB2652DF8C</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>helper.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1</title>
+	<group>Experience</group>
+	<description>It will look like Type 1 (non transparent) when you hover your mouse over it.</description>
+
+	<path>Options\xp_type1\</path>
+	<ui_files>
+		<file>
+			<name>ghost_xp.xml</name>
+			<hash>28264137C6EAD8EA32A9BD1234875452FB7BAA51</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>xp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 3</title>
+	<group>Experience (Champion)</group>
+	<description></description>
+
+	<path>Options\clxp_type3__ultracompact_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_clxp.xml</name>
+			<hash>6D2A0B231806A55D45B150F86041C26E295DEAFA</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>cl.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Tahoma 11</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_tahoma11\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>900F3A82932328CC277B7F89C88E61E7B3E9300E</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Side Group (No Hover)</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_large_sidegroup_100_percent_clickability__no_hover_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>E419A3EED9CAB21D897686894E1F512E84CD49E4</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>sidegroup.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Mini Non-Transparent with Classnames</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_compact_classes__non_transparent_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>408DD66D7B4CDCD16C996A2B34D0C716E538572E</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>mini.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Transparent</title>
+	<group>Realm War Map</group>
+	<description>Warning: you cannot click-through transparent looking portions of this window.</description>
+
+	<path>Options\realmwar_transparent\</path>
+	<ui_files>
+		<file>
+			<name>realmwar_agramon.xml</name>
+			<hash>1CAAF59988E9EEC45E459E922580D5808DA1CA7C</hash>
+		</file>
+		<file>
+			<name>realmwar_alb.xml</name>
+			<hash>3C6C336B473DD9DFC686EE17895B4CFF587D2FA8</hash>
+		</file>
+		<file>
+			<name>realmwar_hib.xml</name>
+			<hash>F6EF54BFC5E4B571553087AACD43B6C4D69AF51B</hash>
+		</file>
+		<file>
+			<name>realmwar_mid.xml</name>
+			<hash>BDA128B2E6CA7B4117395BF85E8650EB887045EA</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rw.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Mini Transparent</title>
+	<group>Group Mini</group>
+	<description>The black background will disapear when the mouse is moved away.</description>
+
+	<path>Options\group_mini_compact__hover_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>355C8BF7972EC134A4D1F0734172B57A3AF40D96</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>mini.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Large</title>
+	<group>Pulse</group>
+	<description></description>
+
+	<path>Options\pulse_large\</path>
+	<ui_files>
+		<file>
+			<name>ghost_pulse.xml</name>
+			<hash>5B5E5644F363825DE0C1866EBC4F8C817DE90EFF</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>pulse.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Hanging Inventory Toolbar</title>
+	<group>Toolbar</group>
+	<description>The inventory button "hangs" off to the right so that you can place a quickbar next to the window if the windows are positioned in the top-right corner of your screen.</description>
+
+	<path>Options\daoc_toolbar_inventory_hanging\</path>
+	<ui_files>
+		<file>
+			<name>stats_index_window.xml</name>
+			<hash>CCE2A2ED064E0A4EA47B26DB5DAE27FA3D4E6BF7</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>toolbarhanging.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Tabular Chart</title>
+	<group>Realm Rank Chart</group>
+	<description>Mouse-over a row to get a row highlight. Click that row to keep or "stick" the highlight after moving the mouse away. Re-click to disable the highlight-stick.</description>
+
+	<path>Options\realm_rank_chart_tabular\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rpchart.xml</name>
+			<hash>E7A941701336ACCDC508C28A230C49401E54A075</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rrchart.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Classic Helper Shadowed Fonts</title>
+	<group>Group Healer Helper</group>
+	<description>Same as classic helper but with all shadowed fonts.</description>
+
+	<path>Options\group_helper_hh_original_shadowed\</path>
+	<ui_files>
+		<file>
+			<name>ghost_horiz_group_window.xml</name>
+			<hash>40068FC57AB8B44AD33B8DFF20BCCCA3C689E945</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>helper.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>New Style (Large)</title>
+	<group>Summary</group>
+	<description>New style summary (slightly larger).</description>
+
+	<path>Options\summary_ghost_newstyle\</path>
+	<ui_files>
+		<file>
+			<name>summary.xml</name>
+			<hash>B27AEAB7FC8165C35C71183F91684D3870E98427</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>summary.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 2</title>
+	<group>Experience (Champion)</group>
+	<description></description>
+
+	<path>Options\clxp_type2__compacted_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_clxp.xml</name>
+			<hash>219A4614FE7B9E2961824A3DA135A16F2AC39CAD</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>cl.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Small</title>
+	<group>Pulse</group>
+	<description></description>
+
+	<path>Options\pulse_small\</path>
+	<ui_files>
+		<file>
+			<name>ghost_pulse.xml</name>
+			<hash>EDE5A3199B5114111EA63FD902F7F7C911E3A967</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>pulse.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 1 (not transparent)</title>
+	<group>Experience (Realm Points)</group>
+	<description></description>
+
+	<path>Options\rp_type1__non_transparent_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rp.xml</name>
+			<hash>7AC3E6A02D8A70D0D25A44F46AC8CA79C4CEA8C4</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Gray</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_gray\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>C5F58D5ACBBBEA1F74AFD7D67911D93E30C18150</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>gray.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Long</title>
+	<group>Merchant</group>
+	<description>Minumum Resolution 1024x768 Recommended.</description>
+
+	<path>Options\merchant_window_long\</path>
+	<ui_files>
+		<file>
+			<name>merchant_window.xml</name>
+			<hash>2B6ABB75C3B355C393BE1CA7BB0C376E93A6AADB</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>merchant_long.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Reverse Health Black Background</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_reverse_blackbg\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>097D990A39CFA5C9F2F7803C53954AD3266D7962</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>reverse_blackbg.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 2</title>
+	<group>Experience</group>
+	<description></description>
+
+	<path>Options\xp_type2__compacted_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_xp.xml</name>
+			<hash>AAFDA5B8F28F55C1665AA0BD1C9F3AB871914597</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>xp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Verdana 12 bold</title>
+	<group>Chat Font</group>
+	<description></description>
+
+	<path>Options\chat_font_verdana12bold\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>050DDDB379E4F5765639B1DEF5D17BA1B9747E56</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 3</title>
+	<group>Experience</group>
+	<description></description>
+
+	<path>Options\xp_type3__ultracompact_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_xp.xml</name>
+			<hash>727CE14A2BA55538DA8D21D9E92D4F5CB4F2B7EE</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>xp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Small Font Clock</title>
+	<group>Clock</group>
+	<description></description>
+
+	<path>Options\clock_tahoma9_strong\</path>
+	<ui_files>
+		<file>
+			<name>clock_window.xml</name>
+			<hash>03A50814525429D701FC6EBAC238FEE858E92D08</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>clock.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Ghost Ordering</title>
+	<group>Summary</group>
+	<description></description>
+
+	<path>Options\summary_ghost_ordering\</path>
+	<ui_files>
+		<file>
+			<name>summary.xml</name>
+			<hash>C4B7326D5A2694F73843775B591A35731867B6D7</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>summary.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Arial 11 (game default)</title>
+	<group>Chat Font</group>
+	<description>It's recommended you use the non-transparent chat window with this font.</description>
+
+	<path>Options\chat_font__game_default__arial11\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>E3076C2DAD6B88B0C32ACCD5916F35245AFD6278</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>font.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Large Font Clock</title>
+	<group>Clock</group>
+	<description></description>
+
+	<path>Options\clock_verdana14bold_shadowed\</path>
+	<ui_files>
+		<file>
+			<name>clock_window.xml</name>
+			<hash>63831ED972CDDB50FE3FCB24BADD405FAE68C60A</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>clock.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Standard Compass</title>
+	<group>Compass</group>
+	<description></description>
+
+	<path>Options\compass_standard\</path>
+	<ui_files>
+		<file>
+			<name>compass.xml</name>
+			<hash>74762BBDB1A53F7455B0127405329FB223D2286D</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>compass_standard.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Blue</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_blue\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>6A0F3243D06D3951BBDECC2A1CC80693A8F69951</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>blue.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Mini Non Transparent</title>
+	<group>Group Mini</group>
+	<description></description>
+
+	<path>Options\group_mini_compact__non_transparent_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>DAA960B9BCC7AD049521A53441D0144830B14B94</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>mini.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Red</title>
+	<group>Target Bar Color</group>
+	<description></description>
+
+	<path>Options\target_status_bar_color_red\</path>
+	<ui_files>
+		<file>
+			<name>ghost_targetbarcolor.xml</name>
+			<hash>34C9B61E100ABB45E587EB5F5CE1581938A1DE73</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>red.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Side Group 60-clickability</title>
+	<group>Group Mini</group>
+	<description>A little more than half-way from the left, you will be able to select the group member, after that, the window is "transparent" so that you can click through it.</description>
+
+	<path>Options\group_mini_large_sidegroup_60_percent_clickability\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>74200B973AA158729855D8419ABD50EE4C5F0DC5</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>sidegroup.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Three Column Verdana 14 bold</title>
+	<group>Mini Stats</group>
+	<description></description>
+
+	<path>Options\mini_stats_three_column_verdana14_bold\</path>
+	<ui_files>
+		<file>
+			<name>ghost_ministats.xml</name>
+			<hash>45ECD867F57DD0FD26B4173285CB19697B58719A</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>stats.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Side Group</title>
+	<group>Group Mini</group>
+	<description>The black background will disapear when the mouse is moved away.</description>
+
+	<path>Options\group_mini_large_sidegroup_100_percent_clickability__with_hover_\</path>
+	<ui_files>
+		<file>
+			<name>minigroup_window.xml</name>
+			<hash>4735042FF60532880DB9B2969DC44BD1E4620F9F</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>sidegroup.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Type 2</title>
+	<group>Experience (Realm Points)</group>
+	<description></description>
+
+	<path>Options\rp_type2__compacted_\</path>
+	<ui_files>
+		<file>
+			<name>ghost_rp.xml</name>
+			<hash>5D9C34B0683FF9D2DC914650EC9E1525EC66DD7C</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>rp.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Daoc Ordering</title>
+	<group>Summary</group>
+	<description></description>
+
+	<path>Options\summary_daoc_ordering\</path>
+	<ui_files>
+		<file>
+			<name>summary.xml</name>
+			<hash>47D8D86DA3B03600B924D7CCD25F669DE1AA346F</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>summary.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Standard</title>
+	<group>Merchant</group>
+	<description></description>
+
+	<path>Options\merchant_window_standard\</path>
+	<ui_files>
+		<file>
+			<name>merchant_window.xml</name>
+			<hash>1D0BF7A0BB2AAA029B8DC2E2F46D185B4D9C32FB</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>merchant_standard.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Single Column</title>
+	<group>Mini Stats</group>
+	<description></description>
+
+	<path>Options\mini_stats_single_column_tahoma9\</path>
+	<ui_files>
+		<file>
+			<name>ghost_ministats.xml</name>
+			<hash>170B09376A32521EE82AB2E278132C80A1FA27ED</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>stats.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>New Style (Compact)</title>
+	<group>Summary</group>
+	<description></description>
+
+	<path>Options\summary_ghost_newstyle_compact\</path>
+	<ui_files>
+		<file>
+			<name>summary.xml</name>
+			<hash>B335307B68C7C4535873E0AEDA78A401DAC75C56</hash>
+		</file>
+	</ui_files>
+	<image_files>
+		<ifname>summary.gif</ifname>
+	</image_files>
+</option>
+
+<option>
+
+	<title>Myriad Pro True Type (game default)</title>
+	<group>Chat Font</group>
+	<description>NEW true-type font (resizable in game).</description>
+
+	<path>Options\chat_font__game_default__ttf_myriadpro\</path>
+	<ui_files>
+		<file>
+			<name>ghost_chatfont.xml</name>
+			<hash>BB98C971CAE86DCA5079704EADA205072E3E63D7</hash>
+		</file>
+	</ui_files>
+	<image_files>
+	</image_files>
+</option>
+
+</configuration>

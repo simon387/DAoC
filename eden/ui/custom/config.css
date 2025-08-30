@@ -1,0 +1,168 @@
+body {
+	font-family: Verdana;
+	margin: 0px;
+}
+
+p {
+	font-size: 11pt;
+	margin:0px;
+	padding:0px;
+	padding-bottom: 10px;
+	padding-right: 5px;
+}
+
+p.exitMessage {
+	padding: 10px;
+}
+
+#bodyContainer {
+	/*border: 1px solid black;*/
+}
+
+#mainContentContainer {
+	padding: 5px;
+	margin-left: 180px;
+}
+
+#grouptoc {
+	position: absolute;
+	top: 33px;
+	left: 0px;
+	list-style-type: none;
+	margin: 0;
+	padding: 5px;
+	font-size: 10pt;
+	font-weight: bold;
+}
+
+#grouptoc li {
+	padding-left: 5px;
+	font-weight: normal;
+}
+
+#quitlink {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	color: #fff;
+	margin: 5px;
+	margin-right: 10px;
+	text-decoration: none;
+}
+
+.pageTitle {
+	padding: 0px 10px 0px 10px;
+	margin: 0px;
+	color: #fff;
+	font-size: 18pt;
+	/*background: #ba0;*/
+	background: #23a;
+	/*border-bottom: 3px solid #650;*/
+	border-bottom: 3px solid #016;
+}
+
+h2.groupTitle {
+	font-size: 12pt;
+	padding: 0px;
+	margin: 5px;
+}
+
+.groupContainer {
+	clear: both;
+	/*
+	background-color: #ddd;
+	border: 1px solid #bfbfbf;
+	background-color: #dedca6;
+	border: 1px solid #bfbe8f;
+	background-color: #a6b1de;
+	border: 1px solid #8f98bf;
+	*/
+	background-color: #bfccff;
+	border: 1px solid #8f98bf;
+	margin-bottom: 10px;
+}
+
+a.optionContainerSelected {
+	float: left;
+	background-color: #dedca6;
+	border: 1px solid #bfbe8f;
+	margin: 10px;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+}
+
+a.optionContainerSelected:hover {
+	float: left;
+	background-color: #dedca6;
+	border: 2px solid #444;
+	margin: 10px;
+	padding: 4px;
+}
+
+a.optionContainerUnselected {
+	float: left;
+	background-color: #cccccc;
+	border: 1px solid #aaa;
+	margin: 10px;
+	padding: 5px;
+	text-decoration: none;
+	color: black;
+}
+
+a.optionContainerUnselected:hover {
+	float: left;
+	background-color: #dea6a6;
+	border: 2px solid #444;
+	margin: 10px;
+	padding: 4px;
+}
+
+			
+hr.optionContainerHr {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	color: #bfccff;
+	border: 0;
+}
+
+.optionTitle {
+	font-size: 10pt;
+	padding-bottom: 5px;
+	font-weight: bold;
+}
+
+.optionImages {
+	
+}
+
+.optionDescription {
+	font-size: 8pt;
+	/*font-style: italic;*/
+	width: 200px;
+}
+
+.imagePreview {
+	
+}
+
+.importantMessage {
+	font-size: 10pt;
+	padding: 5px;
+	clear: both;
+}
+
+.topLink {
+	font-size: 10pt;
+}
+
+span.topLink {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+a.topLink {
+	padding-left: 2px;
+	padding-right: 2px;
+}

@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+    <WindowTemplate>
+        <Name>interface_elements_window</Name>
+        <WindowId>interface_elements</WindowId>
+        <CloseButton>true</CloseButton>
+        <MoveButton>true</MoveButton>
+        <TopRightResizeButton>false</TopRightResizeButton>
+        <BottomRightResizeButton>false</BottomRightResizeButton>
+        <BottomLeftResizeButton>false</BottomLeftResizeButton>
+        <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
+        <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
+        <TitleWidth>350</TitleWidth>
+        <TitleHeight>8</TitleHeight>
+        <Width>350</Width>
+        <Height>475</Height>
+        <ResizeableWidth>0</ResizeableWidth>
+        <ResizeableHeight>0</ResizeableHeight>
+        <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+        <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+        <MinWidth>0</MinWidth>
+        <MinHeight>0</MinHeight>
+        <ContextTemplateName></ContextTemplateName>
+
+
+        <FullResizeImageDef>
+            <ControlId>ImageBackground</ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>normal_bg</TemplateName>
+            <Width>350</Width>
+            <Height>475</Height>
+        </FullResizeImageDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>115</X>
+                <Y>20</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>125</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>INTERFACE ELEMENTS</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>330</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Performance</Label>
+            <Width>85</Width>
+            <onClickEvent>TogglePerformanceMeter</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>360</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Realm Bonuses</Label>
+            <Width>85</Width>
+            <onClickEvent>WarmapUpdateBonuses</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>380</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Relic Status</Label>
+            <Width>85</Width>
+            <onClickEvent>Relic</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>400</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Keep Status</Label>
+            <Width>85</Width>
+            <onClickEvent>Realm</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>260</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Quest Journal</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleJournal</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>280</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Map</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMap</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>300</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Realm War</Label>
+            <Width>85</Width>
+            <onClickEvent>ShowWarmap</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>270</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Mount Window</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMount</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>250</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Title Window</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleTitle</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>240</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Master Levels</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMasterLevel</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>70</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Summary</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleSummary</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>90</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>New Summary</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleNewSummary</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>110</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Bonuses</Label>
+            <Width>85</Width>
+            <onClickEvent>Bonuses</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>350</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Clock</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleClock</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>370</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Compass</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleCompassWindow</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>150</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Level Exp.</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleFloatLevelXP</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>170</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Realm Rank</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleFloatRealmXP</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>190</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Champion Exp.</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleFloatChampXP</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>390</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Command</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleCommandWindow</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>410</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Menu Bar</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMenuBar</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>180</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Mini-Friends</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMiniFriends</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>230</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Quiver</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleQuiver</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>52</X>
+                <Y>210</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Pet Window</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMiniPet</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>80</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Concentration</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleConcentration</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>160</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Social Window</Label>
+            <Width>85</Width>
+            <onClickEvent>Community</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>100</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Group Benefits</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleGroupBuffs</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>140</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Mini-Group</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleMiniGroup</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>215</X>
+                <Y>120</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Floating Group</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleNewGroup</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <HorizontalResizeButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>50</X>
+                <Y>130</Y>
+            </Position>
+            <Alignment>
+            </Alignment>
+            <TemplateName>generic_hr_button_barb10</TemplateName>
+            <Label>Floating Target</Label>
+            <Width>85</Width>
+            <onClickEvent>ToggleFloatTarget</onClickEvent>
+        </HorizontalResizeButtonDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>25</X>
+                <Y>310</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Color>
+                <R>204</R>
+                <G>204</G>
+                <B>0</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>120</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>Miscellaneous:</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>190</X>
+                <Y>60</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Color>
+                <R>204</R>
+                <G>204</G>
+                <B>0</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>120</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>Groups &amp; Buffs:</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>25</X>
+                <Y>50</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Color>
+                <R>204</R>
+                <G>204</G>
+                <B>0</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>120</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>Personal Info:</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>185</X>
+                <Y>340</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Color>
+                <R>204</R>
+                <G>204</G>
+                <B>0</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>120</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>Realm Info:</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>185</X>
+                <Y>220</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Color>
+                <R>204</R>
+                <G>204</G>
+                <B>0</B>
+                <A>255</A>
+            </Color>
+            <FontName>barb10</FontName>
+            <Width>120</Width>
+            <Height>15</Height>
+            <ColorAdapter></ColorAdapter>
+            <MaxCharacters>999</MaxCharacters>
+            <Data>Maps &amp; Journals:</Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <Adapter></Adapter>
+        </LabelDef>
+
+
+    </WindowTemplate>
+
+
+</Root_Element>

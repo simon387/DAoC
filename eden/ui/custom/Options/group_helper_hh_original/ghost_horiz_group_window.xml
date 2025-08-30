@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+
+<!-- @@ Edited with the DAoC User Interface Editor v1.75 -->
+<!-- @@ Free download available at http://www.bradtownsend.com/daoced -->
+
+    <Texture>
+        <Name>health_status_icon</Name>
+        <File>custom/ghost_hh_statusicon_original.tga</File>
+    </Texture>
+
+    <StatusIconTemplate>
+        <Name>HSI</Name>
+        <TextureName>health_status_icon</TextureName>
+        <TextureStart>
+            <X>0</X>
+            <Y>0</Y>
+        </TextureStart>
+        <Width>64</Width>
+        <Height>64</Height>
+        <MaxLevels>16</MaxLevels>
+        <Horizontal>true</Horizontal>
+    </StatusIconTemplate>
+
+    <WindowTemplate>
+        <Name>custom7_window</Name>
+        <WindowId>custom7_window</WindowId>
+        <CloseButton>false</CloseButton>
+        <MoveButton>false</MoveButton>
+        <TopRightResizeButton>false</TopRightResizeButton>
+        <BottomRightResizeButton>false</BottomRightResizeButton>
+        <BottomLeftResizeButton>false</BottomLeftResizeButton>
+        <ResizeButtonOffsetX>0</ResizeButtonOffsetX>
+        <ResizeButtonOffsetY>0</ResizeButtonOffsetY>
+        <TitleWidth>0</TitleWidth>
+        <TitleHeight>0</TitleHeight>
+        <Width>196</Width>
+        <Height>196</Height>
+        <ResizeableWidth>0</ResizeableWidth>
+        <ResizeableHeight>0</ResizeableHeight>
+        <ResizeableTwoWayWidth>0</ResizeableTwoWayWidth>
+        <ResizeableTwoWayHeight>0</ResizeableTwoWayHeight>
+        <MinWidth>0</MinWidth>
+        <MinHeight>0</MinHeight>
+
+        <FullResizeImageDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_window_background_transparent</TemplateName>
+            <Width>196</Width>
+            <Height>196</Height>
+        </FullResizeImageDef>
+
+        <!-- GROUP MEMBER 1 -->
+
+        <!-- red health icon -->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health0</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>1</X>
+                <Y>1</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name0</Adapter>
+            <ColorAdapter>group_color0</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level0</Adapter>
+            <ColorAdapter>group_color0</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>14</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class0</Adapter>
+            <ColorAdapter>group_color0</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>36</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power0</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember0</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 2-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health1</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>67</X>
+                <Y>1</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name1</Adapter>
+            <ColorAdapter>group_color1</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level1</Adapter>
+            <ColorAdapter>group_color1</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>80</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class1</Adapter>
+            <ColorAdapter>group_color1</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>87</X>
+                <Y>36</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power1</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember1</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 3-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health2</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>135</X>
+                <Y>1</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name2</Adapter>
+            <ColorAdapter>group_color2</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level2</Adapter>
+            <ColorAdapter>group_color2</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>146</X>
+                <Y>53</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class2</Adapter>
+            <ColorAdapter>group_color2</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>36</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power2</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>0</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember2</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 4-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health3</AdapterName>
+        </StatusIconDef>
+
+        <!-- character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>1</X>
+                <Y>67</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name3</Adapter>
+            <ColorAdapter>group_color3</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>119</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level3</Adapter>
+            <ColorAdapter>group_color3</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>14</X>
+                <Y>119</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class3</Adapter>
+            <ColorAdapter>group_color3</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>102</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power3</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember3</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- POWER -->
+
+        <VerticalStatusbarDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_hh_vertical_power_cell</TemplateName>
+            <AdapterName>summary_player_power</AdapterName>
+            <Height>64</Height>
+            <DontDrawWhenZero>false</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </VerticalStatusbarDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>75</X>
+                <Y>102</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>summary_player_power</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>50</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>true</TextCentered>
+            <DontDrawWhenZero>false</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- BUTTON -->
+
+        <ButtonDef>
+            <ControlId>1914</ControlId>
+            <Position>
+                <X>66</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>g_hh_face</TemplateName>
+            <Label></Label>
+            <onClickEvent>Face</onClickEvent>
+        </ButtonDef>
+
+        <!-- GROUP MEMBER 5-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health4</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>133</X>
+                <Y>67</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name4</Adapter>
+            <ColorAdapter>group_color4</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>119</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level4</Adapter>
+            <ColorAdapter>group_color4</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>146</X>
+                <Y>119</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class4</Adapter>
+            <ColorAdapter>group_color4</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>102</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power4</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>66</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember4</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 6-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health5</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>1</X>
+                <Y>133</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name5</Adapter>
+            <ColorAdapter>group_color5</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level5</Adapter>
+            <ColorAdapter>group_color5</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>14</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class5</Adapter>
+            <ColorAdapter>group_color5</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>168</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power5</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>0</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember5</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 7-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health6</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>67</X>
+                <Y>133</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name6</Adapter>
+            <ColorAdapter>group_color6</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level6</Adapter>
+            <ColorAdapter>group_color6</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>80</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class6</Adapter>
+            <ColorAdapter>group_color6</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>87</X>
+                <Y>168</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power6</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>66</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember6</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <!-- GROUP MEMBER 8-->
+
+        <StatusIconDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <TemplateName>HSI</TemplateName>
+            <AdapterName>group_health7</AdapterName>
+        </StatusIconDef>
+
+        <!-- Character name -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>133</X>
+                <Y>133</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_name7</Adapter>
+            <ColorAdapter>group_color7</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>31</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- level number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_level7</Adapter>
+            <ColorAdapter>group_color7</ColorAdapter>
+            <Width>13</Width>
+            <Height>12</Height>
+            <MaxCharacters>3</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- class text -->
+
+        <LabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>146</X>
+                <Y>185</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>arial9</FontName>
+            <Adapter>group_class7</Adapter>
+            <ColorAdapter>group_color7</ColorAdapter>
+            <Width>63</Width>
+            <Height>12</Height>
+            <MaxCharacters>5</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+        </LabelDef>
+
+        <!-- power as a number -->
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>168</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_power7</Adapter>
+            <ColorAdapter></ColorAdapter>
+            <Width>32</Width>
+            <Height>32</Height>
+            <MaxCharacters>4</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>0</B>
+                <A>196</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <!-- clicky-->
+
+        <InvisibleButtonDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>132</X>
+                <Y>132</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <Label></Label>
+            <OnClickEvent>SelectGroupMember7</OnClickEvent>
+            <Width>64</Width>
+            <Height>64</Height>
+        </InvisibleButtonDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>18</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health0</Adapter>
+            <ColorAdapter>group_color0</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>87</X>
+                <Y>18</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health1</Adapter>
+            <ColorAdapter>group_color1</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>18</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health2</Adapter>
+            <ColorAdapter>group_color2</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>84</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health3</Adapter>
+            <ColorAdapter>group_color3</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>84</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health4</Adapter>
+            <ColorAdapter>group_color4</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>21</X>
+                <Y>150</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health5</Adapter>
+            <ColorAdapter>group_color5</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>87</X>
+                <Y>150</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health6</Adapter>
+            <ColorAdapter>group_color6</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+        <ScalarLabelDef>
+            <ControlId></ControlId>
+            <Position>
+                <X>153</X>
+                <Y>150</Y>
+            </Position>
+            <Alignment>
+                <TopLeft>true</TopLeft>
+            </Alignment>
+            <FontName>ghost_verdana14bold</FontName>
+            <Adapter>group_health7</Adapter>
+            <ColorAdapter>group_color7</ColorAdapter>
+            <Width>40</Width>
+            <Height>25</Height>
+            <MaxCharacters>999</MaxCharacters>
+            <Color>
+                <R>255</R>
+                <G>255</G>
+                <B>255</B>
+                <A>255</A>
+            </Color>
+            <Data></Data>
+            <EndAligned>false</EndAligned>
+            <TextCentered>false</TextCentered>
+            <DontDrawWhenZero>true</DontDrawWhenZero>
+	    <DontDrawWhenNegOne>true</DontDrawWhenNegOne>
+        </ScalarLabelDef>
+
+    </WindowTemplate>
+
+</Root_Element>

@@ -1,0 +1,1 @@
+An increased number of buffs will show under each player's name/bars.

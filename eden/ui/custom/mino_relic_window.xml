@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+	
+	<WindowTemplate>
+		<Name>mino_relic</Name>
+		<WindowId>MinoRelic</WindowId>
+		<CloseButton>false</CloseButton>
+		<MoveButton>true</MoveButton>
+		<Width>250</Width>
+		<Height>44</Height>
+		<TitleWidth>250</TitleWidth>
+		<TitleHeight>18</TitleHeight>
+
+		<!-- Background -->
+		<FullResizeImageDef>
+			<ControlId>BackgroundImage</ControlId>
+			<Width>250</Width>
+			<Height>44</Height>
+			<Position>
+				<X>0</X>
+				<Y>0</Y>
+			</Position>
+			<TemplateName>g_window_background</TemplateName>
+		</FullResizeImageDef>
+
+		<!-- Title -->
+
+		<LabelDef>
+			<Color>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+				<A>255</A>
+			</Color>
+			<FontName>arial11</FontName>
+			<Width>250</Width>
+			<Height>15</Height>
+			<MaxCharacters>128</MaxCharacters>
+			<Position>
+				<X>0</X>
+				<Y>4</Y>
+			</Position>
+			<Adapter></Adapter>
+			<Data>Minotaur Relic Timer</Data>
+			<Alignment>
+				<CenterHorizontally>true</CenterHorizontally>
+				<GrowWidth>true</GrowWidth>
+			</Alignment>
+		</LabelDef>
+
+		<!-- Drop button -->
+		<ButtonDef>
+			<TemplateName>g_generic_button</TemplateName>
+			<OnClickEvent>MinoRelicDrop</OnClickEvent>
+			<ControlId>1000</ControlId>
+			<Label>DROP</Label>
+			<Position>
+				<X>6</X>
+				<Y>22</Y>
+			</Position>
+		</ButtonDef>
+
+		<!-- Timer bar -->
+		<StatusBarDef>
+			<Position>
+				<X>74</X>
+				<Y>26</Y>
+			</Position>
+			<TemplateName>yellow_status</TemplateName>
+			<Adaptername>mino_relic_time_percent</Adaptername>
+			<Width>166</Width>
+		</StatusBarDef>
+
+		<ImageAreaDef>
+			<TemplateName>sm_horiz_endcap_left_thin</TemplateName>
+			<Position>
+				<X>72</X>
+				<Y>26</Y>
+			</Position>
+		</ImageAreaDef>
+		<ImageAreaDef>
+			<TemplateName>sm_horiz_endcap_right_thin</TemplateName>
+			<Position>
+				<X>240</X>
+				<Y>26</Y>
+			</Position>
+		</ImageAreaDef>
+	</WindowTemplate>
+</Root_Element>

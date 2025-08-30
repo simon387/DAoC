@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Root_Element ID="DAOCUi">
+	<WindowTemplate>
+		<Name>daoc_subclass</Name>
+		<CloseButton>true</CloseButton>
+		<MoveButton>true</MoveButton>
+		<Width>255</Width>
+		<Height>360</Height>
+		<TitleWidth>250</TitleWidth>
+		<TitleHeight>18</TitleHeight>
+		<ResizeableWidth>0</ResizeableWidth>
+		<ResizeableHeight>0</ResizeableHeight>
+		<WindowId>DAoC_Subclass</WindowId>
+		<BottomRightResizeButton>false</BottomRightResizeButton>
+		<BottomLeftResizeButton>false</BottomLeftResizeButton>
+		<ResizeButtonOffsetX>9</ResizeButtonOffsetX>
+		<MinWidth>250</MinWidth>
+		<MinHeight>360</MinHeight>
+		
+		<FullResizeImageDef>
+			<ControlId>BackgroundImage</ControlId>
+			<Height>360</Height>
+			<Width>255</Width>
+			<Position>
+				<X>0</X>
+				<Y>0</Y>
+			</Position>
+			<TemplateName>g_window_background</TemplateName>
+			<Alignment>
+				<GrowWidth>true</GrowWidth>
+				<GrowHeight>true</GrowHeight>
+			</Alignment>
+		</FullResizeImageDef>
+		
+		<LabelDef>
+			<ControlId>1000</ControlId>
+			<Color>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+				<A>255</A>
+			</Color>
+			<FontName>arial11</FontName>
+			<Width>256</Width>
+			<Height>15</Height>
+			<MaxCharacters>128</MaxCharacters>
+			<Position>
+				<X>0</X>
+				<Y>4</Y>
+			</Position>
+			<Adapter></Adapter>
+			<Data>Subclassing Window</Data>
+			<Alignment>
+				<CenterHorizontally>true</CenterHorizontally>
+				<GrowWidth>true</GrowWidth>
+			</Alignment>
+		</LabelDef>
+		
+		<LabelDef>
+			<ControlId>1001</ControlId>
+			<Color>
+				<R>255</R>
+				<G>255</G>
+				<B>255</B>
+				<A>255</A>
+			</Color>
+			<FontName>arial11</FontName>
+			<Width>256</Width>
+			<Height>15</Height>
+			<MaxCharacters>128</MaxCharacters>
+			<Position>
+				<X>18</X>
+				<Y>302</Y>
+			</Position>
+			<Adapter></Adapter>
+			<Data>Champion Points: 0 / 5</Data>
+			<!--
+			<Alignment>
+				<CenterHorizontally>true</CenterHorizontally>
+				<GrowWidth>true</GrowWidth>
+			</Alignment>
+			-->
+		</LabelDef>
+
+		<ButtonDef>
+			<ControlId>1100</ControlId>
+			<TemplateName>g_generic_button</TemplateName>
+			<OnClickEvent></OnClickEvent>
+			<Position>
+				<X>170</X>
+				<Y>330</Y>
+			</Position>
+			<Label>Cancel</Label>
+		</ButtonDef>
+		
+		<ButtonDef>
+			<ControlId>1101</ControlId>
+			<TemplateName>g_generic_button</TemplateName>
+			<OnClickEvent>Train</OnClickEvent>
+			<Position>
+				<X>100</X>
+				<Y>330</Y>
+			</Position>
+			<Label>Buy</Label>
+		</ButtonDef>
+		
+		<ButtonDef>
+			<ControlId>1102</ControlId>
+			<TemplateName>g_generic_button</TemplateName>
+			<OnClickEvent>SubclassDelve</OnClickEvent>
+			<Position>
+				<X>30</X>
+				<Y>330</Y>
+			</Position>
+			<Label>Info</Label>
+		</ButtonDef>
+				
+		<!--
+		ICONS: These aren't used except for references for positioning.
+		-->
+		<!-- Upperleft -->
+		<IconDef>
+			<ControlId>2011</ControlId>
+			<Position>
+				<X>18</X>
+				<Y>30</Y>
+			</Position>
+			<IconId>0</IconId>
+			<TemplateName>plain_icon_large</TemplateName>
+		</IconDef>
+
+		<!-- Upper Right-->
+		<IconDef>
+			<ControlId>2012</ControlId>
+			<Position>
+				<X>65</X>
+				<Y>30</Y>
+			</Position>
+			<IconId>1</IconId>
+			<TemplateName>plain_icon_large</TemplateName>
+		</IconDef>
+		
+		<!--
+		ICONS: Tier 2
+		-->
+		<!-- Lower Left -->
+		<IconDef>
+			<ControlId>2021</ControlId>
+			<Position>
+				<X>18</X>
+				<Y>89</Y>
+			</Position>
+			<IconId>0</IconId>
+			<TemplateName>plain_icon_large</TemplateName>
+		</IconDef>
+		
+		</WindowTemplate>
+</Root_Element>

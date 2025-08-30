@@ -1,0 +1,6 @@
+These folders contain other options for the UI.
+
+For example, if you think the font is too big on 
+the chat window, you can try a smaller font by 
+copying the .XML file in  "chat font tahoma9" to 
+the "custom" folder.
