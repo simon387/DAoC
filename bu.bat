@@ -2,7 +2,7 @@
 setlocal
 
 :: Variables
-set "srcDir=C:\Users\ThinkOpen\AppData\Roaming\Electronic Arts\Dark Age of Camelot\eden"
+set "srcDir=%USERPROFILE%\AppData\Roaming\Electronic Arts\Dark Age of Camelot\eden"
 set "toDir=C:\dev\DAoC\eden\backup\eden"
 :: for /f %%i in ('openssl rand -hex 16') do set "random_string=%%i"
 
