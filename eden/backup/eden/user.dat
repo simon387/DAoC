@@ -207,7 +207,7 @@ torchmode=0
 item8=2
 item2=0
 item10=0
-item7=0
+item7=2
 item5=0
 item6=2
 item1=0
@@ -217,7 +217,7 @@ item9=0
 [interface]
 item1=8
 [shadows]
-item2=1
+item2=4
 item1=0
 [water]
 item1=0
@@ -281,13 +281,13 @@ item1=9
 0-1=1
 0-0=1
 [quick]
-entry9=Pisellara, Eden, 142.132.144.167, 10300, 2, 41
-entry8=Brunetta, Eden, 142.132.144.167, 10300, 2, 41
-entry7=Rayvan, Eden, 142.132.144.167, 10300, 2, 41
-entry6=Porcodiosos, Eden, 142.132.144.167, 10300, 1, 41
-entry5=Rayvaughan, Eden, 142.132.144.167, 10300, 1, 41
-entry4=Rayvsx, Eden, 142.132.144.167, 10300, 1, 41
-entry3=Bmwskrr, Eden, 142.132.144.167, 10300, 1, 41
-entry2=Madonnaladra, Eden, 142.132.144.167, 10300, 3, 41
+entry9=Brunetta, Eden, 142.132.144.167, 10300, 2, 41
+entry8=Rayvan, Eden, 142.132.144.167, 10300, 2, 41
+entry7=Porcodiosos, Eden, 142.132.144.167, 10300, 1, 41
+entry6=Rayvaughan, Eden, 142.132.144.167, 10300, 1, 41
+entry5=Rayvsx, Eden, 142.132.144.167, 10300, 1, 41
+entry4=Bmwskrr, Eden, 142.132.144.167, 10300, 1, 41
+entry3=Madonnaladra, Eden, 142.132.144.167, 10300, 3, 41
+entry2=Porcodio, Eden, 142.132.144.167, 10300, 3, 41
 entry1=Geasy, Eden, 142.132.144.167, 10300, 3, 41
-entry0=Porcodio, Eden, 142.132.144.167, 10300, 3, 41
+entry0=Porcamadonna, Eden, 142.132.144.167, 10300, 3, 41
