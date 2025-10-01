@@ -1,0 +1,331 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 04:17 PM on set 23, 2025
+Version: 1.2.019
+
+Character Summary for aKe Caster BD 10meleemagic buff 25dura(Level 50) - Bonedancer
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+78 / 80  Constitution
+101 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+103 / 101  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+360 / 355  Hit Points
+0 / 26  Power
+
+Bonuses
+Power Pool: 30%
+Spell Duration: 25%
+Resist Pierce: 10%
+Spell Range: 15%
+Spell Damage: 10%
+Arcane Siphon: 20%
+Casting Speed: 11%
+Melee Damage: 3%
+Armor Factor: 10%
+
+Resists (Racials not included)
+31% Crush
+27% Slash
+26% Thrust
+26% Cold
+26% Energy
+26% Heat
+25% Matter
+26% Spirit
+27% Body
+
+Skills
+13 Darkness
+13 Suppression
+13 Bone Army
+
+Item Procs and Charges
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 30
+Source Type: ROG
+1. (Stat) Dexterity: +15
+2. (Bonus) Power Pool: +5
+3. (Bonus) Spell Duration: +5
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 108,5
+Source Type: Loot
+1. (Stat) Hit Points: +30
+2. (Resist) Body: +3%
+3. (Resist) Cold: +3%
+4. (Resist) Energy: +3%
+5. (Resist) Heat: +3%
+6. (Resist) Matter: +3%
+7. (Resist) Spirit: +3%
+8. (Bonus) Resist Pierce: +5
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Acuity: +10
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 56,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Dexterity: +22 [(Precious) Vapor Essence Jewel]
+2. (Resist) Spirit: +13% [(Precious) Vapor Shielding Jewel]
+3. (Resist) Thrust: +3% [(Rough) Airy Shielding Jewel]
+4. (Resist) Slash: +5% [(Flawed) Watery Shielding Jewel]
+
+
+Torso
+Name: Brittle Bone Vest
+Level: 51 (100% Quality)
+Utility: 148,5
+Source Type: Loot
+1. (Stat) Dexterity: +24
+2. (Stat) Constitution: +24
+3. (Stat) Hit Points: +50
+4. (Resist) Crush: +2%
+5. (Resist) Slash: +2%
+6. (Resist) Thrust: +2%
+7. (Bonus) Spell Range: +4
+8. (Skill) All Magic Skills: +4
+9. (Bonus) Spell Damage: +4
+10. (Stat_Cap) Cap Dexterity: +6
+
+
+Arms
+Name: Sleeves of Strife
+Level: 51 (100% Quality)
+Utility: 87
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Cold: +6%
+3. (Resist) Crush: +8%
+4. (Resist) Heat: +6%
+5. (Resist) Slash: +8%
+6. (Resist) Thrust: +8%
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 58,67
+Source Type: Spellcraft
+Imbue Points: 35 of 37,5
+1. (Stat) Piety: +25 [(Flawless) Watery Essence Jewel]
+2. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
+3. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+4. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+
+
+Legs
+Name: 
+Level: 51 (99% Quality)
+Utility: 60,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Dexterity: +10 [(Flawed) Vapor Essence Jewel]
+2. (Resist) Matter: +11% [(Faceted) Earthen Shielding Jewel]
+3. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+4. (Resist) Body: +5% [(Flawed) Dusty Shielding Jewel]
+
+
+Right Hand
+Name: Cudgel of the Undead
+Level: 51 (100% Quality)
+Utility: 98
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Resist) Energy: +8%
+3. (Resist) Thrust: +8%
+4. (Stat) Acuity: +21
+5. (Bonus) Spell Damage: +4
+6. (Bonus) Spell Duration: +4
+7. (Stat_Cap) Cap Dexterity: +5
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: Staff of Ageless Power
+Level: 51 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Focus) All Focuses: +50
+5. (Bonus) Power Pool: +5
+6. (Bonus) Spell Damage: +4
+7. (Stat_Cap) Cap Dexterity: +10
+8. (Stat_Cap) Cap Acuity: +10
+9. (Bonus_Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Ranged
+Name: Ansuz Bonedancer Staff
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (Skill) All Magic Skills: +2
+2. (Focus) All Focuses: +50
+3. (Bonus) Casting Speed: +4
+4. (Bonus) Power Pool: +5
+5. (Bonus) Spell Damage: +4
+6. (Stat_Cap) Cap Dexterity: +6
+7. (Stat_Cap) Cap Acuity: +6
+8. (Bonus_Cap) Power Pool: +6
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 107,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Gemstone of Swirling Energy
+Level: 51 (100% Quality)
+Utility: 143
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +9%
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Bonus) Melee Damage: +3
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Power Pool: +5
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Shimmering Satin Sash
+Level: 51 (100% Quality)
+Utility: 101
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Crush: +8%
+3. (Resist) Energy: +5%
+4. (Resist) Matter: +5%
+5. (Resist) Slash: +8%
+6. (Bonus) Spell Range: +3
+7. (Bonus) Power Pool: +7
+8. (Stat_Cap) Cap Hit Points: +20
+
+
+L Ring
+Name: Slime Coated Ring
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+R Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+L Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+R Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG

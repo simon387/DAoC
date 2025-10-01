@@ -1,0 +1,338 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:03 PM on set 29, 2025
+Version: 1.2.019
+
+Character Summary for Heal Warden(Level 50) - Warden
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+75 / 75  Strength
+114 / 91  Constitution
+101 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+102 / 101  Empathy
+407 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Power Pool: 38%
+Healing: 25%
+Armor Factor: 40%
+Buff: 25%
+Casting Speed: 19%
+Spell Range: 13%
+Arcane Siphon: 20%
+Debuff: 5%
+Spell Damage: 4%
+Spell Duration: 5%
+Mana Regen: 10%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+31% Thrust
+27% Cold
+27% Energy
+24% Heat
+26% Matter
+27% Spirit
+24% Body
+
+Skills
+0 Blades
+0 Blunt
+9 Regrowth
+9 Nurture
+0 Parry
+0 Shield
+
+Item Procs and Charges
+Torso:  30s
+Right Hand:  30s
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 30
+Source Type: ROG
+1. (Bonus) Power Pool: +5
+2. (Bonus) Healing: +5
+3. (Bonus) Armor Factor: +10
+
+
+Helmet
+Name: Empowering Mantle of Samhain
+Level: 51 (100% Quality)
+Utility: 90,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Cold: +7%
+3. (Resist) Slash: +7%
+4. (Stat) Acuity: +18
+5. (Bonus) Buff: +5
+6. (Bonus) Casting Speed: +2
+7. (Bonus) Power Pool: +5
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 57,34
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+2. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+3. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+4. (Stat) Strength: +28 [(Perfect) Fiery Essence Jewel]
+
+
+Torso
+Name: Veil-Touched Hauberk
+Level: 51 (100% Quality)
+Utility: 103,67
+Source Type: Loot
+Special 1:  30s
+1. (Stat) Constitution: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Spirit: +1%
+5. (Resist) Thrust: +1%
+6. (Bonus) Buff: +5
+7. (Bonus) Casting Speed: +5
+8. (Bonus) Healing: +10
+9. (Stat_Cap) Cap Dexterity: +7
+10. (Stat_Cap) Cap Acuity: +6
+
+
+Arms
+Name: Fire-Scored Sleeves
+Level: 51 (100% Quality)
+Utility: 103
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Heat: +7%
+3. (Resist) Matter: +7%
+4. (Bonus) Spell Range: +5
+5. (Bonus) Buff: +5
+6. (Bonus) Healing: +5
+7. (Stat_Cap) Cap Hit Points: +60
+
+
+Feet
+Name: 
+Level: 51 (100% Quality)
+Utility: 58,34
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Stat) Strength: +22 [(Precious) Fiery Essence Jewel]
+2. (Stat) Empathy: +16 [(Polished) Heated Essence Jewel]
+3. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+4. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+
+
+Legs
+Name: 
+Level: 51 (100% Quality)
+Utility: 61,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Strength: +25 [(Flawless) Fiery Essence Jewel]
+2. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+3. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+4. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+
+
+Right Hand
+Name: Unyielding Verdant Reclaimer
+Level: 51 (100% Quality)
+Utility: 105,67
+Source Type: Loot
+Special 2:  30s
+1. (Stat) Dexterity: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Thrust: +1%
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +10
+7. (Stat_Cap) Cap Dexterity: +5
+8. (Stat_Cap) Cap Acuity: +5
+9. (Bonus_Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Empathic Deathwatcher Chain
+Level: 51 (100% Quality)
+Utility: 115,67
+Source Type: Loot
+1. (Stat) Hit Points: +20
+2. (Resist) Body: +6%
+3. (Resist) Crush: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Thrust: +6%
+7. (Stat) Acuity: +22
+8. (Skill) All Magic Skills: +3
+9. (Stat_Cap) Cap Acuity: +3
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat_Cap) Cap Constitution: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+R Ring
+Name: Shadow Ring
+Level: 51 (100% Quality)
+Utility: 73,01
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Stat) Constitution: +16
+3. (Resist) Thrust: +10%
+4. (Stat) Acuity: +16
+5. (Bonus) Power Pool: +5
+6. (Stat_Cap) Cap Acuity: +3
+7. (Bonus_Cap) Power Pool: +5
+
+
+L Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 111,17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+R Wrist
+Name: Hydra Eyes Bracer
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+Mythical
+Name: Deserter Curative Mythirian
+Level: 51 (100% Quality)
+Utility: 40
+Source Type: Loot
+1. (Bonus) Mana Regen: +10
+2. (Bonus) Buff: +10
+3. (Bonus) Casting Speed: +2
