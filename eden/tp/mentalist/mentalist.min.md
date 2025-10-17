@@ -28,3 +28,9 @@ Sulphurous Fiend Gem             600 Daemon Blood Seals
 Director's Ring of Chaos         500 Daemon Blood Seals
 Director's Ring of Chaos         500 Daemon Blood Seals
 Gatekeeper Bracer of Chaos       500 Daemon Blood Seals
+
+Grimoire Pages                   700
+Galladoria Roots                 600
+Atlantean Glass                 1700
+Dragon Scales                   1450
+Daemon Blood Seals              2100
