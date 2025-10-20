@@ -1,0 +1,326 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:37 PM on ott 20, 2025
+Version: 1.2.019
+
+Character Summary for VampDem(Level 50) - Vampiir
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+128 / 92  Strength
+99 / 93  Constitution
+101 / 101  Dexterity
+75 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+380 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Spell Range: 8%
+Melee Damage: 10%
+Spell Damage: 8%
+Style Damage: 10%
+Melee Speed: 11%
+Casting Speed: 4%
+Armor Factor: 35%
+Healing: 5%
+Power Pool: 10%
+Resist Pierce: 10%
+
+Resists (Racials not included)
+25% Crush
+34% Slash
+25% Thrust
+24% Cold
+26% Energy
+24% Heat
+26% Matter
+25% Spirit
+24% Body
+
+Skills
+10 Piercing
+15 Shadow Mastery
+11 Vampiiric Embrace
+11 Dementia
+
+Item Procs and Charges
+
+
+Items
+
+
+Helmet
+Name: Ribbon of Flesh
+Level: 51 (100% Quality)
+Utility: 80
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Stat) Quickness: +21
+3. (Stat) Hit Points: +48
+4. (Resist) Cold: +6%
+5. (Resist) Slash: +9%
+6. (Stat_Cap) Cap Constitution: +5
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 66,34
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Quickness: +10 [(Flawed) Airy Essence Jewel]
+2. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+3. (Stat) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+4. (Resist) Body: +11% [(Faceted) Dusty Shielding Jewel]
+5. (Stat_Cap) Cap Dexterity: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Dragonslayer Soft Cruaigh Tunic
+Level: 51 (100% Quality)
+Utility: 130
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Resist) Cold: +5%
+4. (Resist) Heat: +5%
+5. (Resist) Spirit: +5%
+6. (Bonus) Spell Range: +4
+7. (Bonus) Melee Damage: +4
+8. (Bonus) Spell Damage: +4
+9. (Bonus) Style Damage: +4
+
+
+Arms
+Name: Sleeves of Decaying Flesh
+Level: 51 (100% Quality)
+Utility: 128
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Dexterity: +21
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Melee Speed: +4
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Melee Damage: +4
+
+
+Feet
+Name: Bloody Suede Boots
+Level: 51 (100% Quality)
+Utility: 131,25
+Source Type: Loot
+1. (Resist) Crush: +1%
+2. (Resist) Energy: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Spirit: +1%
+5. (Resist) Thrust: +1%
+6. (Skill) All Magic Skills: +5
+7. (Bonus) Spell Damage: +4
+8. (Stat_Cap) Cap Dexterity: +10
+9. (Stat_Cap) Cap Constitution: +10
+10. (Stat_Cap) Cap Hit Points: +45
+
+
+Legs
+Name: Astral Torporific Leggings
+Level: 51 (100% Quality)
+Utility: 125,34
+Source Type: Loot
+1. (Stat) Strength: +16
+2. (Stat) Quickness: +16
+3. (Stat) Hit Points: +40
+4. (Bonus) Melee Speed: +2
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +2
+7. (Bonus) Casting Speed: +2
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +7
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 64,67
+Source Type: Spellcraft
+Imbue Points: 35,5 of 37,5
+1. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+2. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+3. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+4. (Bonus) Armor Factor: +10 [(Raw) Not Found]
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 107,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Myrddraxis Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Potent Gem of the Sky
+Level: 51 (100% Quality)
+Utility: 93,67
+Source Type: Loot
+1. (Stat) Strength: +19
+2. (Stat) Constitution: +21
+3. (Stat) Hit Points: +50
+4. (Resist) Crush: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Thrust: +6%
+7. (Stat_Cap) Cap Constitution: +3
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Oblivion
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Strength: +5
+9. (Stat_Cap) Cap Dexterity: +5
+
+
+R Ring
+Name: Ring of Tarka'oz
+Level: 51 (100% Quality)
+Utility: 120,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+L Wrist
+Name: Howling Wraith Bracer
+Level: 51 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Constitution: +21
+3. (Stat) Hit Points: +44
+4. (Skill) Shadow Mastery: +4
+5. (Bonus) Melee Speed: +5
+6. (Bonus) Style Damage: +2
+
+
+R Wrist
+Name: Glimmershade Bracer
+Level: 51 (100% Quality)
+Utility: 96,67
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Cold: +6%
+3. (Resist) Energy: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Stat) Acuity: +22
+8. (Bonus) Power Pool: +5
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG

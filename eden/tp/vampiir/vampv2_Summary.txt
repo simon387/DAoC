@@ -1,0 +1,343 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:34 PM on ott 20, 2025
+Version: 1.2.019
+
+Character Summary for vampv2(Level 50) - Vampiir
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+101 / 101  Strength
+130 / 104  Constitution
+104 / 104  Dexterity
+78 / 80  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+370 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 10%
+Melee Damage: 14%
+Style Damage: 12%
+Armor Factor: 45%
+Casting Speed: 6%
+Fatigue: 5%
+Resist Pierce: 10%
+Debuff: 5%
+Spell Damage: 2%
+Spell Duration: 5%
+Endurance Regen: 1%
+Evade: 3%
+
+Resists (Racials not included)
+25% Crush
+26% Slash
+25% Thrust
+25% Cold
+26% Energy
+25% Heat
+25% Matter
+24% Spirit
+27% Body
+
+Skills
+17 Piercing
+9 Shadow Mastery
+9 Vampiiric Embrace
+9 Dementia
+5 Shield
+
+Item Procs and Charges
+Right Hand:  Body
+Right Hand:  Spirit
+Left Hand:  1:00 min
+
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (99% Quality)
+Utility: 68,67
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Resist) Cold: +11% [(Faceted) Icy Shielding Jewel]
+2. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+3. (Resist) Heat: +9% [(Polished) Heated Shielding Jewel]
+4. (Stat) Dexterity: +7 [(Rough) Vapor Essence Jewel]
+5. (Stat) Constitution: +15 [(?) Earthen Essence Jewel]
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 70,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Quickness: +4 [(Uncut) Airy Essence Jewel]
+2. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+3. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+4. (Resist) Body: +9% [(Polished) Dusty Shielding Jewel]
+5. (Stat) Dexterity: +15 [(?) Vapor Essence Jewel]
+
+
+Torso
+Name: Astral Jerkin of Withering
+Level: 51 (100% Quality)
+Utility: 152
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Melee Skills: +3
+4. (Bonus) Melee Damage: +4
+5. (Bonus) Style Damage: +4
+6. (Stat_Cap) Cap Strength: +8
+7. (Stat_Cap) Cap Dexterity: +8
+8. (Stat_Cap) Cap Constitution: +8
+
+
+Arms
+Name: 
+Level: 51 (99% Quality)
+Utility: 72,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+2. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+3. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+4. (Stat) Strength: +25 [(Flawless) Fiery Essence Jewel]
+5. (Stat) Hit Points: +40 [(?) Blood Essence Jewel]
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 71,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+3. (Stat) Quickness: +22 [(Precious) Airy Essence Jewel]
+4. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+5. (Bonus) Armor Factor: +10 [(Raw) Not Found]
+
+
+Legs
+Name: Astral Torporific Leggings
+Level: 51 (100% Quality)
+Utility: 125,34
+Source Type: Loot
+1. (Stat) Strength: +16
+2. (Stat) Quickness: +16
+3. (Stat) Hit Points: +40
+4. (Bonus) Melee Speed: +2
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +2
+7. (Bonus) Casting Speed: +2
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +7
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Bonesliver Rapier
+Level: 51 (100% Quality)
+Utility: 132
+Source Type: Loot
+Special 1:  Body
+Special 2:  Spirit
+1. (Stat) Strength: +21
+2. (Stat) Dexterity: +21
+3. (Stat) Quickness: +21
+4. (Skill) All Melee Skills: +4
+5. (Bonus) Melee Damage: +4
+6. (Bonus) Style Damage: +4
+7. (Stat_Cap) Cap Quickness: +5
+
+
+Left Hand
+Name: Basalt Shield of Bedlam
+Level: 51 (100% Quality)
+Utility: 129,67
+Source Type: Loot
+Special 1:  1:00 min
+1. (Stat) Dexterity: +10
+2. (Resist) Cold: +3%
+3. (Resist) Heat: +3%
+4. (Resist) Matter: +3%
+5. (Skill) Shield: +5
+6. (Bonus) Armor Factor: +10
+7. (Bonus) Melee Speed: +4
+8. (Bonus) Melee Damage: +4
+9. (Bonus) Fatigue: +5
+10. (Stat_Cap) Cap Dexterity: +10
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 107,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Myrddraxis Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat_Cap) Cap Constitution: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+R Ring
+Name: Glimmer Striker Ring
+Level: 51 (100% Quality)
+Utility: 98
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Stat) Constitution: +15
+4. (Resist) Slash: +10%
+5. (Skill) All Melee Skills: +3
+6. (Stat_Cap) Cap Strength: +3
+7. (Stat_Cap) Cap Dexterity: +3
+8. (Stat_Cap) Cap Constitution: +3
+
+
+L Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 111,17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+R Wrist
+Name: Bracer of the Fomor
+Level: 51 (100% Quality)
+Utility: 120,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+Mythical
+Name: Dragon Focus Mythirian
+Level: 51 (100% Quality)
+Utility: 28
+Source Type: Loot
+1. (Stat) Strength: +3
+2. (Stat) Dexterity: +3
+3. (Stat) Constitution: +3
+4. (Bonus) Endurance Regen: +1
+5. (Bonus) Evade: +3
+6. (Mythical) Cap Strength: +3
+7. (Mythical) Cap Constitution: +3
+8. (Mythical) Cap Dexterity: +3
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
