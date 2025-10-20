@@ -17,17 +17,17 @@ Feet - Bespelled Woven (Aerus) - Cap Dexterity: +5
 4. (Resist) Slash: +5% [(Flawed) Watery Shielding Jewel]
 
 Hibernia Medal of Honor          QUEST
-Cape of Legerdemain              700 Grimoire Pages
-Virulent Sporite Robe            600 Galladoria Roots
-Astral Pants of Stellar Warding  800 Atlantean Glass
-Astral Staff of Swarms           900 Atlantean Glass
-Cloth Cap                        500 Dragon Scales
-Soulbinder's Belt                475 Dragon Scales
-Warshadow Bracer                 475 Dragon Scales
-Sulphurous Fiend Gem             600 Daemon Blood Seals
-Director's Ring of Chaos         500 Daemon Blood Seals
-Director's Ring of Chaos         500 Daemon Blood Seals
-Gatekeeper Bracer of Chaos       500 Daemon Blood Seals
+Cape of Legerdemain              700 Grimoire Pages     [x]
+Virulent Sporite Robe            600 Galladoria Roots   [x]
+Astral Pants of Stellar Warding  800 Atlantean Glass    [ ]
+Astral Staff of Swarms           900 Atlantean Glass    [ ]
+Cloth Cap                        500 Dragon Scales      [ ]
+Soulbinder's Belt                475 Dragon Scales      [ ]
+Warshadow Bracer                 475 Dragon Scales      [ ]
+Sulphurous Fiend Gem             600 Daemon Blood Seals [x]
+Director's Ring of Chaos         500 Daemon Blood Seals [x]
+Director's Ring of Chaos         500 Daemon Blood Seals [x]
+Gatekeeper Bracer of Chaos       500 Daemon Blood Seals [x]
 
 Grimoire Pages                   700
 Galladoria Roots                 600
