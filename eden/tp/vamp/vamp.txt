@@ -1,0 +1,36 @@
+Helmet
+Imbue Points: 37,5 of 37,5
+1. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
+2. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+3. (Stat) Constitution: +25 [(Flawless) Earthen Essence Jewel]
+4. (Stat) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+5. (Stat_Cap) Cap Constitution: +5 [(Raw) Not Found]
+
+Hands
+Imbue Points: 37 of 37,5
+1. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+2. (Stat) Constitution: +19 [(Faceted) Earthen Essence Jewel]
+3. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+4. (Stat) Hit Points: +60 [(Precious) Blood Essence Jewel]
+5. (Stat_Cap) Cap Dexterity: +5 [(Raw) Not Found]
+
+Right Hand
+Imbue Points: 37,5 of 37,5
+1. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
+2. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+3. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
+4. (Stat) Hit Points: +28 [(Flawed) Blood Essence Jewel]
+
+Dragonslayer Soft Cruaigh Tunic [ ]
+Sleeves of Decaying Flesh       [ ]
+Bloody Suede Boots              [ ]
+Astral Torporific Leggings      [ ]
+Basalt Shield of Bedlam         [ ]
+Hibernia Medal of Honor         [ ]
+Myrddraxis Remnant Cloak        [ ]
+Sulphurous Fiend Gem            [ ]
+Sulphurous Fiend Belt           [ ]
+Ring of Tarka'oz                [ ]
+Ring of Tarka'oz                [ ]
+Warshadow Bracer                [ ]
+Glimmershade Bracer             [ ]
