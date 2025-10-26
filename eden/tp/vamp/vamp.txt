@@ -22,15 +22,21 @@ Imbue Points: 37,5 of 37,5
 4. (Stat) Hit Points: +28 [(Flawed) Blood Essence Jewel]
 
 Dragonslayer Soft Cruaigh Tunic [ ]
-Sleeves of Decaying Flesh       [ ]
-Bloody Suede Boots              [ ]
-Astral Torporific Leggings      [ ]
-Basalt Shield of Bedlam         [ ]
+Sleeves of Decaying Flesh       [ ] 600 Grimoire Pages
+Bloody Suede Boots              [ ] 250 Dragon Scales
+Astral Torporific Leggings      [ ] 800 Atlantean Glass
+Basalt Shield of Bedlam         [ ] ?
 Hibernia Medal of Honor         [ ]
-Myrddraxis Remnant Cloak        [ ]
-Sulphurous Fiend Gem            [ ]
-Sulphurous Fiend Belt           [ ]
-Ring of Tarka'oz                [ ]
-Ring of Tarka'oz                [ ]
-Warshadow Bracer                [ ]
-Glimmershade Bracer             [ ]
+Myrddraxis Remnant Cloak        [ ] 600 Galladoria Roots
+Sulphurous Fiend Gem            [ ] 600 Daemon Blood Seals
+Sulphurous Fiend Belt           [ ] 600 Daemon Blood Seals
+Ring of Tarka'oz                [ ] 500 Dragon Scales
+Ring of Tarka'oz                [ ] 500 Dragon Scales
+Warshadow Bracer                [ ] 475 Dragon Scales
+Glimmershade Bracer             [ ] 475 Dragon Scales
+
+ 600 Grimoire Pages
+2200 Dragon Scales
+ 800 Atlantean Glass
+ 600 Galladoria Roots
+1200 Daemon Blood Seals
