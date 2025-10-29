@@ -1,4 +1,4 @@
-Helmet
+Helmet - Embroidered Cruaigh (Aerus)
 Imbue Points: 37,5 of 37,5
 1. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
 2. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
@@ -6,7 +6,7 @@ Imbue Points: 37,5 of 37,5
 4. (Stat) Hit Points: +68 [(Flawless) Blood Essence Jewel]
 5. (Stat_Cap) Cap Constitution: +5 [(Raw) Not Found]
 
-Hands
+Hands - Embroidered Cruaigh (Aerus)
 Imbue Points: 37 of 37,5
 1. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
 2. (Stat) Constitution: +19 [(Faceted) Earthen Essence Jewel]
@@ -21,19 +21,19 @@ Imbue Points: 37,5 of 37,5
 3. (Stat) Quickness: +28 [(Perfect) Airy Essence Jewel]
 4. (Stat) Hit Points: +28 [(Flawed) Blood Essence Jewel]
 
-Dragonslayer Soft Cruaigh Tunic [ ]
-Sleeves of Decaying Flesh       [ ] 600 Grimoire Pages
-Bloody Suede Boots              [ ] 250 Dragon Scales
-Astral Torporific Leggings      [ ] 800 Atlantean Glass
-Basalt Shield of Bedlam         [ ] ?
-Hibernia Medal of Honor         [ ]
-Myrddraxis Remnant Cloak        [ ] 600 Galladoria Roots
-Sulphurous Fiend Gem            [ ] 600 Daemon Blood Seals
-Sulphurous Fiend Belt           [ ] 600 Daemon Blood Seals
-Ring of Tarka'oz                [ ] 500 Dragon Scales
-Ring of Tarka'oz                [ ] 500 Dragon Scales
-Warshadow Bracer                [ ] 475 Dragon Scales
-Glimmershade Bracer             [ ] 475 Dragon Scales
+Dragonslayer Soft Cruaigh Tunic [ ] mini drago ma anche comprabile in housing
+Sleeves of Decaying Flesh       [X] 600 Grimoire Pages
+Bloody Suede Boots              [X] 250 Dragon Scales
+Astral Torporific Leggings      [X] 800 Atlantean Glass
+Basalt Shield of Bedlam         [X] 600 Daemon Blood Seals
+Hibernia Medal of Honor         [X]
+Myrddraxis Remnant Cloak        [X] 600 Galladoria Roots
+Sulphurous Fiend Gem            [X] 600 Daemon Blood Seals
+Sulphurous Fiend Belt           [X] 600 Daemon Blood Seals
+Ring of Tarka'oz                [X] 500 Dragon Scales
+Ring of Tarka'oz                [X] 500 Dragon Scales
+Warshadow Bracer                [X] 475 Dragon Scales
+Glimmershade Bracer             [X] 475 Dragon Scales
 
  600 Grimoire Pages
 2200 Dragon Scales
