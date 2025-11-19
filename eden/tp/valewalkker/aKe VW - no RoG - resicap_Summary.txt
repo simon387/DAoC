@@ -1,0 +1,419 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 12:39 PM Jan 25, 2024
+Version: 8.3.48
+
+Character Summary for aKe VW - no RoG - resicap - Valewalker
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+103 / 99  Strength
+86 / 88  Constitution
+66 / 83  Dexterity
+81 / 81  Quickness
+67 / 90  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+362 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 10%
+Melee Damage: 9%
+Spell Damage: 10%
+Spell Range: 4%
+Style Damage: 9%
+Resist Pierce: 10%
+Casting Speed: 2%
+Fatigue: 5%
+Armor Factor: 10%
+Power Pool: 5%
+Endurance Regen: 1%
+Evade: 3%
+
+Resists (Racials not included)
+27% Crush
+27% Slash
+27% Thrust
+27% Heat
+27% Cold
+26% Matter
+26% Body
+27% Energy
+28% Spirit
+
+Skills
+6 Arboreal Path
+13 Scythe
+0 Parry
+4 Envenom
+4 Stealth
+
+Items
+
+
+Helmet
+Name: Battled Mantle of Samhain df quest
+Level: 51 (100% Quality)
+Utility: 90,66
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Quickness: +16
+3. (H.P.) Hit Points: +40
+4. (Resist) Crush: +7%
+5. (Resist) Energy: +7%
+6. (Bonus) Melee Speed: +2
+7. (Bonus) Melee Damage: +2
+8. (Stat Cap) Cap Strength: +5
+
+
+Hands
+Name: Semi-ethereal Gloves 450 Galla ok
+Level: 51 (100% Quality)
+Utility: 105,75
+Source Type: Loot
+1. (Stat) Constitution: +12
+2. (Resist) Body: +1%
+3. (Resist) Energy: +1%
+4. (Resist) Matter: +1%
+5. (Stat) Acuity: +12
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Spell Damage: +4
+8. (Stat Cap) Cap Constitution: +10
+9. (Stat Cap) Cap Acuity: +10
+10. (Stat Cap) Cap Hit Points: +35
+
+
+Torso
+Name: Dragonslayer Moss Woven Vest ok 
+Level: 51 (100% Quality)
+Utility: 130
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Resist) Cold: +5%
+4. (Resist) Heat: +5%
+5. (Resist) Spirit: +5%
+6. (Bonus) Spell Range: +4
+7. (Bonus) Melee Damage: +4
+8. (Bonus) Spell Damage: +4
+9. (Bonus) Style Damage: +4
+
+
+Arms
+Name: 
+Level: 51 (100% Quality)
+Utility: 61,33
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Quickness: +25 [(Flawless) Airy Essence Jewel]
+2. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+3. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+4. (Stat) Constitution: +25 [(Flawless) Earthen Essence Jewel]
+	Dragonsworn Bespelled Woven +40 hits
+
+Feet
+Name: 
+Level: 51 (100% Quality)
+Utility: 59,66
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
+3. (H.P.) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+4. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+Dragonsworn Bespelled Woven 15 dex 
+
+Legs
+Name: 
+Level: 51 (100% Quality)
+Utility: 61,33
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+3. (Stat) Strength: +13 [(Imperfect) Fiery Essence Jewel]
+4. (Stat) Quickness: +25 [(Flawless) Airy Essence Jewel]
+Enchanted Woven (Volc) +5 strengh cap
+
+Right Hand
+Name: Cudgel of the Undead 600 Grimoire ok
+Level: 51 (100% Quality)
+Utility: 98
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Resist) Energy: +8%
+3. (Resist) Thrust: +8%
+4. (Stat) Acuity: +21
+5. (Bonus) Spell Damage: +4
+6. (Bonus) Spell Duration: +4
+7. (Stat Cap) Cap Dexterity: +5
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion 600 Daemon
+Level: 51 (100% Quality)
+Utility: 106,66
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat Cap) Cap Dexterity: +6
+10. (Stat Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: Bruadar Speal ok
+Level: 51 (100% Quality)
+Utility: 102
+Source Type: Loot
+: 1:00 min
+1. (Stat) Strength: +15
+2. (Stat) Quickness: +15
+3. (Resist) Crush: +1%
+4. (Resist) Slash: +1%
+5. (Resist) Spirit: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +5
+8. (Bonus) Resist Pierce: +5
+9. (Stat Cap) Cap Strength: +6
+10. (Stat Cap) Cap Quickness: +6
+
+
+Ranged
+Name: 
+Level: 51 (100% Quality)
+Utility: 56,33
+Source Type: Spellcraft
+Imbue Points: 36 of 37,5
+1. (Stat) Quickness: +10 [(Flawed) Airy Essence Jewel]
+2. (Skill) Scythe: +3 [(Rough) Light War Spell Stone]
+3. (Skill) Parry: +6 [(Polished) Vapor Battle Jewel]
+4. (Stat) Strength: +7 [(Rough) Fiery Essence Jewel]
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Myrddraxis Remnant Cloak 600 Galla ok
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Jewel of the Haughty Warrior 600 Grimoire ok
+Level: 51 (100% Quality)
+Utility: 118
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +9%
+3. (Bonus) Melee Speed: +3
+4. (Skill) All Melee Skills: +4
+5. (Bonus) Melee Damage: +3
+6. (Bonus) Fatigue: +5
+7. (Bonus) Style Damage: +3
+8. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt 475 Drago ok
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Ring of Tarka'oz 500 Dragon ok
+Level: 51 (100% Quality)
+Utility: 100,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (H.P.) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat Cap) Cap Strength: +5
+10. (Stat Cap) Cap Hit Points: +35
+
+
+R. Ring
+Name: Band of Clandestinity 600 Grimoire ok
+Level: 51 (100% Quality)
+Utility: 102
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (H.P.) Hit Points: +60
+3. (Skill) Envenom: +4
+4. (Skill) Stealth: +4
+5. (Bonus) Armor Factor: +5
+6. (Bonus) Melee Speed: +5
+7. (Stat Cap) Cap Hit Points: +20
+
+
+L. Wrist
+Name: Hydra Eyes Bracer 625 Galla ok
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+10. (Stat Cap) Cap Hit Points: +50
+
+
+R. Wrist
+Name: Glimmershade Bracer 475 Dragon ok
+Level: 51 (100% Quality)
+Utility: 96,66
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Cold: +6%
+3. (Resist) Energy: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Stat) Acuity: +22
+8. (Bonus) Power Pool: +5
+
+
+Mythical
+Name: Dragon Focus Mythirian 500 Galla ok
+Level: 51 (100% Quality)
+Utility: 32
+Source Type: Loot
+1. (Stat) Strength: +3
+2. (Stat) Dexterity: +3
+3. (Stat) Constitution: +3
+4. (Bonus) Endurance Regen: +1
+5. (Bonus) Evade: +3
+6. (Myth. Cap) Cap Strength: +3
+7. (Myth. Cap) Cap Constitution: +3
+8. (Myth. Cap) Cap Dexterity: +3
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 30
+Source Type: ROG
+1. (Stat Cap) Cap Strength: +5
+2. (H.P.) Hit Points: +40
+3. (Stat) Dexterity: +15
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
