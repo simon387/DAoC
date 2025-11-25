@@ -76,3 +76,7 @@ scudo che snara: Basalt Buckler of Oblivion
 ## doppio click sul lancher e non va un cazzo (spesso dopo qtd o crash)
 
 + Delete the "Eden_DAoC" folder hidden in C:\Users\NAME\AppData\LOCAL, You can get there: Type "%LocalAppData%\Eden_DAoC" into the windows search and delete everything in that folder
+
+## hibernia medal of honor (moh)
+
++ Take horse from Drum Cain to Cursed Forest
