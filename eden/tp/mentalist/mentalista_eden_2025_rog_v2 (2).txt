@@ -1,0 +1,255 @@
+LOKI Build Report
+Class: Mentalist
+Level: 50
+
+Two-Handed
+Item Utility: 827.9
+Build Utility: 979.9
+Useable Utility: 903.5
+TOA Utility: 469.5
+PvE Utility:  0.0
+
+Statistic
+Constitution: 82/85
+Dexterity: 101/100
+Intelligence: 100/101
+Hits: 357/350
+
+Resistance
+Body: 26/26
+Cold: 28/26
+Heat: 28/26
+Energy: 26/26+5
+Matter: 29/26
+Spirit: 23/26
+Crush: 26/26+5
+Thrust: 25/26
+Slash: 26/26
+
+Skill
+Light Magic: 15/11
+Mana Magic: 15/11
+Mentalism: 15/11
+
+Focus
+Light Magic: 50/50
+Mana Magic: 50/50
+Mentalism: 50/50
+
+Cap Increase
+Constitution: 10/26
+Dexterity: 25/26
+Intelligence: 46/26
+Hits: 150/200
+
+TOA Bonus
+Armour Factor: 14/50
+Power Pool: 32/25
+Spell Duration: 23/25
+Casting Speed: 10/10
+Spell Range: 16/10
+Spell Damage: 14/10
+Archery Damage: 14/10
+Archery Range: 16/10
+Archery Speed: 10/10
+Resist Pierce: 13/10
+
+Chest (Virulent Sporite Robe):
+Imbue: 40.5
+   Hits: 50
+   ALL magic skills: 4
+   Constitution: 24
+   Crush: 2%
+   Slash: 2%
+   Thrust: 2%
+   Acuity: 24
+   Spell Range: 4
+   Spell Damage: 4
+   Constitution (Cap Increase): 5
+Utility: 76.5
+TOA Utility: 50.0
+PvE Utility: 0.0
+
+Arms (Infernal Sleeves Stoffa):
+Imbue: 26.5
+   Constitution: 22
+   Acuity: 22
+   Constitution (Cap Increase): 5
+   Acuity (Cap Increase): 5
+   Heat: 5%
+   Spell Damage: 2
+   Resist Pierce: 3
+Utility: 39.3
+TOA Utility: 45.0
+PvE Utility: 0.0
+
+Head (Cloth Cap (All ToA)):
+Imbue: 19.0
+   Acuity (Cap Increase): 10
+   Dexterity (Cap Increase): 10
+   Hits: 30
+   Spirit: 3%
+   Matter: 3%
+   Energy: 3%
+   Heat: 3%
+   Cold: 3%
+   Body: 3%
+   Resist Pierce: 5
+Utility: 43.5
+TOA Utility: 65.0
+PvE Utility: 0.0
+
+Legs (Astral Pants of Stellar Warding):
+Imbue: 16.5
+   Dexterity: 21
+   ALL magic skills: 2
+   Acuity (Cap Increase): 10
+   Armour Factor: 14
+   Power Pool: 7
+   Spell Range: 3
+   Casting Speed: 4
+Utility: 24.0
+TOA Utility: 83.0
+PvE Utility: 0.0
+
+Hands (Crafted):
+Imbue: 37.0/32 (Quality: 99)
+   Body: 2%
+   Dexterity: 28
+   Hits: 52
+   Energy: 11%
+   Constitution: 15
+Utility: 67.7
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Feet (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Slash: 7%
+   Crush: 11%
+   Thrust: 9%
+   Dexterity: 10
+   Dexterity (Cap Increase): 5
+Utility: 60.7
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Two-Handed (Astral Staff of Swarms):
+Imbue: 17.0
+   ALL magic skills: 2
+   Dexterity: 12
+   Acuity (Cap Increase): 11
+   Power Pool: 10
+   ALL spell lines (Focus): 50
+   Spell Damage: 4
+   Hits: 40
+   Resist Pierce: 5
+Utility: 29.0
+TOA Utility: 87.0
+PvE Utility: 0.0
+
+Neck (Medal of Honor):
+Imbue: 40.0
+   Body: 5%
+   Cold: 5%
+   Heat: 5%
+   Energy: 5%
+   Matter: 5%
+   Spirit: 5%
+   Crush: 5%
+   Thrust: 5%
+   Slash: 5%
+Utility: 90.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Cloak (Cape of Legerdemain):
+Imbue: 32.0
+   Power Pool: 8
+   Cold: 5%
+   Thrust: 9%
+   Constitution: 21
+   ALL magic skills: 3
+   Spell Range: 4
+   Casting Speed: 4
+Utility: 57.0
+TOA Utility: 56.0
+PvE Utility: 0.0
+
+Jewel (Ensorcelled Mystic Gem):
+Imbue: 28.0
+   ALL magic skills: 4
+   Hits: 50
+   Crush: 8%
+   Power Pool: 7
+   Hits (Cap Increase): 50
+   Spell Range: 3
+   Spell Duration: 5
+Utility: 48.5
+TOA Utility: 51.5
+PvE Utility: 0.0
+
+Belt (Soulbinder Belt):
+Imbue: 46.0
+   Cold: 7%
+   Body: 7%
+   Heat: 7%
+   Energy: 7%
+   Matter: 7%
+   Spirit: 7%
+   Hits: 35
+Utility: 92.8
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Left Ring (Ring of the azure):
+Imbue: 31.0
+   Dexterity: 15
+   Acuity: 15
+   Hits: 50
+   Heat: 4%
+   Cold: 4%
+   Spirit: 4%
+   Dexterity (Cap Increase): 5
+   Acuity (Cap Increase): 5
+   Hits (Cap Increase): 50
+   Spell Damage: 2
+Utility: 56.5
+TOA Utility: 42.5
+PvE Utility: 0.0
+
+Right Ring (ring of the azue):
+Imbue: 31.0
+   Dexterity: 15
+   Acuity: 15
+   Hits: 50
+   Heat: 4%
+   Cold: 4%
+   Spirit: 4%
+   Dexterity (Cap Increase): 5
+   Acuity (Cap Increase): 5
+   Hits (Cap Increase): 50
+   Spell Damage: 2
+Utility: 56.5
+TOA Utility: 42.5
+PvE Utility: 0.0
+
+Left Wrist (Drop):
+Imbue: 37.0
+   Spell Duration: 8
+   Matter: 14%
+   Slash: 12%
+Utility: 52.0
+TOA Utility: 16.0
+PvE Utility: 0.0
+
+Right Wrist (Bracer of Snow):
+Imbue: 24.0
+   Body: 9%
+   Casting Speed: 2
+   Acuity: 24
+   Spell Duration: 10
+   Spell Range: 2
+Utility: 34.0
+TOA Utility: 40.0
+PvE Utility: 0.0

@@ -1,0 +1,36 @@
+Legs (Crafted): Dragonsworn Bespelled Woven (+5 p cap)
+Imbue: 37.5/32 (Quality: 99)
+   Dexterity: 13
+   Crush: 2%
+   Slash: 13%
+   Energy: 9%
+   Hits (Cap Increase): 40
+
+Hands (Crafted): 	Dragonsworn Bespelled Woven
+Imbue: 37.5/32 (Quality: 99)
+   Matter: 9%
+   Hits: 68
+   Dexterity: 25
+   Thrust: 5%
+   Constitution: 15
+
+Feet (Crafted): Bespelled Woven (Aerus)
+Imbue: 37.5/32 (Quality: 99)
+   Matter: 9%
+   Dexterity: 22
+   Energy: 7%
+   Spirit: 9%
+   Dexterity (Cap Increase): 5
+
+Chest (Virulent Sporite Robe):
+Arms (Infernal Sleeves Stoffa):
+Head (Cloth Cap (All ToA)):
+Two-Handed (Astral Staff of Swarms)
+Neck (Medal of Honor)
+Cloak (Cape of Legerdemain)
+Jewel (Ensorcelled Mystic Gem)
+Belt (Traldor's Belt)
+Left Ring (ring of the azure)
+Right Ring (Ring of the azure)
+Left Wrist (Bracer of Snow)
+Right Wrist (Bracer of Snow)
