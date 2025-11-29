@@ -22,15 +22,16 @@ Imbue: 37.5/32 (Quality: 99)
    Spirit: 9%
    Dexterity (Cap Increase): 5
 
-Chest (Virulent Sporite Robe):
-Arms (Infernal Sleeves Stoffa):
-Head (Cloth Cap (All ToA)):
-Two-Handed (Astral Staff of Swarms)
-Neck (Medal of Honor)
-Cloak (Cape of Legerdemain)
-Jewel (Ensorcelled Mystic Gem)
-Belt (Traldor's Belt)
-Left Ring (ring of the azure)
-Right Ring (Ring of the azure)
-Left Wrist (Bracer of Snow)
-Right Wrist (Bracer of Snow)
+Chest (Virulent Sporite Robe)       [X]
+Arms (Infernal Sleeves Stoffa)      [X]
+Head (Cloth Cap (All ToA))          [X]
+Two-Handed (Astral Staff of Swarms) [X]
+Neck (Medal of Honor)               [X]
+Cloak (Cape of Legerdemain)         [X]
+Jewel (Ensorcelled Mystic Gem)      [X] 600 Grimoire Pages
+Belt (Traldor's Belt)               [ ] ?
+Left Ring (ring of the azure)       [ ] 500 Dragon Scales
+Right Ring (Ring of the azure)      [ ] 500 Dragon Scales
+Left Wrist (Bracer of Snow)         [ ] 650 Atlantean Glass
+Right Wrist (Bracer of Snow)        [ ] 650 Atlantean Glass
+
