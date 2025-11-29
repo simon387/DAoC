@@ -30,8 +30,8 @@ Neck (Medal of Honor)               [X]
 Cloak (Cape of Legerdemain)         [X]
 Jewel (Ensorcelled Mystic Gem)      [X] 600 Grimoire Pages
 Belt (Traldor's Belt)               [ ] ?
-Left Ring (ring of the azure)       [ ] 500 Dragon Scales
-Right Ring (Ring of the azure)      [ ] 500 Dragon Scales
-Left Wrist (Bracer of Snow)         [ ] 650 Atlantean Glass
-Right Wrist (Bracer of Snow)        [ ] 650 Atlantean Glass
+Left Ring (ring of the azure)       [X] 500 Dragon Scales
+Right Ring (Ring of the azure)      [X] 500 Dragon Scales
+Left Wrist (Bracer of Snow)         [X] 650 Atlantean Glass
+Right Wrist (Bracer of Snow)        [X] 650 Atlantean Glass
 
