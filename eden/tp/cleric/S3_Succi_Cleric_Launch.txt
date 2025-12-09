@@ -1,0 +1,304 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 11:31 pm Feb 23, 2025
+Version: 8.3.48
+
+Character Summary for S3_Succi_Cleric_Launch - Cleric
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+81 / 80  Constitution
+106 / 101  Dexterity
+100 / 100  Piety
+386 / 400  Hit Points
+7 / 26  Power
+
+Bonuses
+Casting Speed: 12%
+Buff: 19%
+Healing: 24%
+Power Pool: 47%
+Arcane Siphon: 20%
+Spell Range: 9%
+Spell Duration: 10%
+Resist Pierce: 5%
+
+Resists (Racials not included)
+27% Crush
+26% Slash
+28% Thrust
+27% Heat
+27% Cold
+26% Matter
+26% Body
+26% Energy
+28% Spirit
+
+Skills
+10 Rejuvenation
+10 Enhancement
+10 Smite
+
+
+Helmet
+Name: Crown of Intrepid Souls
+Level: 51 (100% Quality)
+Utility: 94
+Source Type: Quest
+1. (Stat) Dexterity: +15
+2. (Stat) Piety: +15
+3. (H.P.) Hit Points: +40
+4. (Resist) Energy: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Casting Speed: +2
+7. (Stat Cap) Cap Dexterity: +5
+8. (Stat Cap) Cap Constitution: +5
+9. (Stat Cap) Cap Hit Points: +40
+
+
+Hands
+Name: Dragonslayer Holy Mail Gauntlets
+Level: 51 (100% Quality)
+Utility: 72
+Source Type: Quest
+1. (H.P.) Hit Points: +40
+2. (Resist) Cold: +5%
+3. (Resist) Heat: +5%
+4. (Resist) Spirit: +5%
+5. (Bonus) Buff: +5
+6. (Bonus) Healing: +5
+7. (Bonus) Power Pool: +6
+
+
+Torso
+Name: Habergeon of Intrepid Souls
+Level: 51 (100% Quality)
+Utility: 100.66
+Source Type: Quest
+1. (Stat) Dexterity: +15
+2. (Stat) Piety: +16
+3. (H.P.) Hit Points: +40
+4. (Resist) Crush: +7%
+5. (Bonus) Buff: +9
+6. (Bonus) Healing: +9
+7. (Stat Cap) Cap Piety: +5
+8. (Stat Cap) Cap Hit Points: +40
+
+
+Arms
+Name: 
+Level: 51 (100% Quality)
+Utility: 61
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (H.P.) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+2. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+3. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+4. (Resist) Matter: +7% [(Imperfect) Earthen Shielding Jewel]
+
+
+Feet
+Name: 
+Level: 51 (100% Quality)
+Utility: 47.33
+Source Type: Spellcraft
+Imbue Points: 36 of 37.5
+1. (Stat) Constitution: +10 [(Flawed) Earthen Essence Jewel]
+2. (Stat) Piety: +10 [(Flawed) Watery Essence Jewel]
+3. (Resist) Matter: +2% [(Uncut) Earthen Shielding Jewel]
+4. (Resist) Body: +15% [(Flawless) Dusty Shielding Jewel]
+
+
+Legs
+Name: Chausses of Intrepid Souls
+Level: 51 (100% Quality)
+Utility: 86
+Source Type: Quest
+1. (Stat) Dexterity: +15
+2. (Resist) Thrust: +7%
+3. (Skill) All Magic Skills: +3
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Power Pool: +6
+6. (Stat Cap) Cap Dexterity: +5
+7. (Stat Cap) Cap Piety: +5
+8. (Bonus Cap) Power Pool: +5
+
+
+Right Hand
+Name: Bloodstained War Hammer
+Level: 51 (100% Quality)
+Utility: 105.66
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Thrust: +1%
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +10
+7. (Stat Cap) Cap Dexterity: +5
+8. (Stat Cap) Cap Acuity: +5
+9. (Bonus Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Left Hand
+Name: 
+Level: 51 (100% Quality)
+Utility: 53.66
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Power) Power: +7 [(Imperfect) Mystical Essence Jewel]
+2. (Resist) Slash: +5% [(Flawed) Watery Shielding Jewel]
+3. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+4. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+
+
+
+Neck
+Name: Albion Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Quest
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 133
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Belt of Consumed Souls
+Level: 51 (100% Quality)
+Utility: 87.66
+Source Type: Quest
+1. (Stat) Dexterity: +21
+2. (Stat) Acuity: +16
+3. (Bonus) Power Pool: +5
+4. (Bonus) Resist Pierce: +3
+5. (Bonus) Spell Duration: +5
+6. (Stat Cap) Cap Dexterity: +7
+7. (Stat Cap) Cap Acuity: +7
+
+
+L. Ring
+Name: Band of Ircon
+Level: 51 (100% Quality)
+Utility: 78.66
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Energy: +6%
+3. (Resist) Matter: +6%
+4. (Resist) Spirit: +6%
+5. (Stat) Acuity: +22
+6. (Stat Cap) Cap Acuity: +3
+7. (Bonus Cap) Power Pool: +10
+comprato
+
+R. Ring
+Name: Ring of Granite Enhancement
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Cold: +6%
+3. (Resist) Crush: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Thrust: +6%
+7. (Skill) All Melee Skills: +3
+8. (Stat Cap) Cap Hit Points: +50
+
+
+L. Wrist
+Name: Bracer of Sudden Finality
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Quest
+1. (Stat) Dexterity: +18
+2. (H.P.) Hit Points: +40
+3. (Bonus) Spell Range: +2
+4. (Stat) Acuity: +21
+5. (Bonus) Power Pool: +5
+6. (Bonus) Resist Pierce: +2
+7. (Stat Cap) Cap Dexterity: +7
+8. (Stat Cap) Cap Hit Points: +40
+
+
+R. Wrist
+Name: Bracelet of Springtime Folly
+Level: 51 (100% Quality)
+Utility: 87.66
+Source Type: Quest
+1. (Stat) Constitution: +22
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Stat Cap) Cap Hit Points: +50
+
+
+
+
+
+Arms Bonuses Dragonsworn Enscrolled Mail
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Buff: +5
+
+
+
+
+Feet Bonuses Dragonsworn Enscrolled Mail
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Healing: +5
+
+
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Healing: +5
+
+
