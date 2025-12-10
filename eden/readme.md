@@ -80,3 +80,7 @@ scudo che snara: Basalt Buckler of Oblivion
 ## hibernia medal of honor (moh)
 
 + Take horse from Drum Cain to Cursed Forest
+
+## housing
+
++ drop 1.2p / hour
