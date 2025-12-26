@@ -1,0 +1,388 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 08:58 am Nov 28, 2025
+Version: 8.3.48
+
+Character Summary for S3_Succi_Druid_Siphon - Druid
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+15 / 75  Strength
+81 / 80  Constitution
+101 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+99 / 101  Empathy
+347 / 340  Hit Points
+0 / 26  Power
+
+Bonuses
+Buff: 15%
+Casting Speed: 20%
+Healing: 25%
+Mana Regen: 10%
+Spell Damage: 4%
+Spell Duration: 25%
+Power Pool: 40%
+Arcane Siphon: 20%
+Armor Factor: 10%
+Spell Range: 13%
+
+Resists (Racials not included)
+27% Crush
+27% Slash
+25% Thrust
+27% Heat
+27% Cold
+27% Matter
+27% Body
+27% Energy
+28% Spirit
+
+Skills
+7 Regrowth
+7 Nurture
+7 Nature
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (100% Quality)
+Utility: 57.66
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+2. (Resist) Slash: +11% [(Faceted) Watery Shielding Jewel]
+3. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+4. (H.P.) Hit Points: +60 [(Precious) Blood Essence Jewel]
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 57.66
+Source Type: Spellcraft
+Imbue Points: 36.5 of 37.5
+1. (H.P.) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+2. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+3. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+4. (Resist) Spirit: +5% [(Flawed) Vapor Shielding Jewel]
+
+
+Torso
+Name: Veil-Touched Hauberk
+Level: 51 (100% Quality)
+Utility: 103.66
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Spirit: +1%
+5. (Resist) Thrust: +1%
+6. (Bonus) Buff: +5
+7. (Bonus) Casting Speed: +5
+8. (Bonus) Healing: +10
+9. (Stat Cap) Cap Dexterity: +7
+10. (Stat Cap) Cap Acuity: +6
+
+
+Arms
+Name: Infernal Osnadurtha Sleeves
+Level: 51 (100% Quality)
+Utility: 101.33
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +16
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +16
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Healing: +5
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+
+
+Feet
+Name: Saliva-Flecked Sabatons
+Level: 51 (100% Quality)
+Utility: 94.33
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Resist) Crush: +5%
+3. (Resist) Slash: +5%
+4. (Resist) Thrust: +5%
+5. (Stat) Acuity: +22
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +5
+8. (Stat Cap) Cap Acuity: +5
+
+
+Legs
+Name: 
+Level: 51 (100% Quality)
+Utility: 53.66
+Source Type: Spellcraft
+Imbue Points: 34.5 of 37.5
+1. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+2. (H.P.) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+3. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
+4. (Resist) Crush: +3% [(Rough) Fiery Shielding Jewel]
+
+
+Right Hand
+Name: Bloodstained War Hammer
+Level: 51 (100% Quality)
+Utility: 105.66
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Thrust: +1%
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +10
+7. (Stat Cap) Cap Dexterity: +5
+8. (Stat Cap) Cap Acuity: +5
+9. (Bonus Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106.66
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat Cap) Cap Dexterity: +6
+10. (Stat Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 133
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Ring of the Azure
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+10. (Stat Cap) Cap Hit Points: +50
+
+
+R. Ring
+Name: Construct Forged Ring
+Level: 51 (100% Quality)
+Utility: 73
+Source Type: Loot
+1. (Bonus) Buff: +5
+2. (Bonus) Healing: +5
+3. (Bonus) Power Pool: +5
+4. (Bonus) Spell Duration: +5
+5. (Stat Cap) Cap Dexterity: +7
+6. (Stat Cap) Cap Acuity: +7
+7. (Bonus Cap) Power Pool: +5
+
+
+L. Wrist
+Name: Glimmershade Bracer
+Level: 51 (100% Quality)
+Utility: 96.66
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Cold: +6%
+3. (Resist) Energy: +6%
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Stat) Acuity: +22
+8. (Bonus) Power Pool: +5
+
+
+R. Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 5
+Source Type: ROG
+1. (Bonus Cap) Power Pool: +5
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Buff: +5
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat Cap) Cap Constitution: +5
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG

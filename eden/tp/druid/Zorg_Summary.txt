@@ -1,0 +1,398 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 05:34 p.m. Apr 02, 2025
+Version: 8.3.48
+
+Character Summary for Zorg - Druid
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+15 / 75  Strength
+87 / 86  Constitution
+107 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+137 / 101  Empathy
+378 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Spell Range: 9%
+Healing: 25%
+Buff: 23%
+Casting Speed: 13%
+Mana Regen: 10%
+Spell Damage: 13%
+Armor Factor: 40%
+Spell Duration: 9%
+Power Pool: 12%
+Resist Pierce: 5%
+Debuff: 5%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+29% Thrust
+27% Heat
+27% Cold
+27% Matter
+26% Body
+28% Energy
+28% Spirit
+
+Skills
+6 Regrowth
+6 Nurture
+6 Nature
+
+Items
+
+
+Helmet
+Name: Twinkling Tiara
+Level: 51 (100% Quality)
+Utility: 97.75
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (H.P.) Hit Points: +50
+3. (Resist) Thrust: +10%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Healing: +5
+7. (Stat Cap) Cap Hit Points: +25
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 49.66
+Source Type: Spellcraft
+Imbue Points: 37.5 of 33.5
+1. (Resist) Crush: +15% [(Flawless) Fiery Shielding Jewel]
+2. (Stat) Constitution: +7 [(Rough) Earthen Essence Jewel]
+3. (Resist) Body: +1% [(Raw) Dusty Shielding Jewel]
+4. (H.P.) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+
+
+Torso
+Name: Veil-Touched Hauberk
+Level: 51 (100% Quality)
+Utility: 103.66
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Spirit: +1%
+5. (Resist) Thrust: +1%
+6. (Bonus) Buff: +5
+7. (Bonus) Casting Speed: +5
+8. (Bonus) Healing: +10
+9. (Stat Cap) Cap Dexterity: +7
+10. (Stat Cap) Cap Acuity: +6
+
+
+Arms
+Name: Infernal Osnadurtha Sleeves
+Level: 51 (100% Quality)
+Utility: 101.33
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +16
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +16
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Healing: +5
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 59.66
+Source Type: Spellcraft
+Imbue Points: 37.5 of 33.5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+3. (H.P.) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+4. (Stat) Constitution: +7 [(Rough) Earthen Essence Jewel]
+
+
+Legs
+Name: Abandoned Pants of Conall Cernach
+Level: 51 (100% Quality)
+Utility: 77.5
+Source Type: Loot
+1. (H.P.) Hit Points: +45
+2. (Resist) Cold: +5%
+3. (Resist) Heat: +5%
+4. (Resist) Spirit: +5%
+5. (Bonus) Armor Factor: +10
+6. (Skill) All Melee Skills: +3
+7. (Stat Cap) Cap Hit Points: +45
+
+
+Right Hand
+Name: Cudgel of the Undead
+Level: 51 (100% Quality)
+Utility: 98
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Resist) Energy: +8%
+3. (Resist) Thrust: +8%
+4. (Stat) Acuity: +21
+5. (Bonus) Spell Damage: +4
+6. (Bonus) Spell Duration: +4
+7. (Stat Cap) Cap Dexterity: +5
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106.66
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat Cap) Cap Dexterity: +6
+10. (Stat Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: Dochar Druid Blade
+Level: 51 (100% Quality)
+Utility: 85
+Source Type: Loot
+1. (Bonus) Spell Range: +4
+2. (Bonus) Casting Speed: +4
+3. (Bonus) Healing: +6
+4. (Bonus) Power Pool: +6
+5. (Stat Cap) Cap Dexterity: +4
+6. (Stat Cap) Cap Acuity: +4
+7. (Bonus Cap) Power Pool: +5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33.5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Myrddraxis Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Constitution: +18
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Stat) Acuity: +18
+8. (Skill) All Magic Skills: +3
+9. (Bonus) Casting Speed: +2
+10. (Bonus) Resist Pierce: +5
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat Cap) Cap Constitution: +6
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Ring of the Azure
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+10. (Stat Cap) Cap Hit Points: +50
+
+
+R. Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (H.P.) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat Cap) Cap Constitution: +5
+9. (Stat Cap) Cap Acuity: +5
+
+
+L. Wrist
+Name: Katorii's Ensorcelled Bracer
+Level: 51 (100% Quality)
+Utility: 66
+Source Type: Loot
+1. (Stat) Empathy: +30
+2. (Bonus) Spell Range: +1
+3. (Bonus) Buff: +13
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Damage: +1
+
+
+R. Wrist
+Name: Arcane-Infused Armband
+Level: 51 (100% Quality)
+Utility: 90.66
+Source Type: Loot
+1. (Resist) Body: +6%
+2. (Resist) Cold: +6%
+3. (Resist) Slash: +6%
+4. (Stat) Acuity: +22
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Damage: +2
+7. (Stat Cap) Cap Acuity: +8
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Armor Factor: +10
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Buff: +5
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG

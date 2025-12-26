@@ -1,0 +1,71 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 08:39 AM on Nov 28, 2025
+Version: 1.2.022
+
+Spellcraft Report for EvilDruid_Infernals_UVR - Druid
+
+Hands:
+Imbue Points: 37 of 37.5  (Quality: 100)
+Gem 1: (Flawless) Blood Essence Jewel
+        (Stat) Hit Points: +68
+
+Gem 2: (Raw) Vapor Essence Jewel
+        (Stat) Dexterity: +1
+
+Gem 3: (Polished) Heated Shielding Jewel
+        (Resist) Heat: +9%
+
+Gem 4: (Faceted) Vapor Shielding Jewel
+        (Resist) Spirit: +11%
+
+
+Feet:
+Imbue Points: 37.5 of 37.5  (Quality: 100)
+Gem 1: (Perfect) Earthen Essence Jewel
+        (Stat) Constitution: +28
+
+Gem 2: (Rough) Watery Shielding Jewel
+        (Resist) Slash: +3%
+
+Gem 3: (Flawless) Blood Essence Jewel
+        (Stat) Hit Points: +68
+
+Gem 4: (Polished) Light Shielding Jewel
+        (Resist) Energy: +9%
+
+
+Legs:
+Imbue Points: 37.5 of 37.5  (Quality: 100)
+Gem 1: (Perfect) Earthen Essence Jewel
+        (Stat) Constitution: +28
+
+Gem 2: (Flawed) Blood Essence Jewel
+        (Stat) Hit Points: +28
+
+Gem 3: (Raw) Airy Shielding Jewel
+        (Resist) Thrust: +1%
+
+Gem 4: (Precious) Earthen Shielding Jewel
+        (Resist) Matter: +13%
+
+
+
+Skill needed for craft: 0
+
+
+
+Gems: 12
+
+(Flawless) Blood Essence Jewel
+(Raw) Vapor Essence Jewel
+(Polished) Heated Shielding Jewel
+(Faceted) Vapor Shielding Jewel
+(Perfect) Earthen Essence Jewel
+(Rough) Watery Shielding Jewel
+(Flawless) Blood Essence Jewel
+(Polished) Light Shielding Jewel
+(Perfect) Earthen Essence Jewel
+(Flawed) Blood Essence Jewel
+(Raw) Airy Shielding Jewel
+(Precious) Earthen Shielding Jewel

@@ -1,0 +1,323 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 02:11 PM on Nov 09, 2025
+Version: 1.2.020
+
+Character Summary for DancelotFinal(Level 50) - Druid
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+15 / 75  Strength
+83 / 85  Constitution
+102 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+111 / 101  Empathy
+374 / 370  Hit Points
+0 / 26  Power
+
+Bonuses
+Buff: 24%
+Casting Speed: 12%
+Power Pool: 37%
+Healing: 25%
+Mana Regen: 15%
+Spell Damage: 4%
+Spell Range: 11%
+Arcane Siphon: 15%
+Spell Duration: 10%
+Resist Pierce: 3%
+Armor Factor: 20%
+Health Regen: 20%
+Endurance Regen: 1%
+
+Resists (Racials not included)
+27% Crush
+26% Slash
+26% Thrust
+36% Cold
+26% Energy
+27% Heat
+26% Matter
+26% Spirit
+26% Body
+
+Skills
+10 Regrowth
+10 Nurture
+10 Nature
+
+Item Procs and Charges
+
+
+Items
+
+
+Helmet
+Name: Empowering Mantle of Samhain
+Level: 51 (100% Quality)
+Utility: 90.67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Cold: +7%
+3. (Resist) Slash: +7%
+4. (Stat) Acuity: +18
+5. (Bonus) Buff: +5
+6. (Bonus) Casting Speed: +2
+7. (Bonus) Power Pool: +5
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Hands
+Name: Dragonslayer Holy Osnadurtha Gloves
+Level: 51 (100% Quality)
+Utility: 72
+Source Type: Loot
+1. (Stat) Hit Points: +40
+2. (Resist) Cold: +5%
+3. (Resist) Heat: +5%
+4. (Resist) Spirit: +5%
+5. (Bonus) Buff: +5
+6. (Bonus) Healing: +5
+7. (Bonus) Power Pool: +6
+
+
+Torso
+Name: Ivy-scaled Breastplate
+Level: 51 (100% Quality)
+Utility: 100.67
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Empathy: +16
+3. (Stat) Hit Points: +40
+4. (Resist) Crush: +7%
+5. (Bonus) Buff: +9
+6. (Bonus) Healing: +9
+7. (Stat_Cap) Cap Empathy: +5
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+Arms
+Name: Infernal Osnadurtha Sleeves
+Level: 51 (100% Quality)
+Utility: 91.34
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +16
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +16
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Healing: +5
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 72.67
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Constitution: +25 [(Flawless) Earthen Essence Jewel]
+2. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+3. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+4. (Resist) Heat: +7% [(Imperfect) Heated Shielding Jewel]
+5. (Stat) Acuity: +15 [(?) ]
+
+
+Legs
+Name: Ivy-scaled Leggings
+Level: 51 (100% Quality)
+Utility: 66
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Resist) Body: +11% [(Faceted) Dusty Shielding Jewel]
+2. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+3. (Stat) Hit Points: +44 [(Polished) Blood Essence Jewel]
+4. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+5. (Bonus_Cap) Power Pool: +5 [(Raw) Not Found]
+
+
+Right Hand
+Name: Dochar Druid Blade
+Level: 51 (100% Quality)
+Utility: 85
+Source Type: Loot
+1. (Bonus) Spell Range: +4
+2. (Bonus) Casting Speed: +4
+3. (Bonus) Healing: +6
+4. (Bonus) Power Pool: +6
+5. (Stat_Cap) Cap Dexterity: +4
+6. (Stat_Cap) Cap Acuity: +4
+7. (Bonus_Cap) Power Pool: +5
+
+
+Left Hand
+Name: Shield of Everlasting Twilight
+Level: 51 (100% Quality)
+Utility: 68.67
+Source Type: Spellcraft
+Imbue Points: 36.5 of 37.5
+1. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+2. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
+3. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+4. (Resist) Thrust: +3% [(Rough) Airy Shielding Jewel]
+5. (Bonus) Buff: +5 [(Raw) Not Found]
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 120
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Belt of Consumed Souls
+Level: 51 (100% Quality)
+Utility: 87.67
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Stat) Acuity: +16
+3. (Bonus) Power Pool: +5
+4. (Bonus) Resist Pierce: +3
+5. (Bonus) Spell Duration: +5
+6. (Stat_Cap) Cap Dexterity: +7
+7. (Stat_Cap) Cap Acuity: +7
+
+
+L Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+R Ring
+Name: Zahur's Ring
+Level: 51 (100% Quality)
+Utility: 75
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Body: +6%
+3. (Resist) Cold: +6%
+4. (Resist) Energy: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+
+
+L Wrist
+Name: Hydra Eyes Bracer
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+R Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 111.17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: Dragon Power Mythirian
+Level: 51 (100% Quality)
+Utility: 36
+Source Type: Loot
+1. (Bonus) Health Regen: +20
+2. (Bonus) Mana Regen: +5
+3. (Bonus) Endurance Regen: +1
+4. (Bonus) Arcane Siphon: +5
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
