@@ -10,10 +10,6 @@ Stats
 18 / 75  Strength
 72 / 75  Constitution
 101 / 101  Dexterity
-0 / 75  Quickness
-0 / 75  Intelligence
-0 / 75  Piety
-0 / 75  Charisma
 113 / 101  Empathy
 391 / 400  Hit Points
 0 / 26  Power
@@ -49,15 +45,8 @@ Skills
 11 Nature
 5 Shield
 
-Item Procs and Charges
-Right Hand:  30s
-
-
-Items
-
-
 Helmet
-Name: 
+Name: dragonsworn etched
 Level: 51 (99% Quality)
 Utility: 71
 Source Type: Spellcraft
@@ -70,7 +59,7 @@ Imbue Points: 37,5 of 37,5
 
 
 Hands
-Name: 
+Name: spell marked
 Level: 51 (99% Quality)
 Utility: 74
 Source Type: Spellcraft
@@ -98,7 +87,7 @@ Source Type: Loot
 
 
 Arms
-Name: 
+Name: spell marked
 Level: 51 (99% Quality)
 Utility: 70,67
 Source Type: Spellcraft
@@ -170,23 +159,6 @@ Source Type: Loot
 3. (Bonus) Spell Duration: +10
 
 
-Two Handed
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
-Ranged
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
-Neck
 Name: Dragonseye Strand
 Level: 51 (100% Quality)
 Utility: 107,25
@@ -303,16 +275,3 @@ Source Type: Loot
 4. (Bonus) Casting Speed: +2
 5. (Bonus) Spell Duration: +10
 
-
-Mythical
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
