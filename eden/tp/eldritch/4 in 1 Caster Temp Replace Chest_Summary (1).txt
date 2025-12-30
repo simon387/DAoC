@@ -10,11 +10,7 @@ Stats
 40 / 75  Strength
 121 / 100  Constitution
 106 / 104  Dexterity
-0 / 75  Quickness
 104 / 104  Intelligence
-0 / 75  Piety
-0 / 75  Charisma
-0 / 75  Empathy
 402 / 400  Hit Points
 0 / 31  Power
 
@@ -67,7 +63,7 @@ Source Type: Loot
 
 
 Hands
-Name: 
+Name: Bespelled Woven (Aerus) +5 con cap
 Level: 51 (100% Quality)
 Utility: 58
 Source Type: Spellcraft
@@ -96,7 +92,7 @@ Source Type: Loot
 
 
 Arms
-Name: 
+Name: Bespelled Woven (Aerus)
 Level: 51 (100% Quality)
 Utility: 61,33
 Source Type: Spellcraft
@@ -105,6 +101,7 @@ Imbue Points: 37,5 of 37,5
 2. (Stat) Intelligence: +25 [(Flawless) Dusty Essence Jewel]
 3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
 4. (Stat) Strength: +25 [(Flawless) Fiery Essence Jewel]
+1. (Stat Cap) Cap Hit Points: +40
 
 
 Feet
@@ -123,7 +120,7 @@ Source Type: Loot
 
 
 Legs
-Name: 
+Name: Dragonsworn Enchanted Woven
 Level: 51 (100% Quality)
 Utility: 60,66
 Source Type: Spellcraft
@@ -132,22 +129,7 @@ Imbue Points: 35,5 of 37,5
 2. (Stat) Intelligence: +22 [(Precious) Dusty Essence Jewel]
 3. (Resist) Crush: +5% [(Flawed) Fiery Shielding Jewel]
 4. (Resist) Cold: +9% [(Polished) Icy Shielding Jewel]
-
-
-Right Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
-
-
-Left Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
+2. (Stat) Strength: +15
 
 
 Two Handed
@@ -166,13 +148,6 @@ Source Type: Loot
 9. (Stat Cap) Cap Power: +5
 10. (Bonus) Arcane Siphon: +10
 
-
-Ranged
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 33,5
 
 
 Neck
@@ -313,54 +288,3 @@ Source Type: ROG
 8. (Bonus) Spell Duration: +5
 9. (Bonus) Spell Focus: +3
 
-
-Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 30
-Source Type: ROG
-1. (Stat Cap) Cap Hit Points: +40
-2. (Stat) Strength: +15
-3. (Stat Cap) Cap Constitution: +5
-
-
-Helmet Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Torso Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Feet Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Two Handed Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Arms Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
-
-
-Hands Bonuses
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: ROG
