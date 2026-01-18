@@ -1,0 +1,418 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 10:25 PM giu 18, 2024
+Version: 8.3.47
+
+Character Summary for valkyria legend - Valkyrie
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+116 / 106  Strength
+101 / 101  Constitution
+89 / 90  Dexterity
+105 / 101  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+335 / 310  Hit Points
+14 / 26  Power
+
+Bonuses
+Melee Damage: 15%
+Spell Damage: 4%
+Style Damage: 10%
+Melee Speed: 10%
+Armor Factor: 42%
+Spell Range: 4%
+Casting Speed: 4%
+Power Pool: 8%
+Arcane Siphon: 10%
+Endurance Regen: 2%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+27% Thrust
+31% Heat
+27% Cold
+26% Matter
+26% Body
+27% Energy
+26% Spirit
+
+Skills
+15 Spear
+15 Sword
+11 Shield
+11 Parry
+3 Mending
+3 Odin's Will
+
+Items
+
+
+Helmet
+Name: 
+Level: 51 (100% Quality)
+Utility: 59
+Source Type: Spellcraft
+Imbue Points: 35,5 of 37,5
+1. (Power) Power: +7 [(Imperfect) Mystical Essence Jewel]
+2. (Resist) Body: +7% [(Imperfect) Dusty Shielding Jewel]
+3. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+4. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 59,66
+Source Type: Spellcraft
+Imbue Points: 35,5 of 37,5
+1. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
+2. (Skill) Shield: +5 [(Imperfect) Fiery Battle Jewel]
+3. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
+4. (Resist) Cold: +5% [(Flawed) Icy Shielding Jewel]
+
+
+Torso
+Name: Hauberk of Frigid Valor
+Level: 51 (100% Quality)
+Utility: 140,5
+Source Type: Loot
+1. (Stat) Constitution: +27
+2. (H.P.) Hit Points: +50
+3. (Resist) Crush: +3%
+4. (Resist) Slash: +3%
+5. (Resist) Thrust: +3%
+6. (Skill) All Melee Skills: +4
+7. (Bonus) Melee Damage: +4
+8. (Bonus) Spell Damage: +4
+9. (Bonus) Style Damage: +4
+10. (Stat Cap) Cap Constitution: +6
+
+
+Arms
+Name: Mail Sleeves of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (Resist) Cold: +5%
+2. (Resist) Crush: +8%
+3. (Resist) Heat: +5%
+4. (Resist) Slash: +8%
+5. (Resist) Thrust: +9%
+6. (Bonus) Melee Speed: +3
+7. (Skill) All Melee Skills: +3
+
+
+Feet
+Name: Sabatons of the Shard
+Level: 51 (100% Quality)
+Utility: 113,33
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Melee Damage: +4
+7. (Bonus) Style Damage: +4
+8. (Stat Cap) Cap Constitution: +7
+
+
+Legs
+Name: 
+Level: 51 (100% Quality)
+Utility: 58
+Source Type: Spellcraft
+Imbue Points: 35 of 37,5
+1. (Skill) Shield: +3 [(Rough) Fiery Battle Jewel]
+2. (Power) Power: +7 [(Imperfect) Mystical Essence Jewel]
+3. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+4. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+
+
+Right Hand
+Name: Fine Steel Long Sword
+Level: 51 (100% Quality)
+Utility: 105
+Source Type: Loot
+: 1:00 min
+1. (Stat) Strength: +15
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +5
+8. (Bonus) Melee Damage: +4
+9. (Stat Cap) Cap Strength: +10
+10. (Stat Cap) Cap Quickness: +10
+
+
+Left Hand
+Name: Conjured Bulwark
+Level: 51 (100% Quality)
+Utility: 109,33
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Dexterity: +22
+3. (Skill) Shield: +3
+4. (Bonus) Melee Speed: +3
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +3
+7. (Stat Cap) Cap Strength: +5
+8. (Stat Cap) Cap Dexterity: +5
+
+
+Two Handed
+Name: Dragonfury
+Level: 51 (100% Quality)
+Utility: 105
+Source Type: Loot
+1. (Stat) Strength: +30
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Bonus) Armor Factor: +10
+8. (Skill) All Melee Skills: +5
+9. (Bonus) Melee Damage: +4
+10. (Stat Cap) Cap Strength: +10
+
+
+Ranged
+Name: Bloodfrost Battle Spear
+Level: 51 (100% Quality)
+Utility: 103
+Source Type: Loot
+: 1:00 min
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Resist) Cold: +1%
+4. (Resist) Crush: +1%
+5. (Resist) Slash: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Melee Damage: +4
+9. (Stat Cap) Cap Strength: +10
+10. (Stat Cap) Cap Dexterity: +10
+
+
+Neck
+Name: Searing Fiend Necklace
+Level: 51 (100% Quality)
+Utility: 107,5
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Constitution: +15
+3. (Stat) Quickness: +15
+4. (H.P.) Hit Points: +30
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Bonus) Armor Factor: +12
+8. (Stat Cap) Cap Strength: +5
+9. (Stat Cap) Cap Constitution: +5
+10. (Stat Cap) Cap Quickness: +5
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 133
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 114
+Source Type: Loot
+1. (Stat) Quickness: +18
+2. (H.P.) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Melee Speed: +2
+6. (Skill) All Dual Wield Skills: +2
+7. (Bonus) Style Damage: +2
+8. (Stat Cap) Cap Strength: +6
+9. (Stat Cap) Cap Quickness: +6
+10. (Stat Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (H.P.) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Constitution: +5
+
+
+R. Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (H.P.) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Constitution: +5
+
+
+L. Wrist
+Name: Gatekeeper Bracer of Oblivion
+Level: 51 (100% Quality)
+Utility: 96,16
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (H.P.) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Skill) Parry: +3
+7. (Bonus) Armor Factor: +10
+8. (Stat Cap) Cap Strength: +5
+9. (Stat Cap) Cap Hit Points: +30
+
+
+R. Wrist
+Name: Bracelet of Silent Oblivion
+Level: 51 (100% Quality)
+Utility: 74,33
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Stat) Quickness: +22
+3. (H.P.) Hit Points: +60
+4. (Skill) Parry: +4
+5. (Bonus) Melee Speed: +2
+
+
+Mythical
+Name: Deserter Mighty Mythirian
+Level: 51 (100% Quality)
+Utility: 30,66
+Source Type: Loot
+1. (Stat) Strength: +5
+2. (Stat) Quickness: +5
+3. (Bonus) Endurance Regen: +2
+4. (Myth. Cap) Cap Strength: +5
+5. (Myth. Cap) Cap Quickness: +5
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Strength: +15
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Dexterity: +15
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Stat) Quickness: +15
+
+
+Right Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Ranged Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
