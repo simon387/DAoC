@@ -13,7 +13,7 @@
 + 46 void 26 mana 10 light
 + dd 179 energy baseline
 
-## table
+## tables
 
 | AA | MOM | cost | damage    |
 |----|-----|------|-----------|
@@ -117,6 +117,8 @@
 | 9  | 7   | 54   | 327 (-62) |
 | 9  | 8   | 61   | 332 (-63) |
 | 9  | 9   | 68   | 337 (-64) |
+
+
 
 ## bonus
 
