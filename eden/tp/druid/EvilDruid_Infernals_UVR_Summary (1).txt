@@ -1,0 +1,268 @@
+Stats
+15 / 75  Strength
+77 / 75  Constitution
+101 / 101  Dexterity
+101 / 101  Empathy
+389 / 400  Hit Points
+
+Bonuses
+Buff: 25%
+Casting Speed: 10%
+Power Pool: 35%
+Healing: 25%
+Mana Regen: 10%
+Spell Damage: 4%
+Armor Factor: 20
+Arcane Siphon: 20%
+Spell Range: 10%
+Spell Duration: 21%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+26% Thrust
+26% Cold
+26% Energy
+25% Heat
+25% Matter
+26% Spirit
+26% Body
+
+Skills
+7 Regrowth
+7 Nurture
+7 Nature
+
+Helmet
+Name: Empowering Mantle of Samhain
+Level: 51 (100% Quality)
+Utility: 90.67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Cold: +7%
+3. (Resist) Slash: +7%
+4. (Stat) Acuity: +18
+5. (Bonus) Buff: +5
+6. (Bonus) Casting Speed: +2
+7. (Bonus) Power Pool: +5
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Hands
+Name: 
+Level: 51 (100% Quality)
+Utility: 67.67
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+2. (Stat) Dexterity: +1 [(Raw) Vapor Essence Jewel]
+3. (Resist) Heat: +9% [(Polished) Heated Shielding Jewel]
+4. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+5. (Bonus) Buff: +5
+
+
+Torso
+Name: Ivy-scaled Breastplate
+Level: 51 (100% Quality)
+Utility: 100.67
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Empathy: +16
+3. (Stat) Hit Points: +40
+4. (Resist) Crush: +7%
+5. (Bonus) Buff: +9
+6. (Bonus) Healing: +9
+7. (Stat_Cap) Cap Empathy: +5
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+Arms
+Name: Infernal Osnadurtha Sleeves
+Level: 51 (100% Quality)
+Utility: 91.34
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +16
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +16
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Healing: +5
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+Feet
+Name: 
+Level: 51 (100% Quality)
+Utility: 69.67
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+2. (Resist) Slash: +3% [(Rough) Watery Shielding Jewel]
+3. (Stat) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+4. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+5. (Bonus) Armor Factor: +10
+
+
+Legs
+Name: 
+Level: 51 (100% Quality)
+Utility: 63.67
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+2. (Stat) Hit Points: +28 [(Flawed) Blood Essence Jewel]
+3. (Resist) Thrust: +1% [(Raw) Airy Shielding Jewel]
+4. (Resist) Matter: +13% [(Precious) Earthen Shielding Jewel]
+5. ((Bonus) Cap Power: +5% 
+
+
+Right Hand
+Name: Unyielding Verdant Reclaimer
+Level: 51 (100% Quality)
+Utility: 100.67
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Resist) Crush: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Thrust: +1%
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +10
+7. (Stat_Cap) Cap Dexterity: +5
+8. (Stat_Cap) Cap Acuity: +5
+9. (Bonus_Cap) Cap Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106.67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 120
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Ring of the Azure
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+R Ring
+Name: Filigree Antalya Ring
+Level: 51 (100% Quality)
+Utility: 70
+Source Type: Loot
+1. (Stat) Acuity: +12
+2. (Bonus) Buff: +6
+3. (Bonus) Casting Speed: +2
+4. (Bonus) Healing: +8
+5. (Bonus) Spell Duration: +6
+6. (Stat_Cap) Cap Acuity: +6
+
+
+L Wrist
+Name: Warshadow Bracer
+Level: 51 (100% Quality)
+Utility: 115
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Body: +6%
+3. (Resist) Crush: +6%
+4. (Resist) Energy: +6%
+5. (Resist) Slash: +6%
+6. (Resist) Thrust: +6%
+7. (Skill) All Melee Skills: +3
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+R Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
