@@ -1,0 +1,322 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 07:15 AM on janv. 25, 2026
+Version: 1.3.007
+
+Character Summary for Hib Caster 25dur NSCure noInfernal(Level 50) - Mentalist
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+100 / 91  Constitution
+110 / 109  Dexterity
+0 / 75  Quickness
+102 / 101  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+371 / 375  Hit Points
+0 / 26  Power
+
+Bonuses
+Resist Pierce: 10%
+Spell Range: 15%
+Spell Damage: 10%
+Casting Speed: 11%
+Spell Duration: 28%
+Power Pool: 25%
+Arcane Siphon: 20%
+Armor Factor: 10%
+Mana Regen: 10%
+
+Resists (Racials not included)
+27% Crush
+26% Slash
+28% Thrust
+25% Cold
+27% Energy
+26% Heat
+27% Matter
+26% Spirit
+28% Body
+
+Skills
+14 Light
+14 Mana
+14 Mentalism
+
+Item Procs and Charges
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 108,5
+Source Type: Loot
+1. (Stat) Hit Points: +30
+2. (Resist) Body: +3%
+3. (Resist) Cold: +3%
+4. (Resist) Energy: +3%
+5. (Resist) Heat: +3%
+6. (Resist) Matter: +3%
+7. (Resist) Spirit: +3%
+8. (Bonus) Resist Pierce: +5
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Acuity: +10
+
+
+Hands
+Name: Silksteel Bespelled Woven Gloves (+5 Con Cap)
+Level: 51 (99% Quality)
+Utility: 69,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+2. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Stat) Hit Points: +36 [(Imperfect) Blood Essence Jewel]
+5. (Stat_Cap) Cap Constitution: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Virulent Sporite Robe
+Level: 51 (100% Quality)
+Utility: 148,5
+Source Type: Loot
+1. (Stat) Constitution: +24
+2. (Stat) Hit Points: +50
+3. (Resist) Crush: +2%
+4. (Resist) Slash: +2%
+5. (Resist) Thrust: +2%
+6. (Bonus) Spell Range: +4
+7. (Stat) Acuity: +24
+8. (Skill) All Magic Skills: +4
+9. (Bonus) Spell Damage: +4
+10. (Stat_Cap) Cap Constitution: +6
+
+
+Arms
+Name: Sleeves of Strife
+Level: 51 (100% Quality)
+Utility: 87
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Cold: +6%
+3. (Resist) Crush: +8%
+4. (Resist) Heat: +6%
+5. (Resist) Slash: +8%
+6. (Resist) Thrust: +8%
+
+
+Feet
+Name: Aidon's Slippers
+Level: 51 (100% Quality)
+Utility: 90,34
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +3
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Legs
+Name: Silksteel Bespelled Woven Pants (+5% Power Pool)
+Level: 51 (99% Quality)
+Utility: 70,67
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Stat) Dexterity: +22 [(Precious) Vapor Essence Jewel]
+2. (Resist) Spirit: +5% [(Flawed) Vapor Shielding Jewel]
+3. (Resist) Matter: +11% [(Faceted) Earthen Shielding Jewel]
+4. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+5. (Bonus) Power Pool: +5 [(Raw) Not Found]
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Left Hand
+Name: Basalt Buckler of Oblivion
+Level: 51 (100% Quality)
+Utility: 106,67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Resist) Crush: +4%
+3. (Resist) Slash: +4%
+4. (Resist) Thrust: +4%
+5. (Bonus) Armor Factor: +10
+6. (Bonus) Spell Range: +4
+7. (Bonus) Healing: +5
+8. (Bonus) Power Pool: +5
+9. (Stat_Cap) Cap Dexterity: +6
+10. (Stat_Cap) Cap Acuity: +5
+
+
+Two Handed
+Name: Azure's Folly
+Level: 51 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Resist) Energy: +1%
+3. (Resist) Spirit: +1%
+4. (Focus) All Focuses: +50
+5. (Bonus) Power Pool: +5
+6. (Bonus) Spell Damage: +4
+7. (Stat_Cap) Cap Dexterity: +10
+8. (Stat_Cap) Cap Acuity: +10
+9. (Bonus_Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 107,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 120
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat_Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Bedlam
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Constitution: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+R Ring
+Name: Ring of the Azure
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+L Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+R Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+Mythical
+Name: Deserter Arcane Mythirian
+Level: 51 (100% Quality)
+Utility: 31,33
+Source Type: Loot
+1. (Stat) Dexterity: +8
+2. (Bonus) Mana Regen: +10
+3. (Mythical) Cap Dexterity: +8
