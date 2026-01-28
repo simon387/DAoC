@@ -7,6 +7,7 @@
 
 ## comandi vari
 
++ https://eden-daoc.net/account
 + `/craftqueue 42`
 + `/craftqueue buy <upto> 42`
 + `/macro sell /moveitem sell #allbags`
