@@ -104,18 +104,18 @@ Utility: 43.5
 TOA Utility: 65.0
 PvE Utility: 0.0
 
-Legs (Crafted):
+Legs (Crafted): Dragonsworn Bespelled Woven
 Imbue: 37.5/32 (Quality: 99)
    Dexterity: 13
    Crush: 2%
    Slash: 13%
    Energy: 9%
-   Hits (Cap Increase): 40
+  5 power cap
 Utility: 56.7
 TOA Utility: 10.0
 PvE Utility: 0.0
 
-Hands (Crafted):
+Hands (Crafted): Dragonsworn Bespelled Woven
 Imbue: 37.5/32 (Quality: 99)
    Matter: 9%
    Hits: 68
@@ -126,7 +126,7 @@ Utility: 71.7
 TOA Utility: 0.0
 PvE Utility: 0.0
 
-Feet (Crafted):
+Feet (Crafted): Bespelled Woven (Aerus)
 Imbue: 37.5/32 (Quality: 99)
    Matter: 9%
    Dexterity: 22
