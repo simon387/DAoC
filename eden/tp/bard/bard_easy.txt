@@ -1,0 +1,42 @@
+Helmet - Blazed Cailocht (Volc)	5 Acu Cap
+Imbue Points: 37,5 of 37,5
+1. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+2. (Resist) Body: +5% [(Flawed) Dusty Shielding Jewel]
+3. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+4. (Stat) Constitution: +16 [(Polished) Earthen Essence Jewel]
+
+Hands - Dragonsworn Blazed Cailocht - 5% Heal
+Imbue Points: 37 of 37,5
+1. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+2. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Resist) Spirit: +9% [(Polished) Vapor Shielding Jewel]
+
+Arms - Ornamented Cailocht (Volc) Cap Hit Points: +40
+Imbue Points: 37 of 37,5
+1. (Stat) Constitution: +19 [(Faceted) Earthen Essence Jewel]
+2. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
+3. (Resist) Slash: +11% [(Faceted) Watery Shielding Jewel]
+4. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+
+Feet - 2. Blazed Cailocht (Volc) 5 Dex Cap
+Imbue Points: 37 of 37,5
+1. (Stat) Strength: +22 [(Precious) Fiery Essence Jewel]
+2. (H.P.) Hit Points: +36 [(Imperfect) Blood Essence Jewel]
+3. (Power) Power: +13 [(Precious) Mystical Essence Jewel]
+4. (Resist) Crush: +2% [(Uncut) Fiery Shielding Jewel]
+
+Torso: Rigid Razorback Jerkin          600 Galladoria Roots
+Legs: Dragonsong Leggings              450 Galladoria Roots
+Right Hand: Dochar Bard Blade
+Left Hand: Basalt Buckler of Oblivion
+Two Handed: Olcasgean Root Harp
+Neck: Empathic Deathwatcher Chain
+Cloak: Cape of Legerdemain
+Jewelry: Ensorcelled Mystic Gem
+Waist: Sulphurous Fiend Belt
+L. Ring: Ring of the Azure
+R. Ring: Filigree Antalya Ring
+L. Wrist: Hardened Wormhide Wrap
+R. Wrist: Glimmershade Bracer
+Mythical: Dragon Intellect Mythirian

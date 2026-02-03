@@ -126,3 +126,4 @@
 + 9 9 68 senza debuff ma con acuity viola (+93), 354int totale: 357 (-68)
 + 9 9 68 con debuff ma con acuity viola (+93), 354int totale: 579 (+153)
 + 9 9 68 con debuff ma con acuity viola (+93), 354int totale + debuff str/con verde lvl 19: 641 (+169)
++ 7 5 con acume giallo (int totale 299): 321 (-59)
