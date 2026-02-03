@@ -28,15 +28,15 @@ Imbue Points: 37 of 37,5
 
 Torso: Rigid Razorback Jerkin          600 Galladoria Roots
 Legs: Dragonsong Leggings              450 Galladoria Roots
-Right Hand: Dochar Bard Blade
-Left Hand: Basalt Buckler of Oblivion
-Two Handed: Olcasgean Root Harp
-Neck: Empathic Deathwatcher Chain
-Cloak: Cape of Legerdemain
-Jewelry: Ensorcelled Mystic Gem
-Waist: Sulphurous Fiend Belt
-L. Ring: Ring of the Azure
-R. Ring: Filigree Antalya Ring
-L. Wrist: Hardened Wormhide Wrap
-R. Wrist: Glimmershade Bracer
-Mythical: Dragon Intellect Mythirian
+Two Handed: Olcasgean Root Harp        360 Galladoria Roots
+Mythical: Dragon Intellect Mythirian   500 Galladoria Roots    1910
+Right Hand: Dochar Bard Blade          ?
+Left Hand: Basalt Buckler of Oblivion  600 Daemon Blood Seals
+Waist: Sulphurous Fiend Belt           600 Daemon Blood Seals
+L. Wrist: Hardened Wormhide Wrap       500 Daemon Blood Seals  1700
+Neck: Empathic Deathwatcher Chain      350 Dragon Scales
+L. Ring: Ring of the Azure             500 Dragon Scales
+R. Wrist: Glimmershade Bracer          475 Dragon Scales       1325
+Cloak: Cape of Legerdemain             700 Grimoire Pages
+Jewelry: Ensorcelled Mystic Gem        600 Grimoire Pages      1300
+R. Ring: Filigree Antalya Ring         700 Atlantean Glass      700
