@@ -1,0 +1,327 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 10:41 nachm. on Jan 27, 2026
+Version: 1.3.007
+
+Character Summary for Karlic_S3_BM (Level 50) - Blademaster
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+101 / 101  Strength
+100 / 101  Constitution
+101 / 101  Dexterity
+103 / 101  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+389 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Style Damage: 10%
+Melee Speed: 12%
+Melee Damage: 10%
+Casting Speed: 6%
+Spell Range: 2%
+Armor Factor: 30%
+Parry: 6%
+
+Resists (Racials not included)
+25% Crush
+25% Slash
+25% Thrust
+25% Cold
+28% Energy
+24% Heat
+27% Matter
+29% Spirit
+23% Body
+
+Skills
+11 Blades
+11 Blunt
+11 Piercing
+0 Shield
+11 Parry
+10 Celtic Dual
+4 Shadow Mastery
+
+Item Procs and Charges
+Left Hand:  Body
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Helmet
+Name: Dragonsworn Marked Cailocht
+Level: 51 (99% Quality)
+Utility: 71,34
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+2. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+3. (Resist) Cold: +9% [(Polished) Icy Shielding Jewel]
+4. (Stat) Quickness: +7 [(Rough) Airy Essence Jewel]
+5. (Stat) Quickness: +15 [(?) Airy Essence Jewel]
+
+
+Hands
+Name: Gauntlets of the Veil
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+1. (Resist) Crush: +1%
+2. (Resist) Energy: +1%
+3. (Resist) Slash: +1%
+4. (Resist) Spirit: +1%
+5. (Resist) Thrust: +1%
+6. (Skill) Celtic Dual: +5
+7. (Skill) All Melee Skills: +3
+8. (Bonus) Style Damage: +4
+9. (Stat_Cap) Cap Constitution: +10
+10. (Stat_Cap) Cap Quickness: +10
+
+
+Torso
+Name: Astral Vest of Purification
+Level: 51 (100% Quality)
+Utility: 152
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Bonus) Melee Speed: +4
+3. (Skill) All Melee Skills: +3
+4. (Bonus) Melee Damage: +4
+5. (Bonus) Casting Speed: +4
+6. (Stat_Cap) Cap Strength: +8
+7. (Stat_Cap) Cap Dexterity: +8
+8. (Stat_Cap) Cap Constitution: +8
+
+
+Arms
+Name: Everlasting Twilight Sleeves
+Level: 51 (100% Quality)
+Utility: 83,25
+Source Type: Loot
+1. (Stat) Quickness: +21
+2. (Stat) Hit Points: +60
+3. (Resist) Crush: +8%
+4. (Resist) Slash: +8%
+5. (Resist) Thrust: +8%
+6. (Stat_Cap) Cap Hit Points: +25
+
+
+Feet
+Name: Dragonsworn Ornamented Cailocht
+Level: 51 (99% Quality)
+Utility: 70,01
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+2. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+3. (Stat) Strength: +16 [(Polished) Fiery Essence Jewel]
+4. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+5. (Stat) Constitution: +15 [(?) Earthen Essence Jewel]
+
+
+Legs
+Name: Astral Leggings of the Leech
+Level: 51 (100% Quality)
+Utility: 110
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +15
+3. (Stat) Constitution: +15
+4. (Stat) Hit Points: +40
+5. (Bonus) Spell Range: +2
+6. (Bonus) Melee Damage: +2
+7. (Bonus) Casting Speed: +2
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Right Hand
+Name: Fine Steel Long Sword
+Level: 51 (100% Quality)
+Utility: 130
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Resist) Crush: +1%
+3. (Resist) Energy: +1%
+4. (Resist) Slash: +1%
+5. (Resist) Spirit: +1%
+6. (Resist) Thrust: +1%
+7. (Skill) All Melee Skills: +5
+8. (Bonus) Melee Damage: +4
+9. (Stat_Cap) Cap Strength: +10
+10. (Stat_Cap) Cap Quickness: +10
+
+
+Left Hand
+Name: Anger
+Level: 51 (100% Quality)
+Utility: 77
+Source Type: Loot
+Special 1:  Body
+1. (Stat) Strength: +12
+2. (Stat) Dexterity: +12
+3. (Stat) Quickness: +12
+4. (Resist) Energy: +3%
+5. (Resist) Matter: +3%
+6. (Resist) Spirit: +3%
+7. (Bonus) Melee Speed: +1
+8. (Skill) All Dual Wield Skills: +3
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Summoner's Silken Shawl
+Level: 51 (100% Quality)
+Utility: 78,75
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Crush: +10%
+3. (Resist) Slash: +10%
+4. (Resist) Thrust: +10%
+5. (Stat_Cap) Cap Hit Points: +25
+
+
+Jewelry
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 124
+Source Type: Loot
+1. (Stat) Quickness: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Melee Speed: +2
+6. (Skill) All Dual Wield Skills: +2
+7. (Bonus) Style Damage: +2
+8. (Stat_Cap) Cap Strength: +6
+9. (Stat_Cap) Cap Quickness: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+R Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+L Wrist
+Name: Gatekeeper Bracer of Oblivion
+Level: 51 (100% Quality)
+Utility: 96,17
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Skill) Parry: +3
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Strength: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+R Wrist
+Name: Howling Wraith Bracer
+Level: 51 (100% Quality)
+Utility: 94
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Constitution: +21
+3. (Stat) Hit Points: +44
+4. (Skill) Shadow Mastery: +4
+5. (Bonus) Melee Speed: +5
+6. (Bonus) Style Damage: +2
+
+
+Mythical
+Name: Greater Mythirian of Deflection
+Level: 51 (100% Quality)
+Utility: 6
+Source Type: Loot
+1. (Bonus) Parry: +6
