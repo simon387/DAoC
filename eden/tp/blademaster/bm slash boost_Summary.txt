@@ -1,0 +1,326 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 03:03 pm on May 19, 2025
+Version: 1.2.017
+
+Character Summary for bm slash boost(Level 50) - Blademaster
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+112 / 101  Strength
+92 / 96  Constitution
+93 / 95  Dexterity
+51 / 81  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+370 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 11%
+Melee Damage: 14%
+Style Damage: 16%
+Armor Factor: 50%
+Fatigue: 20%
+Spell Damage: 2%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+26% Thrust
+31% Cold
+28% Energy
+34% Heat
+23% Matter
+27% Spirit
+28% Body
+
+Skills
+11 Blades
+11 Blunt
+11 Piercing
+0 Shield
+7 Parry
+11 Celtic Dual
+4 Envenom
+4 Stealth
+
+Item Procs and Charges
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 20
+Source Type: ROG
+1. (Stat) Quickness: +15
+2. (Stat) Strength: +15
+
+
+Helmet
+Name: Glittering Mantle of Samhain
+Level: 51 (100% Quality)
+Utility: 90.67
+Source Type: Loot
+1. (Stat) Dexterity: +16
+2. (Stat) Constitution: +18
+3. (Stat) Hit Points: +40
+4. (Resist) Crush: +7%
+5. (Resist) Heat: +7%
+6. (Bonus) Melee Speed: +2
+7. (Bonus) Melee Damage: +2
+8. (Stat_Cap) Cap Constitution: +5
+
+
+Hands
+Name: Tempered Sidhe Gloves
+Level: 51 (100% Quality)
+Utility: 93
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Dexterity: +15
+3. (Resist) Matter: +6%
+4. (Resist) Spirit: +6%
+5. (Skill) Celtic Dual: +3
+6. (Bonus) Melee Speed: +2
+7. (Stat_Cap) Cap Dexterity: +5
+8. (Stat_Cap) Cap Constitution: +5
+
+
+Torso
+Name: Encrusted Cave Crystal Jerkin
+Level: 51 (100% Quality)
+Utility: 150
+Source Type: Loot
+1. (Stat) Dexterity: +24
+2. (Stat) Constitution: +24
+3. (Resist) Crush: +1%
+4. (Resist) Slash: +1%
+5. (Resist) Thrust: +1%
+6. (Skill) Parry: +4
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Melee Damage: +4
+9. (Bonus) Style Damage: +4
+10. (Stat_Cap) Cap Constitution: +6
+
+
+Arms
+Name: Dragonsworn Etched Cailocht
+Level: 51 (99% Quality)
+Utility: 64.67
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+2. (Resist) Thrust: +7% [(Imperfect) Airy Shielding Jewel]
+3. (Stat) Constitution: +22 [(Precious) Earthen Essence Jewel]
+4. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+
+
+Feet
+Name: Tempered Sidhe Boots
+Level: 51 (100% Quality)
+Utility: 102.67
+Source Type: Loot
+1. (Stat) Strength: +15
+2. (Stat) Dexterity: +10
+3. (Stat) Quickness: +18
+4. (Resist) Cold: +6%
+5. (Resist) Heat: +6%
+6. (Skill) All Melee Skills: +3
+7. (Stat_Cap) Cap Strength: +5
+8. (Stat_Cap) Cap Constitution: +5
+
+
+Legs
+Name: Dragonsworn Ornamented Cailocht
+Level: 51 (99% Quality)
+Utility: 59.34
+Source Type: Spellcraft
+Imbue Points: 37.5 of 37.5
+1. (Stat) Constitution: +28 [(Perfect) Earthen Essence Jewel]
+2. (Stat) Dexterity: +13 [(Imperfect) Vapor Essence Jewel]
+3. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+4. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+
+
+Right Hand
+Name: Astral Mephitic Fang
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+1. (Bonus) Armor Factor: +15
+2. (Skill) All Dual Wield Skills: +3
+3. (Bonus) Melee Damage: +4
+4. (Bonus) Fatigue: +10
+5. (Bonus) Style Damage: +4
+6. (Stat_Cap) Cap Strength: +5
+7. (Stat_Cap) Cap Dexterity: +5
+
+
+Left Hand
+Name: Astral Mephitic Fang
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+1. (Bonus) Armor Factor: +15
+2. (Skill) All Dual Wield Skills: +3
+3. (Bonus) Melee Damage: +4
+4. (Bonus) Fatigue: +10
+5. (Bonus) Style Damage: +4
+6. (Stat_Cap) Cap Strength: +5
+7. (Stat_Cap) Cap Dexterity: +5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Glimmer Spirit Cloak
+Level: 51 (100% Quality)
+Utility: 85
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Body: +5%
+3. (Resist) Cold: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Spirit: +5%
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+Jewelry
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 124
+Source Type: Loot
+1. (Stat) Quickness: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Melee Speed: +2
+6. (Skill) All Dual Wield Skills: +2
+7. (Bonus) Style Damage: +2
+8. (Stat_Cap) Cap Strength: +6
+9. (Stat_Cap) Cap Quickness: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Band of Clandestinity
+Level: 51 (100% Quality)
+Utility: 102
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Hit Points: +60
+3. (Skill) Envenom: +4
+4. (Skill) Stealth: +4
+5. (Bonus) Armor Factor: +5
+6. (Bonus) Melee Speed: +5
+7. (Stat_Cap) Cap Hit Points: +20
+
+
+R Ring
+Name: Ring of the Azure
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+L Wrist
+Name: Bracer of the Fomor
+Level: 51 (100% Quality)
+Utility: 120.5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+R Wrist
+Name: Gatekeeper Bracer of Oblivion
+Level: 51 (100% Quality)
+Utility: 96.17
+Source Type: Loot
+1. (Stat) Strength: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Skill) Parry: +3
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Strength: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Loot
