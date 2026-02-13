@@ -1,0 +1,342 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:45 PM on nov 04, 2025
+Version: 1.2.020
+
+Character Summary for Hero Pierce(Level 50) - Hero
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+104 / 104  Strength
+96 / 96  Constitution
+105 / 103  Dexterity
+86 / 88  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+428 / 400  Hit Points
+0 / 26  Power
+
+Bonuses
+Melee Speed: 10%
+Melee Damage: 22%
+Style Damage: 14%
+Armor Factor: 50%
+Fatigue: 15%
+Block: 2%
+Parry: 2%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+33% Thrust
+27% Cold
+24% Energy
+26% Heat
+26% Matter
+23% Spirit
+26% Body
+
+Skills
+11 Blades
+11 Blunt
+11 Piercing
+11 Celtic Spear
+11 Large Weaponry
+13 Shield
+8 Parry
+
+Item Procs and Charges
+Feet:  20s
+Left Hand:  1:00 min
+Two Handed:  5s
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 20
+Source Type: ROG
+1. (Stat) Dexterity: +15
+2. (Stat_Cap) Cap Hit Points: +40
+
+
+Helmet
+Name: Fierce Mantle of Samhain
+Level: 51 (100% Quality)
+Utility: 90,67
+Source Type: Loot
+1. (Stat) Strength: +18
+2. (Stat) Quickness: +16
+3. (Stat) Hit Points: +40
+4. (Resist) Energy: +7%
+5. (Resist) Thrust: +7%
+6. (Bonus) Melee Speed: +2
+7. (Bonus) Melee Damage: +2
+8. (Stat_Cap) Cap Strength: +5
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 61,34
+Source Type: Spellcraft
+Imbue Points: 37,5 of 37,5
+1. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+2. (Stat) Constitution: +25 [(Flawless) Earthen Essence Jewel]
+3. (Stat) Dexterity: +25 [(Flawless) Vapor Essence Jewel]
+4. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+
+
+Torso
+Name: Primal Spore Covered Chestplate
+Level: 51 (100% Quality)
+Utility: 150,67
+Source Type: Loot
+1. (Stat) Constitution: +25
+2. (Stat) Hit Points: +40
+3. (Resist) Crush: +2%
+4. (Resist) Slash: +2%
+5. (Resist) Thrust: +2%
+6. (Skill) Shield: +4
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Melee Damage: +4
+9. (Bonus) Style Damage: +4
+10. (Stat_Cap) Cap Strength: +6
+
+
+Arms
+Name: 
+Level: 51 (99% Quality)
+Utility: 72
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+2. (Skill) Shield: +4 [(Flawed) Fiery Battle Jewel]
+3. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
+4. (Resist) Body: +9% [(Polished) Dusty Shielding Jewel]
+
+
+Feet
+Name: Sabatons of the Shard
+Level: 51 (100% Quality)
+Utility: 113,34
+Source Type: Loot
+Special 2:  20s
+1. (Stat) Strength: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Melee Damage: +4
+7. (Bonus) Style Damage: +4
+8. (Stat_Cap) Cap Constitution: +7
+
+
+Legs
+Name: Mistbound Leggings
+Level: 51 (100% Quality)
+Utility: 116,67
+Source Type: Loot
+1. (Stat) Strength: +19
+2. (Stat) Dexterity: +15
+3. (Stat) Hit Points: +40
+4. (Resist) Thrust: +7%
+5. (Skill) All Melee Skills: +3
+6. (Bonus) Melee Damage: +4
+7. (Stat_Cap) Cap Strength: +5
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Right Hand
+Name: Astral Mephitic Fang
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+1. (Bonus) Armor Factor: +15
+2. (Skill) All Dual Wield Skills: +3
+3. (Bonus) Melee Damage: +4
+4. (Bonus) Fatigue: +10
+5. (Bonus) Style Damage: +4
+6. (Stat_Cap) Cap Strength: +5
+7. (Stat_Cap) Cap Dexterity: +5
+
+
+Left Hand
+Name: Basalt Shield of Bedlam
+Level: 51 (100% Quality)
+Utility: 129,67
+Source Type: Loot
+Special 1:  1:00 min
+1. (Stat) Dexterity: +10
+2. (Resist) Cold: +3%
+3. (Resist) Heat: +3%
+4. (Resist) Matter: +3%
+5. (Skill) Shield: +5
+6. (Bonus) Armor Factor: +10
+7. (Bonus) Melee Speed: +4
+8. (Bonus) Melee Damage: +4
+9. (Bonus) Fatigue: +5
+10. (Stat_Cap) Cap Dexterity: +10
+
+
+Two Handed
+Name: Astral Voltaic Battle Spear
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+Special 1:  5s
+1. (Bonus) Armor Factor: +15
+2. (Skill) All Melee Skills: +3
+3. (Bonus) Melee Damage: +4
+4. (Bonus) Fatigue: +10
+5. (Bonus) Style Damage: +4
+6. (Stat_Cap) Cap Strength: +10
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Hibernia Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Glimmer Spirit Cloak
+Level: 51 (100% Quality)
+Utility: 85
+Source Type: Loot
+1. (Stat) Hit Points: +50
+2. (Resist) Body: +5%
+3. (Resist) Cold: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Spirit: +5%
+8. (Stat_Cap) Cap Hit Points: +50
+
+
+Jewelry
+Name: Sphere of the Damned
+Level: 51 (100% Quality)
+Utility: 94,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Quickness: +18
+3. (Stat) Hit Points: +50
+4. (Resist) Crush: +3%
+5. (Resist) Slash: +3%
+6. (Resist) Thrust: +3%
+7. (Bonus) Melee Speed: +2
+8. (Stat_Cap) Cap Strength: +7
+9. (Stat_Cap) Cap Quickness: +7
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +30
+4. (Resist) Heat: +6%
+5. (Resist) Matter: +6%
+6. (Resist) Spirit: +6%
+7. (Bonus) Armor Factor: +10
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Constitution: +5
+
+
+R Ring
+Name: Ring of the Claimed
+Level: 51 (100% Quality)
+Utility: 82
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Stat) Quickness: +15
+3. (Stat) Hit Points: +48
+4. (Bonus) Armor Factor: +10
+5. (Stat_Cap) Cap Constitution: +6
+6. (Stat_Cap) Cap Quickness: +6
+7. (Stat_Cap) Cap Hit Points: +48
+
+
+L Wrist
+Name: Bracer of the Fomor
+Level: 51 (100% Quality)
+Utility: 120,5
+Source Type: Loot
+1. (Stat) Strength: +21
+2. (Stat) Hit Points: +35
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Bonus) Armor Factor: +5
+7. (Skill) All Melee Skills: +4
+8. (Bonus) Style Damage: +2
+9. (Stat_Cap) Cap Strength: +5
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+R Wrist
+Name: Bracelet of Silent Oblivion
+Level: 51 (100% Quality)
+Utility: 74,34
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Stat) Quickness: +22
+3. (Stat) Hit Points: +60
+4. (Skill) Parry: +4
+5. (Bonus) Melee Speed: +2
+
+
+Mythical
+Name: Dragon Strength Mythirian
+Level: 51 (100% Quality)
+Utility: 28
+Source Type: Loot
+1. (Stat) Strength: +3
+2. (Stat) Dexterity: +3
+3. (Stat) Constitution: +3
+4. (Bonus) Block: +2
+5. (Bonus) Parry: +2
+6. (Mythical) Cap Strength: +3
+7. (Mythical) Cap Constitution: +3
+8. (Mythical) Cap Dexterity: +3
