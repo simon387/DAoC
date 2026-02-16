@@ -55,6 +55,8 @@
 + https://discord.com/channels/1281895088456335360/1281895088456335364/1287864529329586207
 + https://eden-daoc.net/herald?n=top_lwrp&c=hunter
 + https://wtfrickisup.com/
++ https://eden-daoc.net/account
++ https://daoctools.net/chimp
 
 ## legendary grandmaster artisan
 
