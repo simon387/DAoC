@@ -88,3 +88,10 @@ scudo che snara: Basalt Buckler of Oblivion
 ## housing
 
 + drop 1.2p / hour
+
+## wings
+
++ Black is most solo kills 7 days
++ White/Blue is most rps 7 days
++ Flame wings are a reward for the BG leaders who were most successful during “for the realm” events
++ Dragon wings are for most PvE BGs completed 7 days
