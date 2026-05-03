@@ -14,17 +14,17 @@ HANDS: Rune Scribed Starkakedja
 4. (Resist) Energy Resist: +7% (Imperfect Light Shielding Jewel)
 5. (5th Slot (Bonus)) 5% Buff Effectiveness: +5%
 
-TORSO: Tuscarian Monitor Vest           [] 600 Tuscaran Glacier Ices
+TORSO: Tuscarian Monitor Vest           [non in vendita] 600 Tuscaran Glacier Ices
 ARMS: Infernal Starkakedja Sleeves      []
-FEET: Blessed Balm Boots                []
-LEGS: Astral Leggings of Fortification  [] 800 Atlantean Glass
-RIGHT HAND: Frigid Soul Quencher        [] 250 Dragon Scales
+FEET: Blessed Balm Boots                [X]
+LEGS: Astral Leggings of Fortification  [X] 800 Atlantean Glass
+RIGHT HAND: Frigid Soul Quencher        [X] 250 Dragon Scales
 LEFT HAND: Hallowed Night Ward          [] cl5
 NECK: Midgard Medal of Honor            []
-CLOAK: Cape of Legerdemain              [] 700 Grimoire Pages
-JEWELRY: Ensorcelled Mystic Gem         [] 600 Grimoire Pages
-WAIST: Soulbinder's Belt                [] 475 Dragon Scales
-L RING: Director's Ring of Anarchy      [] 500 Daemon Blood Seals
-R RING: Director's Ring of Anarchy      [] 500 Daemon Blood Seals
+CLOAK: Cape of Legerdemain              [X] 700 Grimoire Pages
+JEWELRY: Ensorcelled Mystic Gem         [non in vendita] 600 Grimoire Pages
+WAIST: Soulbinder's Belt                [X] 475 Dragon Scales
+L RING: Director's Ring of Anarchy      [X] 500 Daemon Blood Seals
+R RING: Director's Ring of Anarchy      [X] 500 Daemon Blood Seals
 L WRIST: Bracer of Snow                 [] 650 Atlantean Glass
 R WRIST: Gatekeeper Bracer of Bedlam    [] 500 Daemon Blood Seals
