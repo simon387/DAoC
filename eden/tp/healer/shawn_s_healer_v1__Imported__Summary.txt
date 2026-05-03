@@ -1,0 +1,314 @@
+DAoC Tools - Template Builder
+Last Saved: 05/03/2026, 09:12 AM
+
+Import Code: C505-262C
+(Use this code to import a copy of this template)
+
+Character Summary for shawn's healer v1 (Imported) (Level 50) - Healer
+Realm: Midgard | Race: Frostalf
+Total Utility: 1476.3
+
+STATS
+33 / 75  Strength
+95 / 90  Constitution
+102 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+103 / 100  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+387 / 400  Hit Points
+0 / 31  Power
+
+BONUSES
+Spell Range: 11%
+Spell Damage: 4%
+Casting Speed: 12%
+Spell Duration: 25%
+Buff Bonus: 5%
+Healing: 28%
+Melee Damage: 2%
+Style Damage: 2%
+Arcane Siphon: 20%
+Power Pool: 31% / 30%
+Armor Factor: 30
+Power Regen: 10
+
+RESISTS (Racials not included)
+26% Crush
+27% Slash
+25% Thrust
+27% Cold
+26% Energy
+30% Heat
+27% Matter
+27% Spirit
+26% Body
+
+RACIAL RESISTS
++2% Slash
++3% Thrust
++5% Spirit
+
+SKILLS
+10 Mending
+10 Augmentation
+10 Pacification
+
+ITEMS
+
+HELMET
+Name: Rune Marked Starkakedja
+Level: 51 (99% Quality)
+Utility: 69.0
+Source Type: Spellcrafted
+
+1. (Resist) Crush Resist: +11% (Faceted Fiery Shielding Jewel)
+2. (Hits) Hits: +52 (Faceted Blood Essence Jewel)
+3. (Resist) Slash Resist: +11% (Faceted Watery Shielding Jewel)
+4. (Resist) Body Resist: +1% (Raw Dusty Shielding Jewel)
+5. (5th Slot) +5 Con Cap: +5
+
+HANDS
+Name: Rune Scribed Starkakedja
+Level: 51 (99% Quality)
+Utility: 74.7
+Source Type: Spellcrafted
+
+1. (Resist) Slash Resist: +9% (Polished Watery Shielding Jewel)
+2. (Resist) Thrust Resist: +9% (Polished Airy Shielding Jewel)
+3. (Stat) Dexterity: +22 (Precious Vapor Essence Jewel)
+4. (Resist) Energy Resist: +7% (Imperfect Light Shielding Jewel)
+5. (5th Slot (Bonus)) 5% Buff Effectiveness: +5%
+
+TORSO
+Name: Tuscarian Monitor Vest
+Level: 51 (100% Quality)
+Utility: 91.7
+Source Type: Item
+
+1. (Stat) constitution: +22
+2. (Hits) hits: +50
+3. (Resist) crush: +1%
+4. (Resist) slash: +1%
+5. (Resist) thrust: +1%
+6. (Toa) healEffectiveness: +6%
+7. (Toa) powerPool: +6%
+8. (Toa) spellDuration: +6%
+9. (Cap) constitution: +5
+10. (Cap) hits: +50
+
+ARMS
+Name: Infernal Starkakedja Sleeves
+Level: 51 (100% Quality)
+Utility: 81.3
+Source Type: Item
+
+1. (Stat) strength: +15
+2. (Stat) dexterity: +16
+3. (Toa) powerRegen: +10
+4. (Stat) piety: +16
+5. (Toa) castingSpeed: +2%
+6. (Toa) healEffectiveness: +5%
+7. (Toa) spellDamage: +2%
+8. (Cap) dexterity: +5
+9. (Cap) piety: +5
+
+FEET
+Name: Blessed Balm Boots
+Level: 51 (100% Quality)
+Utility: 86.0
+Source Type: Item
+
+1. (Stat) piety: +21
+2. (Hits) hits: +40
+3. (Resist) cold: +6%
+4. (Resist) heat: +6%
+5. (Toa) spellDuration: +4%
+6. (Cap) dexterity: +5
+7. (Cap) piety: +5
+8. (Cap) hits: +40
+
+LEGS
+Name: Astral Leggings of Fortification
+Level: 51 (100% Quality)
+Utility: 124.0
+Source Type: Item
+
+1. (Stat) strength: +18
+2. (Stat) constitution: +18
+3. (Hits) hits: +40
+4. (Toa) spellRange: +2%
+5. (Toa) meleeDamage: +2
+6. (Toa) healEffectiveness: +10%
+7. (Toa) spellDamage: +2%
+8. (Toa) styleDamage: +2%
+9. (Cap) dexterity: +10
+10. (Cap) hits: +40
+
+RIGHT HAND
+Name: Frigid Soul Quencher
+Level: 51 (100% Quality)
+Utility: 110.7
+Source Type: Item
+
+1. (Stat) dexterity: +22
+2. (Resist) crush: +1%
+3. (Resist) slash: +1%
+4. (Resist) thrust: +1%
+5. (Toa) castingSpeed: +4%
+6. (Toa) powerPool: +10%
+7. (Toa) arcaneSiphon: +10
+8. (Cap) dexterity: +5
+9. (Cap) piety: +5
+10. (Cap) powerPool: +5
+
+LEFT HAND
+Name: Hallowed Night Ward
+Level: 51 (100% Quality)
+Utility: 61.0
+Source Type: Item
+
+1. (Stat) dexterity: +12
+2. (Stat) constitution: +12
+3. (Resist) energy: +3%
+4. (Resist) matter: +3%
+5. (Resist) spirit: +3%
+6. (Stat) piety: +12
+7. (Skill) All Magic Skills: +3
+8. (Toa) healEffectiveness: +2%
+
+TWO HANDED
+Name: (Empty)
+Level: -
+Utility: 0
+
+RANGED
+Name: (Empty)
+Level: -
+Utility: 0
+
+NECK
+Name: Midgard Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90.0
+Source Type: Item
+
+1. (Resist) body: +5%
+2. (Resist) cold: +5%
+3. (Resist) crush: +5%
+4. (Resist) energy: +5%
+5. (Resist) heat: +5%
+6. (Resist) matter: +5%
+7. (Resist) slash: +5%
+8. (Resist) spirit: +5%
+9. (Resist) thrust: +5%
+
+CLOAK
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 133.0
+Source Type: Item
+
+1. (Stat) constitution: +21
+2. (Resist) cold: +5%
+3. (Resist) thrust: +9%
+4. (Toa) spellRange: +4%
+5. (Skill) All Magic Skills: +3
+6. (Toa) castingSpeed: +4%
+7. (Toa) powerPool: +8%
+8. (Toa) arcaneSiphon: +10
+
+JEWELRY
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 100.0
+Source Type: Item
+
+1. (Hits) hits: +50
+2. (Resist) crush: +8%
+3. (Toa) spellRange: +3%
+4. (Skill) All Magic Skills: +4
+5. (Toa) powerPool: +7%
+6. (Toa) spellDuration: +5%
+7. (Cap) hits: +50
+
+WAIST
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.8
+Source Type: Item
+
+1. (Hits) hits: +35
+2. (Resist) body: +7%
+3. (Resist) cold: +7%
+4. (Resist) energy: +7%
+5. (Resist) heat: +7%
+6. (Resist) matter: +7%
+7. (Resist) spirit: +7%
+8. (Cap) hits: +40
+
+L RING
+Name: Director's Ring of Anarchy
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Item
+
+1. (Stat) dexterity: +15
+2. (Hits) hits: +30
+3. (Resist) heat: +6%
+4. (Resist) matter: +6%
+5. (Resist) spirit: +6%
+6. (Toa) armorFactor: +10
+7. (Stat) piety: +15
+8. (Cap) dexterity: +5
+9. (Cap) piety: +5
+
+R RING
+Name: Director's Ring of Anarchy
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Item
+
+1. (Stat) dexterity: +15
+2. (Hits) hits: +30
+3. (Resist) heat: +6%
+4. (Resist) matter: +6%
+5. (Resist) spirit: +6%
+6. (Toa) armorFactor: +10
+7. (Stat) piety: +15
+8. (Cap) dexterity: +5
+9. (Cap) piety: +5
+
+L WRIST
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74.0
+Source Type: Item
+
+1. (Resist) body: +9%
+2. (Toa) spellRange: +2%
+3. (Stat) piety: +24
+4. (Toa) castingSpeed: +2%
+5. (Toa) spellDuration: +10%
+
+R WRIST
+Name: Gatekeeper Bracer of Bedlam
+Level: 51 (100% Quality)
+Utility: 91.2
+Source Type: Item
+
+1. (Stat) constitution: +22
+2. (Hits) hits: +60
+3. (Resist) body: +4%
+4. (Resist) cold: +4%
+5. (Resist) energy: +4%
+6. (Toa) armorFactor: +10
+7. (Toa) healEffectiveness: +5%
+8. (Cap) constitution: +5
+9. (Cap) hits: +30
+
+MYTHICAL
+Name: (Empty)
+Level: -
+Utility: 0

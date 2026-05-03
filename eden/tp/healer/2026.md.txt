@@ -1,0 +1,30 @@
+HELMET: Rune Marked Starkakedja
+
+1. (Resist) Crush Resist: +11% (Faceted Fiery Shielding Jewel)
+2. (Hits) Hits: +52 (Faceted Blood Essence Jewel)
+3. (Resist) Slash Resist: +11% (Faceted Watery Shielding Jewel)
+4. (Resist) Body Resist: +1% (Raw Dusty Shielding Jewel)
+5. (5th Slot) +5 Con Cap: +5
+
+HANDS: Rune Scribed Starkakedja
+
+1. (Resist) Slash Resist: +9% (Polished Watery Shielding Jewel)
+2. (Resist) Thrust Resist: +9% (Polished Airy Shielding Jewel)
+3. (Stat) Dexterity: +22 (Precious Vapor Essence Jewel)
+4. (Resist) Energy Resist: +7% (Imperfect Light Shielding Jewel)
+5. (5th Slot (Bonus)) 5% Buff Effectiveness: +5%
+
+TORSO: Tuscarian Monitor Vest           [] 600 Tuscaran Glacier Ices
+ARMS: Infernal Starkakedja Sleeves      []
+FEET: Blessed Balm Boots                []
+LEGS: Astral Leggings of Fortification  [] 800 Atlantean Glass
+RIGHT HAND: Frigid Soul Quencher        [] 250 Dragon Scales
+LEFT HAND: Hallowed Night Ward          [] cl5
+NECK: Midgard Medal of Honor            []
+CLOAK: Cape of Legerdemain              [] 700 Grimoire Pages
+JEWELRY: Ensorcelled Mystic Gem         [] 600 Grimoire Pages
+WAIST: Soulbinder's Belt                [] 475 Dragon Scales
+L RING: Director's Ring of Anarchy      [] 500 Daemon Blood Seals
+R RING: Director's Ring of Anarchy      [] 500 Daemon Blood Seals
+L WRIST: Bracer of Snow                 [] 650 Atlantean Glass
+R WRIST: Gatekeeper Bracer of Bedlam    [] 500 Daemon Blood Seals
