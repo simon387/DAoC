@@ -15,7 +15,7 @@ HANDS: Rune Scribed Starkakedja
 5. (5th Slot (Bonus)) 5% Buff Effectiveness: +5%
 
 TORSO: Tuscarian Monitor Vest           [non in vendita] 600 Tuscaran Glacier Ices
-ARMS: Infernal Starkakedja Sleeves      []
+ARMS: Infernal Starkakedja Sleeves      [X]
 FEET: Blessed Balm Boots                [X]
 LEGS: Astral Leggings of Fortification  [X] 800 Atlantean Glass
 RIGHT HAND: Frigid Soul Quencher        [X] 250 Dragon Scales
@@ -26,5 +26,5 @@ JEWELRY: Ensorcelled Mystic Gem         [non in vendita] 600 Grimoire Pages
 WAIST: Soulbinder's Belt                [X] 475 Dragon Scales
 L RING: Director's Ring of Anarchy      [X] 500 Daemon Blood Seals
 R RING: Director's Ring of Anarchy      [X] 500 Daemon Blood Seals
-L WRIST: Bracer of Snow                 [] 650 Atlantean Glass
-R WRIST: Gatekeeper Bracer of Bedlam    [] 500 Daemon Blood Seals
+L WRIST: Bracer of Snow                 [X] 650 Atlantean Glass
+R WRIST: Gatekeeper Bracer of Bedlam    [X] 500 Daemon Blood Seals
