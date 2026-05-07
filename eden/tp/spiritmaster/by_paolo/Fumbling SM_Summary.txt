@@ -1,0 +1,320 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:35 PM on mag 06, 2026
+Version: 1.3.007
+
+Character Summary for Fumbling SM(Level 50) - Spiritmaster
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+110 / 98  Constitution
+129 / 104  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+80 / 104  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+401 / 400  Hit Points
+3 / 26  Power
+
+Bonuses
+Resist Pierce: 10%
+Spell Duration: 28%
+Spell Range: 11%
+Spell Damage: 10%
+Casting Speed: 11%
+Power Pool: 23%
+Arcane Siphon: 10%
+Debuff: 5%
+Armor Factor: 20%
+
+Resists (Racials not included)
+27% Crush
+26% Slash
+26% Thrust
+26% Cold
+27% Energy
+27% Heat
+27% Matter
+27% Spirit
+31% Body
+
+Skills
+12 Darkness
+12 Suppression
+12 Summoning
+
+Item Procs and Charges
+
+
+Items
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 108,5
+Source Type: Merchant
+1. (Stat) Hit Points: +30
+2. (Resist) Body: +3%
+3. (Resist) Cold: +3%
+4. (Resist) Energy: +3%
+5. (Resist) Heat: +3%
+6. (Resist) Matter: +3%
+7. (Resist) Spirit: +3%
+8. (Bonus) Resist Pierce: +5
+9. (Stat_Cap) Cap Dexterity: +10
+10. (Stat_Cap) Cap Acuity: +10
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 65,67
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Stat) Piety: +19 [(Faceted) Watery Essence Jewel]
+2. (Resist) Slash: +11% [(Faceted) Watery Shielding Jewel]
+3. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+4. (Stat) Power: +3 [(Rough) Mystical Essence Jewel]
+5. (Bonus) Spell Duration: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Runed Tuscarian Vest
+Level: 51 (100% Quality)
+Utility: 148,5
+Source Type: Loot
+1. (Stat) Dexterity: +24
+2. (Stat) Constitution: +24
+3. (Stat) Hit Points: +50
+4. (Resist) Crush: +2%
+5. (Resist) Slash: +2%
+6. (Resist) Thrust: +2%
+7. (Bonus) Spell Range: +4
+8. (Skill) All Magic Skills: +4
+9. (Bonus) Spell Damage: +4
+10. (Stat_Cap) Cap Dexterity: +6
+
+
+Arms
+Name: 
+Level: 51 (99% Quality)
+Utility: 70,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+2. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Resist) Energy: +5% [(Flawed) Light Shielding Jewel]
+5. (Stat_Cap) Cap Hit Points: +40 [(Raw) Not Found]
+
+
+Feet
+Name: Aidon's Slippers
+Level: 51 (100% Quality)
+Utility: 90,34
+Source Type: Merchant
+1. (Stat) Dexterity: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +3
+8. (Stat_Cap) Cap Dexterity: +5
+
+
+Legs
+Name: 
+Level: 51 (99% Quality)
+Utility: 67,67
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Stat) Piety: +19 [(Faceted) Watery Essence Jewel]
+2. (Resist) Heat: +11% [(Faceted) Heated Shielding Jewel]
+3. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+4. (Stat) Hit Points: +36 [(Imperfect) Blood Essence Jewel]
+5. (Bonus) Power Pool: +5 [(Raw) Not Found]
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Two Handed
+Name: Astral Staff of Swarms
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Merchant
+1. (Stat) Dexterity: +12
+2. (Stat) Hit Points: +40
+3. (Skill) All Magic Skills: +2
+4. (Focus) All Focuses: +50
+5. (Bonus) Power Pool: +10
+6. (Bonus) Resist Pierce: +5
+7. (Bonus) Spell Damage: +4
+8. (Stat_Cap) Cap Acuity: +11
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Fervent Defender's Choker
+Level: 51 (100% Quality)
+Utility: 88,67
+Source Type: Merchant
+1. (Stat) Dexterity: +25
+2. (Resist) Crush: +10%
+3. (Resist) Matter: +10%
+4. (Resist) Spirit: +10%
+5. (Stat_Cap) Cap Dexterity: +6
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Merchant
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Sulphurous Fiend Gem
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Merchant
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat_Cap) Cap Constitution: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Merchant
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Director's Ring of Anarchy
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Merchant
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+R Ring
+Name: Trollstone Ring
+Level: 51 (100% Quality)
+Utility: 72
+Source Type: Merchant
+1. (Stat) Hit Points: +80
+2. (Resist) Body: +1%
+3. (Resist) Crush: +1%
+4. (Resist) Energy: +1%
+5. (Resist) Matter: +1%
+6. (Resist) Slash: +1%
+7. (Resist) Spirit: +1%
+8. (Resist) Thrust: +1%
+9. (Stat_Cap) Cap Constitution: +9
+10. (Stat_Cap) Cap Hit Points: +80
+
+
+L Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Merchant
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+R Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 111,17
+Source Type: Merchant
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: Dragon Intellect Mythirian
+Level: 51 (100% Quality)
+Utility: 39
+Source Type: Quest
+1. (Stat) Dexterity: +3
+2. (Stat) Constitution: +3
+3. (Bonus) Spell Range: +1
+4. (Stat) Acuity: +3
+5. (Mythical) Cap Constitution: +3
+6. (Mythical) Cap Dexterity: +3
+7. (Mythical) Cap Acuity: +3
+8. (Bonus) Spell Duration: +5
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG

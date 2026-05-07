@@ -1,0 +1,301 @@
+Zenkcraft Spellcrafting Tool - Remastered Version
+store.steampowered.com/app/2098510/Zenkcraft
+Last Saved: 11:30 PM on mag 06, 2026
+Version: 1.3.007
+
+Character Summary for SMASTRAL(Level 50) - Spiritmaster
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+0 / 75  Strength
+85 / 80  Constitution
+102 / 101  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+103 / 101  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+301 / 330  Hit Points
+0 / 26  Power
+
+Bonuses
+Healing: 5%
+Spell Duration: 15%
+Casting Speed: 14%
+Power Pool: 37%
+Spell Damage: 12%
+Mana Regen: 10%
+Resist Pierce: 10%
+Armor Factor: 28%
+Spell Range: 11%
+Arcane Siphon: 10%
+
+Resists (Racials not included)
+26% Crush
+26% Slash
+27% Thrust
+26% Cold
+23% Energy
+24% Heat
+26% Matter
+23% Spirit
+33% Body
+
+Skills
+10 Darkness
+11 Suppression
+10 Summoning
+
+Item Procs and Charges
+
+
+Items
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Helmet
+Name: 
+Level: 51 (99% Quality)
+Utility: 69
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Skill) Suppression: +1 [(Raw) Dusty Chaos Rune]
+2. (Resist) Thrust: +13% [(Precious) Airy Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+5. (Bonus) Healing: +5 [(Raw) Not Found]
+
+
+Hands
+Name: 
+Level: 51 (99% Quality)
+Utility: 70
+Source Type: Spellcraft
+Imbue Points: 36 of 37,5
+1. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+2. (Resist) Crush: +7% [(Imperfect) Fiery Shielding Jewel]
+3. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+4. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+5. (Bonus) Spell Duration: +5 [(Raw) Not Found]
+
+
+Torso
+Name: Astral Tunic of Virulence
+Level: 51 (100% Quality)
+Utility: 128
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Stat) Acuity: +21
+3. (Skill) All Magic Skills: +3
+4. (Bonus) Casting Speed: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Damage: +4
+7. (Stat_Cap) Cap Dexterity: +8
+
+
+Arms
+Name: Infernal Padded Sleeves
+Level: 51 (100% Quality)
+Utility: 94,34
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Resist) Heat: +5%
+3. (Bonus) Mana Regen: +10
+4. (Stat) Acuity: +22
+5. (Bonus) Resist Pierce: +3
+6. (Bonus) Spell Damage: +2
+7. (Stat_Cap) Cap Constitution: +5
+8. (Stat_Cap) Cap Acuity: +5
+
+
+Feet
+Name: 
+Level: 51 (99% Quality)
+Utility: 71
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+2. (Resist) Cold: +9% [(Polished) Icy Shielding Jewel]
+3. (Resist) Matter: +5% [(Flawed) Earthen Shielding Jewel]
+4. (Stat) Hit Points: +76 [(Perfect) Blood Essence Jewel]
+5. (Stat) Dexterity: +15 [(?) Vapor Essence Jewel]
+
+
+Legs
+Name: Astral Pants of Stellar Warding
+Level: 51 (100% Quality)
+Utility: 117
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Bonus) Armor Factor: +14
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +2
+5. (Bonus) Casting Speed: +4
+6. (Bonus) Power Pool: +7
+7. (Stat_Cap) Cap Acuity: +10
+
+
+Right Hand
+Name: Astral Staff of Swarms
+Level: 51 (100% Quality)
+Utility: 125
+Source Type: Loot
+1. (Stat) Dexterity: +12
+2. (Stat) Hit Points: +40
+3. (Skill) All Magic Skills: +2
+4. (Focus) All Focuses: +50
+5. (Bonus) Power Pool: +10
+6. (Bonus) Resist Pierce: +5
+7. (Bonus) Spell Damage: +4
+8. (Stat_Cap) Cap Acuity: +11
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Two Handed
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37,5
+
+
+Neck
+Name: Midgard Medal of Honor
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Resist) Body: +5%
+2. (Resist) Cold: +5%
+3. (Resist) Crush: +5%
+4. (Resist) Energy: +5%
+5. (Resist) Heat: +5%
+6. (Resist) Matter: +5%
+7. (Resist) Slash: +5%
+8. (Resist) Spirit: +5%
+9. (Resist) Thrust: +5%
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Gem of Deepest Darkness
+Level: 49 (100% Quality)
+Utility: 58
+Source Type: Loot
+1. (Stat) Dexterity: +21
+2. (Resist) Body: +8%
+3. (Bonus) Armor Factor: +14
+4. (Stat_Cap) Cap Dexterity: +7
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (Stat) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+L Ring
+Name: Band of Eternity
+Level: 51 (100% Quality)
+Utility: 111
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Stat) Hit Points: +60
+3. (Resist) Crush: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Skill) All Melee Skills: +4
+
+
+R Ring
+Name: Ring of the Vaettir
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +50
+3. (Resist) Body: +4%
+4. (Resist) Energy: +4%
+5. (Resist) Matter: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+10. (Stat_Cap) Cap Hit Points: +50
+
+
+L Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+R Wrist
+Name: Bracer of Sudden Finality
+Level: 51 (100% Quality)
+Utility: 90
+Source Type: Loot
+1. (Stat) Dexterity: +18
+2. (Stat) Hit Points: +40
+3. (Bonus) Spell Range: +2
+4. (Stat) Acuity: +21
+5. (Bonus) Power Pool: +5
+6. (Bonus) Resist Pierce: +2
+7. (Stat_Cap) Cap Dexterity: +7
+8. (Stat_Cap) Cap Hit Points: +40
+
+
+Mythical
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
