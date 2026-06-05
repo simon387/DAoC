@@ -12,7 +12,7 @@ Imbue Points: 37,5 of 37,5
 2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
 3. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
 4. (Skill) Parry: +4 [(Flawed) Vapor Battle Jewel]
-5. (Bonus) Buff: +5 []
+
 
 Feet Dragonsworn Scribed Starkakedja
 Imbue Points: 37,5 of 37,5
