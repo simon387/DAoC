@@ -98,8 +98,14 @@ scudo che snara: Basalt Buckler of Oblivion
 
 ## incantation
 
+### mid
+
 + viola -> df
 + arancio -> drago
-+ blu -> ?
++ blu -> cold? -> tusca, electric? -> sh
 + ? -> toa
 + ? -> sh
+
+### hib
+
+### alb
