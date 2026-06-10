@@ -23,6 +23,8 @@ Imbue Points: 37,5 of 37,5
 
 + Frigid Soul Crusher                 250 Dragon Scales
 + Dragonstorm                         350 Dragon Scales
++ Soulbinder's Belt                   475 Dragon Scales
++ Dragonscale Bracelet                500 Dragon Scales
 + Astral Hauberk of the Favored       900 Atlantean Glass
 + Astral Leggings of Fortification    800 Atlantean Glass
 + Mail Sleeves of Eternal Retribution 500 Grimoire Pages
@@ -33,8 +35,6 @@ Imbue Points: 37,5 of 37,5
 + Gatekeeper Bracer of Oblivion       500 Daemon Blood Seals
 + Nosdoden Remnant Cloak              600 Tuscaran Glacier Ices
 + Ring of the Vaettir                 625 Tuscaran Glacier Ices
-+ Soulbinder's Belt                   475 Dragon Scales
-+ Dragonscale Bracelet                500 Dragon Scales
 
 ┌──────────────────────────┬───────────┐
 │ Valuta                   │ Totale    │
