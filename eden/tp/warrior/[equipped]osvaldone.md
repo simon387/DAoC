@@ -11,6 +11,12 @@
 + Gatekeeper Bracer of Chaos        500 Daemon Blood Seals
 + Dragonscale Bracelet              500 Dragon Scales
 
+Tuscaran Glacier Ices: 600
+Grimoire Pages: 600
+Daemon Blood Seals: 2200
+Dragon Scales: 1900
+Bounty Points: 1520
+
 
 
 Helmet: Feallan Steeple of the Sword
