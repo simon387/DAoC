@@ -1,6 +1,5 @@
 + Feallan Steeple of the Sword          quest
 + Atlethys's Ring of Resolve       1520 Bounty Points
-
 + Sabatons of the Shard             600 Grimoire Pages
 + Tuscarian Bloodforged Hauberk     600 Tuscaran Glacier Ices
 + Basalt Shield of Bedlam           600 Daemon Blood Seals
