@@ -43,7 +43,7 @@ This repository is a personal toolkit for **Dark Age of Camelot** (specifically 
 
 ## Game-specific references
 
-- Server: **Eden** (`https://eden-daoc.net`) — not live DAoC
+- Server: **Eden** (`https://eden-daoc.net`) AND live DAoC
 - Useful in-game commands are documented in `eden/readme.md`
 - SpellCraft cap: 37.5 requires at least 1001 skill; pre-dragon cap is 45, mini is 48
 - Crafting grandmaster thresholds: SC 1049, fletching/weapon 1080, alc/armor/tailoring 1100

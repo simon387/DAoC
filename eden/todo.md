@@ -12,14 +12,14 @@
 
 ## alb
 
++ [done] mene
 + [done] sorc
 + [done] negro
 + [done] tic
-+ [done] mene
 
 ## hib
 
-+ [done] eld
 + [done] bard
-+ [done] chanter
++ [done] eld
 + [done] vamp
++ [done] chanter
