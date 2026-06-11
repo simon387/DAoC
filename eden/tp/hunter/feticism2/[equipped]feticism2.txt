@@ -1,3 +1,43 @@
+Helmet: Feallan Steeple of the Tactful       quest
+Arms: Infernal Starkaskodd Sleeves           20p
+Jewelry: Greater Gem of Fortitude           1440 Bounty Points
+Cloak: Nosdoden Remnant Cloak                600 Tuscaran Glacier Ices
+Neck: Dragonseye Strand                      625 Tuscaran Glacier Ices
+Torso: Astral Vest of Purification           900 Atlantean Glass
+Legs: Astral Leggings of the Leech           800 Atlantean Glass
+Ranged: Nychta's Heartstring Bow             600 Grimoire Pages
+Waist: Shimmering Satin Sash                 600 Grimoire Pages
+L Ring: Band of Shadow                       600 Atlantean Glass
+R Ring: Zahur's Ring                         600 Atlantean Glass
+L Wrist: Golden Bracer                       650 Atlantean Glass
+R Wrist: Spiked Bracelet                     platini
+Mythical: Deserter Adept Mythirian           platini
+
+
+Hands
+Name:  dragonsworn etched
+Level: 51 (99% Quality)
+Utility: 65
+Source Type: Spellcraft
+Imbue Points: 37 of 37,5
+1. (Skill) Stealth: +5 [(Imperfect) Airy Battle Jewel]
+2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+3. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+4. (Resist) Slash: +2% [(Uncut) Watery Shielding Jewel]
+
+
+Feet
+Name: rune carved
+Imbue Points: 37 of 37,5
+1. (Skill) Stealth: +6 [(Polished) Airy Battle Jewel]
+2. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
+3. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+4. (Resist) Cold: +3% [(Rough) Icy Shielding Jewel]
+
+
+---
+
+
 Character Summary for Hunter hybrid 2(Level 50) - Hunter
 Note: All items are included. Stats shown below reflect only currently equipped items.
 

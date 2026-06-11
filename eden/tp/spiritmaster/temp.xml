@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<character name="" level="50" realm="Midgard" class="Spiritmaster" race="Kobold">
+	<items>
+		<item loc="Arms" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<gem num="0">
+					<type>Resist</type>
+					<amount>3</amount>
+					<effect>Matter</effect>
+				</gem>
+				<gem num="1">
+					<type>Resist</type>
+					<amount>5</amount>
+					<effect>Spirit</effect>
+				</gem>
+				<gem num="2">
+					<type>Hits</type>
+					<amount>9</amount>
+					<effect></effect>
+				</gem>
+				<gem num="3">
+					<type>Resist</type>
+					<amount>4</amount>
+					<effect>Cold</effect>
+				</gem>
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Legs" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<gem num="0">
+					<type>Resist</type>
+					<amount>6</amount>
+					<effect>Heat</effect>
+				</gem>
+				<gem num="1">
+					<type>Hits</type>
+					<amount>3</amount>
+					<effect></effect>
+				</gem>
+				<gem num="2">
+					<type>Resist</type>
+					<amount>6</amount>
+					<effect>Crush</effect>
+				</gem>
+				<gem num="3">
+					<type>Resist</type>
+					<amount>3</amount>
+					<effect>Slash</effect>
+				</gem>
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+		<item loc="Hands" origin="crafted" equip="yes" lock="no">
+			<crafted name="" level="51" quality="100" realm="All">
+				<gem num="0">
+					<type>Resist</type>
+					<amount>5</amount>
+					<effect>Spirit</effect>
+				</gem>
+				<gem num="1">
+					<type>Resist</type>
+					<amount>4</amount>
+					<effect>Heat</effect>
+				</gem>
+				<gem num="2">
+					<type>Hits</type>
+					<amount>7</amount>
+					<effect></effect>
+				</gem>
+				<gem num="3">
+					<type>Resist</type>
+					<amount>5</amount>
+					<effect>Matter</effect>
+				</gem>
+				<info>
+					<afdps>0.0</afdps>
+					<type>Cloth</type>
+					<bonus>0</bonus>
+				</info>
+			</crafted>
+			<drop name="" level="51" quality="100" realm="All">
+				<info>
+					<afdps>0.0</afdps>
+					<type>Unspecified</type>
+					<bonus>0</bonus>
+					<source>Drop</source>
+				</info>
+			</drop>
+		</item>
+	</items>
+</character>

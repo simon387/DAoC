@@ -1,4 +1,6 @@
-+ Feallan Steeple of the Sword
++ Feallan Steeple of the Sword          quest
++ Atlethys's Ring of Resolve       1520 Bounty Points
+
 + Sabatons of the Shard             600 Grimoire Pages
 + Tuscarian Bloodforged Hauberk     600 Tuscaran Glacier Ices
 + Basalt Shield of Bedlam           600 Daemon Blood Seals
@@ -9,7 +11,6 @@
 + Potent Deathwatcher Chain         450 Dragon Scales
 + Flame Wrought Cloak               475 Dragon Scales
 + Soulbinder's Belt                 475 Dragon Scales
-+ Atlethys's Ring of Resolve       1520 Bounty Points
 
 Tuscaran Glacier Ices: 600
 Grimoire Pages: 600

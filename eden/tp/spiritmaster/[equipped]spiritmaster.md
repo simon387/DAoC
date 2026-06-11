@@ -1,16 +1,18 @@
-+ midgard medal of honor
-+ tenacious night shadow
-+ soul-scarred vest              600 Tuscaran Glacier Ices
-+ sulphurous fiend gem           600 Daemon Blood Seals
-+ cloth cap                      500 Dragon Scales
++ midgard medal of honor         quest
 + belt of consumed souls         250 golds
-+ cape of legerdemain            700 Grimoire Pages
-+ dragon intellect mythirian     500 Tuscaran Glacier Ices
-+ arcane-infused armband         600 Grimoire Pages
 + bracer of sudden finality      quest
-+ tock                           400 Daemon Blood Seals
+
++ tenacious night shadow         quest
+
++ soul-scarred vest              600 Tuscaran Glacier Ices
++ dragon intellect mythirian     500 Tuscaran Glacier Ices
 + ring of the vaettir            625 Tuscaran Glacier Ices
++ sulphurous fiend gem           600 Daemon Blood Seals
++ tock                           400 Daemon Blood Seals
++ cape of legerdemain            700 Grimoire Pages
++ arcane-infused armband         600 Grimoire Pages
 + aidon's slippers               600 Grimoire Pages
++ cloth cap                      500 Dragon Scales
 
 
 Tuscaran Glacier Ices: 1725
@@ -24,6 +26,25 @@ Grimoire Pages: 1900
 + shimmering silksteel dragonsworn knit padded pants  (5 Pow Cap)
 + shimmering silksteel rune knit padded arms          (40 Hit Cap)
 
+
+## payload fatto con ia
+
+Flawed Earthen Shielding Jewel of Matter Resisting
+Polished Vapor Shielding Jewel of Spirit Resisting
+Perfect Blood Essence Jewel
+Imperfect Icy Shielding Jewel of Cold Resisting
+
+Faceted Heated Shielding Jewel of Heat Resisting
+Flawed Blood Essence Jewel
+Faceted Airy Shielding Jewel of Crush Resisting
+Flawed Light Shielding Jewel of Slash Resisting
+
+Polished Vapor Shielding Jewel of Spirit Resisting
+Imperfect Heated Shielding Jewel of Heat Resisting
+Precious Blood Essence Jewel
+Polished Earthen Shielding Jewel of Matter Resisting
+
+## -
 
 Statistic
 Constitution: 88/90
