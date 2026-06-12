@@ -1,3 +1,42 @@
+Helmet:     Cloth Cap                    500 Dragon Scales
+Torso:      Vest of Glacial Curses       600 Tuscaran Glacier Ices
+Arms:       Sleeves of Strife            500 Grimoire Pages
+Feet:       Aidon's Slippers             600 Grimoire Pages
+Two Handed: Staff of Ageless Power       350 Dragon Scales
+Neck:       Dragonseye Strand            625 Tuscaran Glacier Ices
+Cloak:      Cape of Legerdemain          700 Grimoire Pages
+Jewelry:    Ensorcelled Mystic Gem       600 Grimoire Pages
+Waist:      Soulbinder's Belt            475 Dragon Scales
+L. Ring:    Director's Ring of Anarchy   500 Daemon Blood Seals
+R. Ring:    Slime Coated Ring            625 Tuscaran Glacier Ices
+L. Wrist:   Bracer of Snow               650 Atlantean Glass
+R. Wrist:   Bracer of Snow               650 Atlantean Glass
+
+Dragon Scales                           1325
+Tuscaran Glacier Ices                   1850
+Grimoire Pages                          2400
+Daemon Blood Seals                       500
+Atlantean Glass	                        1300
+
+Hands: Silksteel Rune Knit Padded
+Imbue Points: 36,5 of 37,5
+1. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+2. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
+3. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
+4. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
++10 af
+
+Legs: Silksteel Rune Knit Padded
+Imbue Points: 36,5 of 37,5
+1. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+2. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+3. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+4. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
++5 pp
+
+
+-----
+
 Zenkcraft Spellcrafting Tool
 https://store.steampowered.com/app/2098510/Zenkcraft/
 Last Saved: 09:41 AM apr 26, 2025
@@ -117,7 +156,7 @@ Source Type: Loot
 
 
 Legs
-Name: Silksteel Rune Knit Padded 
+Name: Silksteel Rune Knit Padded
 Level: 51 (100% Quality)
 Utility: 59,66
 Source Type: Spellcraft
@@ -129,7 +168,7 @@ Imbue Points: 36,5 of 37,5
 
 
 Right Hand
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: Spellcraft
@@ -137,7 +176,7 @@ Imbue Points: 0 of 33,5
 
 
 Left Hand
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: Spellcraft
@@ -162,7 +201,7 @@ Source Type: Loot
 
 
 Ranged
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: Spellcraft
@@ -296,42 +335,42 @@ Source Type: Loot
 
 
 Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Two Handed Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Helmet Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Torso Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Feet Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Hands Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 10
 Source Type: ROG
@@ -339,14 +378,14 @@ Source Type: ROG
 
 
 Arms Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
 
 
 Legs Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 10
 Source Type: ROG
@@ -354,7 +393,7 @@ Source Type: ROG
 
 
 Left Hand Bonuses
-Name: 
+Name:
 Level: 51 (99% Quality)
 Utility: 0
 Source Type: ROG
