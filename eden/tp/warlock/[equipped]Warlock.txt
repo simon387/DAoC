@@ -1,0 +1,360 @@
+Zenkcraft Spellcrafting Tool
+https://store.steampowered.com/app/2098510/Zenkcraft/
+Last Saved: 09:41 AM apr 26, 2025
+Version: 8.3.48
+
+Character Summary for 25% dur - Runemaster
+Note: All items are included. Stats shown below reflect only currently equipped items.
+
+Stats
+83 / 75  Constitution
+110 / 109  Dexterity
+100 / 101  Piety
+403 / 400  Hit Points
+
+Bonuses
+Resist Pierce: 10%
+Spell Damage: 10%
+Casting Speed: 11%
+Spell Duration: 28%
+Power Pool: 25%
+Arcane Siphon: 20%
+Spell Range: 11%
+Armor Factor: 20%
+Mana Regen: 10%
+
+Resists (Racials not included)
+26% Crush
+27% Slash
+27% Thrust
+26% Heat
+26% Cold
+25% Matter
+29% Body
+26% Energy
+27% Spirit
+
+Skills
+14 Darkness
+14 Suppression
+14 Runecarving
+
+Items
+
+
+Helmet
+Name: Cloth Cap
+Level: 51 (100% Quality)
+Utility: 108,5
+Source Type: Loot
+1. (H.P.) Hit Points: +30
+2. (Resist) Body: +3%
+3. (Resist) Cold: +3%
+4. (Resist) Energy: +3%
+5. (Resist) Heat: +3%
+6. (Resist) Matter: +3%
+7. (Resist) Spirit: +3%
+8. (Bonus) Resist Pierce: +5
+9. (Stat Cap) Cap Dexterity: +10
+10. (Stat Cap) Cap Acuity: +10
+
+
+Hands
+Name: Silksteel Rune Knit Padded
+Level: 51 (100% Quality)
+Utility: 62,66
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Resist) Energy: +9% [(Polished) Light Shielding Jewel]
+2. (Stat) Dexterity: +19 [(Faceted) Vapor Essence Jewel]
+3. (Resist) Spirit: +7% [(Imperfect) Vapor Shielding Jewel]
+4. (Resist) Matter: +9% [(Polished) Earthen Shielding Jewel]
+
+
+Torso
+Name: Vest of Glacial Curses
+Level: 51 (100% Quality)
+Utility: 112,33
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (H.P.) Hit Points: +50
+3. (Resist) Crush: +1%
+4. (Resist) Slash: +1%
+5. (Resist) Thrust: +1%
+6. (Stat) Acuity: +22
+7. (Skill) All Magic Skills: +4
+8. (Bonus) Spell Damage: +4
+9. (Stat Cap) Cap Acuity: +6
+10. (Stat Cap) Cap Hit Points: +50
+
+
+Arms
+Name: Sleeves of Strife
+Level: 51 (100% Quality)
+Utility: 87
+Source Type: Loot
+1. (H.P.) Hit Points: +60
+2. (Resist) Cold: +6%
+3. (Resist) Crush: +8%
+4. (Resist) Heat: +6%
+5. (Resist) Slash: +8%
+6. (Resist) Thrust: +8%
+
+
+Feet
+Name: Aidon's Slippers
+Level: 51 (100% Quality)
+Utility: 90,33
+Source Type: Loot
+1. (Stat) Dexterity: +22
+2. (Stat) Constitution: +22
+3. (Resist) Crush: +5%
+4. (Resist) Slash: +5%
+5. (Resist) Thrust: +5%
+6. (Bonus) Casting Speed: +3
+7. (Bonus) Spell Duration: +3
+8. (Stat Cap) Cap Dexterity: +5
+
+
+Legs
+Name: Silksteel Rune Knit Padded 
+Level: 51 (100% Quality)
+Utility: 59,66
+Source Type: Spellcraft
+Imbue Points: 36,5 of 37,5
+1. (Resist) Energy: +7% [(Imperfect) Light Shielding Jewel]
+2. (Stat) Dexterity: +16 [(Polished) Vapor Essence Jewel]
+3. (H.P.) Hit Points: +68 [(Flawless) Blood Essence Jewel]
+4. (Resist) Slash: +9% [(Polished) Watery Shielding Jewel]
+
+
+Right Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33,5
+
+
+Left Hand
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33,5
+
+
+Two Handed
+Name: Staff of Ageless Power
+Level: 51 (100% Quality)
+Utility: 109
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Resist) Body: +1%
+3. (Resist) Cold: +1%
+4. (Focus) All Focuses: +50
+5. (Bonus) Power Pool: +5
+6. (Bonus) Spell Damage: +4
+7. (Stat Cap) Cap Dexterity: +10
+8. (Stat Cap) Cap Acuity: +10
+9. (Bonus Cap) Power Pool: +5
+10. (Bonus) Arcane Siphon: +10
+
+
+Ranged
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 33,5
+
+
+Neck
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 92,25
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (H.P.) Hit Points: +30
+3. (Resist) Crush: +4%
+4. (Resist) Slash: +4%
+5. (Resist) Thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Bonus) Resist Pierce: +5
+8. (Stat Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Cape of Legerdemain
+Level: 51 (100% Quality)
+Utility: 133
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Ensorcelled Mystic Gem
+Level: 51 (100% Quality)
+Utility: 100
+Source Type: Loot
+1. (H.P.) Hit Points: +50
+2. (Resist) Crush: +8%
+3. (Bonus) Spell Range: +3
+4. (Skill) All Magic Skills: +4
+5. (Bonus) Power Pool: +7
+6. (Bonus) Spell Duration: +5
+7. (Stat Cap) Cap Hit Points: +50
+
+
+Waist
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102,75
+Source Type: Loot
+1. (H.P.) Hit Points: +35
+2. (Resist) Body: +7%
+3. (Resist) Cold: +7%
+4. (Resist) Energy: +7%
+5. (Resist) Heat: +7%
+6. (Resist) Matter: +7%
+7. (Resist) Spirit: +7%
+8. (Stat Cap) Cap Hit Points: +40
+
+
+L. Ring
+Name: Director's Ring of Anarchy
+Level: 51 (100% Quality)
+Utility: 93,5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+
+
+R. Ring
+Name: Slime Coated Ring
+Level: 51 (100% Quality)
+Utility: 99
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (H.P.) Hit Points: +50
+3. (Resist) Cold: +4%
+4. (Resist) Heat: +4%
+5. (Resist) Spirit: +4%
+6. (Stat) Acuity: +15
+7. (Bonus) Spell Damage: +2
+8. (Stat Cap) Cap Dexterity: +5
+9. (Stat Cap) Cap Acuity: +5
+10. (Stat Cap) Cap Hit Points: +50
+
+
+L. Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+R. Wrist
+Name: Bracer of Snow
+Level: 51 (100% Quality)
+Utility: 74
+Source Type: Loot
+1. (Resist) Body: +9%
+2. (Bonus) Spell Range: +2
+3. (Stat) Acuity: +24
+4. (Bonus) Casting Speed: +2
+5. (Bonus) Spell Duration: +10
+
+
+Mythical
+Name: Deserter Arcane Mythirian
+Level: 51 (100% Quality)
+Utility: 41,33
+Source Type: Loot
+1. (Stat) Dexterity: +8
+2. (Bonus) Mana Regen: +10
+3. (Myth. Cap) Cap Dexterity: +8
+
+
+Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Two Handed Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Helmet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Torso Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Feet Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Hands Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Armor Factor: +10
+
+
+Arms Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
+
+
+Legs Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 10
+Source Type: ROG
+1. (Bonus) Power Pool: +5
+
+
+Left Hand Bonuses
+Name: 
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: ROG
