@@ -1,7 +1,6 @@
 + midgard medal of honor         quest
 + belt of consumed souls         250 golds
 + bracer of sudden finality      quest
-
 + tenacious night shadow         quest
 
 + soul-scarred vest              600 Tuscaran Glacier Ices
