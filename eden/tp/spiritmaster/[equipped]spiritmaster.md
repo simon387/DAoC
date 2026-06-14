@@ -10,7 +10,7 @@
 + sulphurous fiend gem           600 Daemon Blood Seals
 + tock                           400 Daemon Blood Seals
 + cape of legerdemain            700 Grimoire Pages
-+ arcane-infused armband         600 Grimoire Pages
++ arcane-infused armband         600 Grimoire Pagesd
 + aidon's slippers               600 Grimoire Pages
 + cloth cap                      500 Dragon Scales
 
