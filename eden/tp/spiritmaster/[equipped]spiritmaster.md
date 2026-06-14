@@ -15,10 +15,10 @@
 + cloth cap                      500 Dragon Scales
 
 
-Tuscaran Glacier Ices: 1725
-Daemon Blood Seals: 1000
-Dragon Scales: 500
-Grimoire Pages: 1900
+Tuscaran Glacier Ices:          1725
+Daemon Blood Seals:             1000
+Dragon Scales:                   500
+Grimoire Pages:                 1900
 
 ## armor
 

@@ -13,10 +13,10 @@ L Wrist: Golden Bracer                       650 Atlantean Glass
 R Wrist: Spiked Bracelet                     platini
 Mythical: Deserter Adept Mythirian           platini
 
-Bounty Points: 1440
-Tuscaran Glacier Ices: 600 + 625 = 1225
-Atlantean Glass: 900 + 800 + 600 + 600 + 650 = 3550
-Grimoire Pages: 600 + 600 = 1200
+Bounty Points:                               1440
+Tuscaran Glacier Ices:                       1225
+Atlantean Glass:                             3550
+Grimoire Pages:                              1200
 
 
 Hands
