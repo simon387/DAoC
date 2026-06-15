@@ -9,7 +9,7 @@
 + [    ] sm        moh[], tenacious night shadow[]
 + [    ] hunter    cappello a punta[], braccia[da comprare]
 + [    ] lock      
-+ [    ] valk      rogs? non ancora deciso, vediamo cosa fa vindi
++ [    ] valk      rogs? non ancora deciso, vediamo cosa fa vindi, nel dubbio cappello a punta [fatto]
 
 ## alb
 
