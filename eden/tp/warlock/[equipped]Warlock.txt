@@ -1,14 +1,14 @@
 Helmet:     Cloth Cap                    500 Dragon Scales
+Waist:      Soulbinder's Belt            475 Dragon Scales
+Two Handed: Staff of Ageless Power       350 Dragon Scales
 Torso:      Vest of Glacial Curses       600 Tuscaran Glacier Ices
+Neck:       Dragonseye Strand            625 Tuscaran Glacier Ices
+R. Ring:    Slime Coated Ring            625 Tuscaran Glacier Ices
 Arms:       Sleeves of Strife            500 Grimoire Pages
 Feet:       Aidon's Slippers             600 Grimoire Pages
-Two Handed: Staff of Ageless Power       350 Dragon Scales
-Neck:       Dragonseye Strand            625 Tuscaran Glacier Ices
-Cloak:      Cape of Legerdemain          700 Grimoire Pages
 Jewelry:    Ensorcelled Mystic Gem       600 Grimoire Pages
-Waist:      Soulbinder's Belt            475 Dragon Scales
+Cloak:      Cape of Legerdemain          700 Grimoire Pages
 L. Ring:    Director's Ring of Anarchy   500 Daemon Blood Seals
-R. Ring:    Slime Coated Ring            625 Tuscaran Glacier Ices
 L. Wrist:   Bracer of Snow               650 Atlantean Glass
 R. Wrist:   Bracer of Snow               650 Atlantean Glass
 

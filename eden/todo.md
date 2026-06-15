@@ -7,7 +7,7 @@
 + [done] skald     
 + [done] war       cappello a punta[]
 + [    ] sm        moh[], tenacious night shadow[]
-+ [    ] hunter    cappello a punta(da fare), braccia(da comprare)
++ [    ] hunter    cappello a punta[da fare], braccia[da comprare]
 + [    ] lock      
 + [    ] valk      rogs? non ancora deciso, vediamo cosa fa vindi
 
