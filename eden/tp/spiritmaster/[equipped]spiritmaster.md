@@ -25,22 +25,22 @@ Grimoire Pages:                 1900
 + shimmering silksteel rune knit padded arms          (40 Hit Cap)
 
 
-## payload fatto con ia (sbagliato!)
+## payload non efficiente ma meglio di niente
 
-Flawed Earthen Shielding Jewel of Matter Resisting
-Polished Vapor Shielding Jewel of Spirit Resisting
-Perfect Blood Essence Jewel
-Imperfect Icy Shielding Jewel of Cold Resisting
+Imperfect fiery shielding jewel
+Flawed earthen shielding jewel
+Imperfect icy shielding jewel
+Faceted vapor shielding jewel
 
-Faceted Heated Shielding Jewel of Heat Resisting
-Flawed Blood Essence Jewel
-Faceted Airy Shielding Jewel of Crush Resisting
-Flawed Light Shielding Jewel of Slash Resisting
+Imperfect fiery shielding jewel
+Polished heated shielding jewel
+Perfect blood essence jewel
+Flawed vapor shielding jewel
 
-Polished Vapor Shielding Jewel of Spirit Resisting
-Imperfect Heated Shielding Jewel of Heat Resisting
-Precious Blood Essence Jewel
-Polished Earthen Shielding Jewel of Matter Resisting
+Flawed watery shielding jewel
+Polished heated shielding jewel
+Polished earthen shielding jewel
+Imperfect light shielding jewel
 
 ## -
 
