@@ -20,11 +20,8 @@ Atlantean Glass:                             3550
 Grimoire Pages:                              1200
 
 
-Hands
+Hands (+2 magic damage?)
 Name:  dragonsworn etched
-Level: 51 (99% Quality)
-Utility: 65
-Source Type: Spellcraft
 Imbue Points: 37 of 37,5
 1. (Skill) Stealth: +5 [(Imperfect) Airy Battle Jewel]
 2. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
@@ -32,7 +29,7 @@ Imbue Points: 37 of 37,5
 4. (Resist) Slash: +2% [(Uncut) Watery Shielding Jewel]
 
 
-Feet
+Feet (+5 buffs?)
 Name: rune carved
 Imbue Points: 37 of 37,5
 1. (Skill) Stealth: +6 [(Polished) Airy Battle Jewel]
@@ -180,29 +177,6 @@ Source Type: Loot
 9. (Stat_Cap) Cap Dexterity: +10
 10. (Stat_Cap) Cap Hit Points: +40
 
-
-Right Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
-Left Hand
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
-
-
-Two Handed
-Name: 
-Level: 51 (99% Quality)
-Utility: 0
-Source Type: Spellcraft
-Imbue Points: 0 of 37,5
 
 
 Ranged
