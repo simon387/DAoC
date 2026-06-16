@@ -1,9 +1,9 @@
 Helmet: Feallan Steeple of the Tactful       quest
 Cloak: Nosdoden Remnant Cloak                600 Tuscaran Glacier Ices
 Neck: Dragonseye Strand                      625 Tuscaran Glacier Ices
+Jewelry: Greater Gem of Fortitude           1440 Bounty Points
 
 Arms: Infernal Starkaskodd Sleeves           20p
-Jewelry: Greater Gem of Fortitude           1440 Bounty Points
 Torso: Astral Vest of Purification           900 Atlantean Glass
 Legs: Astral Leggings of the Leech           800 Atlantean Glass
 Ranged: Nychta's Heartstring Bow             600 Grimoire Pages
