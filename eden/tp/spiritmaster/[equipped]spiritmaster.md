@@ -2,16 +2,15 @@
 + belt of consumed souls         250 golds
 + bracer of sudden finality      quest
 + tenacious night shadow         quest
-
 + soul-scarred vest              600 Tuscaran Glacier Ices
 + dragon intellect mythirian     500 Tuscaran Glacier Ices
 + ring of the vaettir            625 Tuscaran Glacier Ices
++ cloth cap                      500 Dragon Scales
 + sulphurous fiend gem           600 Daemon Blood Seals
 + tock                           400 Daemon Blood Seals
 + cape of legerdemain            700 Grimoire Pages
-+ arcane-infused armband         600 Grimoire Pagesd
++ arcane-infused armband         600 Grimoire Pages
 + aidon's slippers               600 Grimoire Pages
-+ cloth cap                      500 Dragon Scales
 
 
 Tuscaran Glacier Ices:          1725
@@ -26,7 +25,7 @@ Grimoire Pages:                 1900
 + shimmering silksteel rune knit padded arms          (40 Hit Cap)
 
 
-## payload fatto con ia
+## payload fatto con ia (sbagliato!)
 
 Flawed Earthen Shielding Jewel of Matter Resisting
 Polished Vapor Shielding Jewel of Spirit Resisting
