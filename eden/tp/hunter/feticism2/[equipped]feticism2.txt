@@ -20,7 +20,7 @@ Atlantean Glass:                             3550
 Grimoire Pages:                              1200
 
 
-Hands (+2 magic damage?)
+Hands (+15 dex?)
 Name:  dragonsworn etched
 Imbue Points: 37 of 37,5
 1. (Skill) Stealth: +5 [(Imperfect) Airy Battle Jewel]
