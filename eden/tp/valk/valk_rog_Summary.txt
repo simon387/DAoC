@@ -1,0 +1,300 @@
+DAoC Tools - Template Forge
+Last Saved: 06/22/2026, 10:21 AM
+
+Import Code: 9B13-241A
+(Use this code to import a copy of this template)
+
+Character Summary for valk rog (Level 50) - Valkyrie
+Realm: Midgard | Race: Dwarf
+
+LOADOUT: TWO-HANDED
+Total Utility: 1375.3
+
+STATS
+100 / 99  Strength
+79 / 90  Constitution
+101 / 93  Dexterity
+64 / 81  Quickness
+0 / 75  Intelligence
+18 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+354 / 350  Hit Points
+0 / 26  Power
+
+BONUSES
+Spell Damage: 4%
+Casting Speed: 6%
+Melee Damage: 10%
+Style Damage: 10%
+Melee Speed: 11%
+Resist Pierce: 10%
+Armor Factor: 15
+Power Regen: 10
+
+RESISTS (Racials not included)
+26% Crush
+26% Slash
+27% Thrust
+26% Cold
+26% Energy
+30% Heat
+25% Matter
+26% Spirit
+26% Body
+
+SKILLS
+13 Sword
+13 Spear
+9 Odin's Will
+9 Mending
+
+RACIAL RESISTS
++2% Slash
++3% Thrust
++5% Body
+
+ITEMS
+
+HELMET
+Name: Feallan Steeple of the Sword
+Level: 51 (100% Quality)
+Utility: 95.7
+Source Type: Item
+
+1. (Stat) dexterity: +16
+2. (Stat) quickness: +18
+3. (Hits) hits: +40
+4. (Resist) body: +7%
+5. (Resist) energy: +7%
+6. (Toa) meleeSpeed: +2%
+7. (Skill) All Melee Skills: +3
+8. (Toa) meleeDamage: +2
+
+HANDS
+Name: Rune Bound Starkakedja
+Level: 51 (99% Quality)
+Utility: 58.3
+Source Type: Spellcrafted
+
+1. (Stat) Dexterity: +16 (Polished Vapor Essence Jewel)
+2. (Stat) Quickness: +28 (Perfect Airy Essence Jewel)
+3. (Hits) Hits: +68 (Flawless Blood Essence Jewel)
+4. (Resist) Body Resist: +1% (Raw Dusty Shielding Jewel)
+5. (5th Slot) +5 Dex Cap: +5
+
+TORSO
+Name: Astral Hauberk of the Favored
+Level: 51 (100% Quality)
+Utility: 172.0
+Source Type: Item
+
+1. (Stat) constitution: +21
+2. (Toa) meleeSpeed: +4%
+3. (Skill) All Magic Skills: +3
+4. (Skill) All Melee Skills: +3
+5. (Toa) meleeDamage: +4
+6. (Toa) castingSpeed: +4%
+7. (Toa) spellDamage: +4%
+8. (Cap) strength: +8
+9. (Cap) dexterity: +8
+10. (Cap) constitution: +8
+
+ARMS
+Name: Mail Sleeves of Eternal Retribution
+Level: 51 (100% Quality)
+Utility: 100.0
+Source Type: Item
+
+1. (Resist) cold: +5%
+2. (Resist) crush: +8%
+3. (Resist) heat: +5%
+4. (Resist) slash: +8%
+5. (Resist) thrust: +9%
+6. (Toa) meleeSpeed: +3%
+7. (Skill) All Melee Skills: +3
+
+FEET
+Name: Sabatons of the Shard
+Level: 51 (100% Quality)
+Utility: 113.3
+Source Type: Item
+
+1. (Stat) strength: +22
+2. (Stat) constitution: +22
+3. (Resist) crush: +5%
+4. (Resist) slash: +5%
+5. (Resist) thrust: +5%
+6. (Toa) meleeDamage: +4
+7. (Toa) styleDamage: +4%
+8. (Cap) constitution: +7
+
+LEGS
+Name: Dragonsworn Bound Starkakedja
+Level: 51 (99% Quality)
+Utility: 69.7
+Source Type: Spellcrafted
+
+1. (Stat) Dexterity: +28 (Perfect Vapor Essence Jewel)
+2. (Hits) Hits: +76 (Perfect Blood Essence Jewel)
+3. (Resist) Spirit Resist: +9% (Polished Vapor Shielding Jewel)
+4. (Resist) Cold Resist: +2% (Uncut Icy Shielding Jewel)
+5. (5th Slot) +15 Str: +15
+
+RIGHT HAND
+Name: (Empty)
+Level: -
+Utility: 0
+
+LEFT HAND
+Name: (Empty)
+Level: -
+Utility: 0
+
+TWO HANDED
+Name: rog
+Level: 51 (100% Quality)
+Utility: 0.0
+Source Type: Item
+
+
+RANGED
+Name: (Empty)
+Level: -
+Utility: 0
+
+NECK
+Name: Dragonseye Strand
+Level: 51 (100% Quality)
+Utility: 92.3
+Source Type: Item
+
+1. (Stat) constitution: +18
+2. (Hits) hits: +30
+3. (Resist) crush: +4%
+4. (Resist) slash: +4%
+5. (Resist) thrust: +4%
+6. (Skill) All Magic Skills: +3
+7. (Toa) resistPierce: +5%
+8. (Cap) hits: +35
+
+CLOAK
+Name: Nosdoden Remnant Cloak
+Level: 50 (100% Quality)
+Utility: 94.0
+Source Type: Item
+
+1. (Stat) dexterity: +18
+2. (Stat) constitution: +18
+3. (Resist) crush: +1%
+4. (Resist) energy: +1%
+5. (Resist) slash: +1%
+6. (Resist) thrust: +1%
+7. (Stat) piety: +18
+8. (Skill) All Magic Skills: +3
+9. (Toa) castingSpeed: +2%
+10. (Toa) resistPierce: +5%
+
+JEWELRY
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 114.0
+Source Type: Item
+
+1. (Stat) quickness: +18
+2. (Hits) hits: +40
+3. (Resist) body: +7%
+4. (Resist) energy: +7%
+5. (Toa) meleeSpeed: +2%
+6. (Skill) All Dual Wield: +2
+7. (Toa) styleDamage: +2%
+8. (Cap) strength: +6
+9. (Cap) quickness: +6
+10. (Cap) hits: +40
+
+WAIST
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.8
+Source Type: Item
+
+1. (Hits) hits: +35
+2. (Resist) body: +7%
+3. (Resist) cold: +7%
+4. (Resist) energy: +7%
+5. (Resist) heat: +7%
+6. (Resist) matter: +7%
+7. (Resist) spirit: +7%
+8. (Cap) hits: +40
+
+L RING
+Name: Tentacle Ring
+Level: 51 (100% Quality)
+Utility: 100.5
+Source Type: Item
+
+1. (Stat) strength: +21
+2. (Hits) hits: +35
+3. (Resist) crush: +4%
+4. (Resist) slash: +4%
+5. (Resist) thrust: +4%
+6. (Toa) armorFactor: +5
+7. (Skill) All Melee Skills: +4
+8. (Toa) styleDamage: +2%
+9. (Cap) strength: +5
+10. (Cap) hits: +35
+
+R RING
+Name: Director's Ring of Oblivion
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Item
+
+1. (Stat) strength: +15
+2. (Stat) dexterity: +15
+3. (Hits) hits: +30
+4. (Resist) heat: +6%
+5. (Resist) matter: +6%
+6. (Resist) spirit: +6%
+7. (Toa) armorFactor: +10
+8. (Cap) strength: +5
+9. (Cap) dexterity: +5
+
+L WRIST
+Name: Spiked Bracelet
+Level: 47 (100% Quality)
+Utility: 78.0
+Source Type: Item
+
+1. (Stat) strength: +9
+2. (Resist) body: +4%
+3. (Resist) cold: +4%
+4. (Resist) crush: +4%
+5. (Resist) energy: +4%
+6. (Resist) heat: +4%
+7. (Resist) matter: +4%
+8. (Resist) slash: +4%
+9. (Resist) spirit: +4%
+10. (Resist) thrust: +4%
+
+R WRIST
+Name: Bracer of Thunder
+Level: 49 (100% Quality)
+Utility: 70.0
+Source Type: Item
+
+1. (Stat) strength: +18
+2. (Resist) cold: +8%
+3. (Resist) heat: +8%
+4. (Resist) matter: +8%
+5. (Toa) styleDamage: +2%
+
+MYTHICAL
+Name: Deserter Arcane Mythirian
+Level: 51 (100% Quality)
+Utility: 21.3
+Source Type: Item
+
+1. (Stat) dexterity: +8
+2. (Toa) powerRegen: +10
+3. (Mythical cap) dexterity: +8
