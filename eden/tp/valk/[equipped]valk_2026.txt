@@ -1,0 +1,31 @@
+Head (Feallan Steeple of the Sword)      quest
+
+Left Wrist (Bracer of Arawn)             1540 Bounty Points
+Chest (Astral Hauberk of the Favored)    900 Atlantean Glass
+Feet (Frozen Dragonscale Chain Boots)    ?
+Neck (Dragonseye Strand)                 625 Tuscaran Glacier Ices
+Cloak (Nosdoden Remnant Cloak)           600 Tuscaran Glacier Ices
+Belt (Soulbinder's Belt)                 475 Dragon Scales
+Left Ring (Director's Ring of Oblivion)  500 Daemon Blood Seals
+Right Ring (Ring of Vaettir)             ?
+Right Wrist (Cyclone Bracer)             ?
+Mythirian (adept)                        drop
+Jewel (Sphere of the Damned)             drop
+Arms (Infernal Sleeves)                  20p
+
+Legs (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Quickness: 28
+   Cold: 9%
+   Strength: 25
+   Energy: 3%
+   Strength: 15
+
+Hands (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Hits: 60
+   Matter: 3%
+   Thrust: 9%
+   Spear: 5
+   Dexterity: 15
+
