@@ -1,6 +1,7 @@
 TWO HANDED : rog
 HELMET     : Feallan Steeple of the Sword
 WAIST      : Soulbinder's Belt                    475 Dragon Scales
+L WRIST    : Spiked Bracelet                      platini
 
 TORSO      : Astral Hauberk of the Favored        900 Atlantean Glass
 ARMS       : Mail Sleeves of Eternal Retribution  500 Grimoire Pages
@@ -10,7 +11,6 @@ CLOAK      : Nosdoden Remnant Cloak               600 Tuscaran Glacier Ices
 L RING     : Tentacle Ring                        625 Tuscaran Glacier Ices
 JEWELRY    : Searing Fiend Gem                    600 Daemon Blood Seals
 R RING     : Director's Ring of Oblivion          500 Daemon Blood Seals
-L WRIST    : Spiked Bracelet                      platini
 R WRIST    : Bracer of Thunder                    platini
 MYTHICAL   : Deserter Arcane Mythirian            drop
 
