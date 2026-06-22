@@ -15,11 +15,11 @@ R WRIST    : Bracer of Thunder                    platini
 MYTHICAL   : Deserter Arcane Mythirian            drop
 
 
-Dragon Scales           475
-Atlantean Glass         900
-Grimoire Pages        1.100
-Tuscaran Glacier Ices 1.850
-Daemon Blood Seals    1.100
+Dragon Scales           475    475
+Atlantean Glass         900    900
+Grimoire Pages        1.100   1100
+Tuscaran Glacier Ices 1.850   1850
+Daemon Blood Seals    1.100   1100
 
 
 HANDS: Rune Bound Starkakedja
