@@ -11,10 +11,9 @@ L Ring: Band of Shadow                       600 Atlantean Glass
 Ranged: Nychta's Heartstring Bow             600 Grimoire Pages
 Waist: Shimmering Satin Sash                 600 Grimoire Pages
 Arms: Infernal Starkaskodd Sleeves           20p
-
-
 R Wrist: Spiked Bracelet                     platini
 Mythical: Deserter Adept Mythirian           platini
+
 
 Bounty Points:                               1440
 Tuscaran Glacier Ices:                       1225
