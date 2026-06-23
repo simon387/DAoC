@@ -27,11 +27,23 @@ Imbue: 37.5/32 (Quality: 99)
    Strength: 25
    Energy: 3%
 
+   Perfect airy essence jewel
+   Polished icy shielding jewel
+   Flawless fiery essence jewel
+   Rough light shielding jewel
+
+
 Hands (Dragonsworn Bound Starkakedja): Dexterity: 15
 Imbue: 37.5/32 (Quality: 99)
    Hits: 60
    Matter: 3%
    Thrust: 9%
    Spear: 5
+
+   Precious blood essence jewel
+   Rough earthen shielding jewel
+   Polished airy shielding jewel
+   Imperfect heated war rune
+
 
 
