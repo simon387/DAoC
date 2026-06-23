@@ -12,6 +12,7 @@ Right Ring (Ring of Vaettir)             625 Tuscaran Glacier Ices
 Left Ring (Director's Ring of Oblivion)  500 Daemon Blood Seals
 Mythirian (adept)                        drop
 Arms (Infernal Sleeves)                  20p
+mancano i proc
 
 
 Atlantean Glass:                         1500  1500
