@@ -1,11 +1,11 @@
 Head (Feallan Steeple of the Sword)      quest
-
+Belt (Soulbinder's Belt)                 475 Dragon Scales
 Jewel (Sphere of the Damned)             drop
+Feet (Frozen Dragonscale Chain Boots)    250 Dragon Scales
 Left Wrist (Bracer of Arawn)             1540 Bounty Points
+
 Chest (Astral Hauberk of the Favored)    900 Atlantean Glass
 Right Wrist (Cyclone Bracer)             600 Atlantean Glass
-Feet (Frozen Dragonscale Chain Boots)    250 Dragon Scales
-Belt (Soulbinder's Belt)                 475 Dragon Scales
 Neck (Dragonseye Strand)                 625 Tuscaran Glacier Ices
 Cloak (Nosdoden Remnant Cloak)           600 Tuscaran Glacier Ices
 Right Ring (Ring of Vaettir)             625 Tuscaran Glacier Ices
@@ -20,19 +20,18 @@ Tuscaran Glacier Ices:                   1850
 Daemon Blood Seals:                      500
 
 
-Legs (Crafted):
+Legs (Dragonsworn Bound Starkakedja): Strength: 15
 Imbue: 37.5/32 (Quality: 99)
    Quickness: 28
    Cold: 9%
    Strength: 25
    Energy: 3%
-   Strength: 15
 
-Hands (Crafted):
+Hands (Dragonsworn Bound Starkakedja): Dexterity: 15
 Imbue: 37.5/32 (Quality: 99)
    Hits: 60
    Matter: 3%
    Thrust: 9%
    Spear: 5
-   Dexterity: 15
+
 
