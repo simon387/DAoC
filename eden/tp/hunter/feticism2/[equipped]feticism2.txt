@@ -3,6 +3,7 @@ Cloak: Nosdoden Remnant Cloak                600 Tuscaran Glacier Ices
 Neck: Dragonseye Strand                      625 Tuscaran Glacier Ices
 Jewelry: Greater Gem of Fortitude           1440 Bounty Points
 Torso: Astral Vest of Purification           900 Atlantean Glass
+R Wrist: Spiked Bracelet                     platini
 
 Legs: Astral Leggings of the Leech           800 Atlantean Glass
 R Ring: Zahur's Ring                         600 Atlantean Glass
@@ -11,14 +12,13 @@ L Ring: Band of Shadow                       600 Atlantean Glass
 Ranged: Nychta's Heartstring Bow             600 Grimoire Pages
 Waist: Shimmering Satin Sash                 600 Grimoire Pages
 Arms: Infernal Starkaskodd Sleeves           20p
-R Wrist: Spiked Bracelet                     platini
 Mythical: Deserter Adept Mythirian           platini
 
 
 Bounty Points:                               1440
 Tuscaran Glacier Ices:                       1225
-Atlantean Glass:                             3550
-Grimoire Pages:                              1200
+Atlantean Glass:                             3550  2650
+Grimoire Pages:                              1200  1200
 
 
 Hands (+15 dex?)
