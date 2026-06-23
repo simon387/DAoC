@@ -15,10 +15,10 @@ Arms (Infernal Sleeves)                  20p
 mancano i proc
 
 
-Atlantean Glass:                         1500  1500
-Dragon Scales:                           725      0
-Tuscaran Glacier Ices:                   1850  1850
-Daemon Blood Seals:                      500    500
+Atlantean Glass:                         1500
+Dragon Scales:                           725
+Tuscaran Glacier Ices:                   1850
+Daemon Blood Seals:                      500
 
 
 Legs (Dragonsworn Bound Starkakedja): Strength: 15
