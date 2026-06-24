@@ -18,7 +18,7 @@ Mythical: Deserter Adept Mythirian           platini
 Bounty Points:                               1440
 Tuscaran Glacier Ices:                       1225
 Atlantean Glass:                             3550  2650
-Grimoire Pages:                              1200  1200
+Grimoire Pages:                              1200
 
 
 Hands (+15 dex?)
