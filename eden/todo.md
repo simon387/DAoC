@@ -8,8 +8,8 @@
 + [done] war       cappello a punta[]
 + [done] sm        moh[], tenacious night shadow[]
 + [done] lock      
-+ [    ] hunter    cappello a punta[], braccia[da comprare]
-+ [    ] valk      rogs? ~~non ancora deciso, vediamo cosa fa vindi~~, nel dubbio cappello a punta [fatto]
++ [    ] hunter    cappello a punta[done], braccia[da comprare]
++ [    ] valk      mancano procs e infernal cap_a_punta[done], braccia[da comprare]
 
 ## alb
 
