@@ -9,7 +9,7 @@
 + [done] sm        moh[], tenacious night shadow[]
 + [done] lock      
 + [    ] hunter    cappello a punta[done], braccia[da comprare]
-+ [    ] valk      mancano procs e infernal[], cap_a_punta[done], braccia[da comprare]
++ [    ] valk      cappello a punta[done], braccia[da comprare]
 
 ## alb
 
