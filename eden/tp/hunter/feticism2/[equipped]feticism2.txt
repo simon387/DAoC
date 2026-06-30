@@ -6,11 +6,11 @@ Torso: Astral Vest of Purification           900 Atlantean Glass
 R Wrist: Spiked Bracelet                     platini
 Ranged: Nychta's Heartstring Bow             600 Grimoire Pages
 Waist: Shimmering Satin Sash                 600 Grimoire Pages
-
 Legs: Astral Leggings of the Leech           800 Atlantean Glass
 R Ring: Zahur's Ring                         600 Atlantean Glass
 L Wrist: Golden Bracer                       650 Atlantean Glass
 L Ring: Band of Shadow                       600 Atlantean Glass
+
 Arms: Infernal Starkaskodd Sleeves           20p
 Mythical: Deserter Adept Mythirian           platini
 
