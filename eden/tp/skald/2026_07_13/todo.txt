@@ -1,0 +1,50 @@
+Chest (Astral Hauberk of the Favored)                 equipped
+Arms (Infernal Starkakedja Sleeves)                   buy
+Legs (Astral Leggings of Fortification)               equipped
+Feet (Dragon's Blood Boots)                           250 Dragon Scales
+Neck (Luminescent Diamond Necklace)                   475 Dragon Scales
+Cloak (Jade Moonshone Cloak)                          plats
+Jewel (Bloodbound Book)                               450 Dragon Scales
+Belt (Soulbinder's Belt)                              equipped
+Left Ring (Band of Clandestinity)                     600 Grimoire Pages
+Right Ring (Tentacle Ring)                            625 Tuscaran Glacier Ices
+Left Wrist (Bracelet of Eternal Retribution)          600 Grimoire Pages
+Right Wrist (Cyclone Bracer)                          600 Atlantean Glass
+
+Head (+15 quick): Dragonsworn Scribed Starkakedja
+Imbue: 37.5/32 (Quality: 99)
+   Parry: 4
+   Energy: 9%
+   Spirit: 9%
+   Body: 7%
+   Quickness: 15
+
+Hands (+5 healing): Dragonsworn Scribed Starkakedja
+Imbue: 32.5/32 (Quality: 99)
+   Heat: 5%
+   Quickness: 26
+   Parry: 3
+   Charisma: 29
+   Healing Effectiveness: 5
+
+Head
+Imbue: 37.5/32 (Quality: 99)
+Flawed Vapor Battle Jewel (Parry: 4)
+	Ee Gem: 1, Bloodied Battlefield Dirt: 13, Swamp Fog: 4
+Polished Light Shielding Jewel (Energy: 9%)
+	Mon Gem: 1, Ground Draconic Scales: 26, Sun Light: 6
+Polished Vapor Shielding Jewel (Spirit: 9%)
+	Mon Gem: 1, Ground Draconic Scales: 26, Swamp Fog: 6
+Imperfect Dusty Shielding Jewel (Body: 7%)
+	Pal Gem: 1, Ground Draconic Scales: 21, Undead Ash and Holy Water: 5
+
+Hands
+Imbue: 33.0/32 (Quality: 99)
+Flawed Heated Shielding Jewel (Heat: 5%)
+	Ee Gem: 1, Ground Draconic Scales: 16, Heat From an Unearthly Pyre: 4
+Perfect Airy Essence Jewel (Quickness: 29)
+	Ra Gem: 1, Essence of Life: 37, Air Elemental Essence: 10
+Rough Vapor Battle Jewel (Parry: 3)
+	On Gem: 1, Bloodied Battlefield Dirt: 9, Swamp Fog: 3
+Perfect Icy Essence Jewel (Charisma: 29)
+	Ra Gem: 1, Essence of Life: 37, Frost From a Wasteland: 10

@@ -1,0 +1,263 @@
+LOKI Build Report
+Class: Skald
+Level: 50
+
+Two-Handed
+Item Utility: 929.8
+Build Utility: 999.8
+Useable Utility: 991.8
+TOA Utility: 618.0
+PvE Utility:  0.0
+
+Statistic
+Strength: 92/93
+Constitution: 83/91
+Dexterity: 0/93
+Quickness: 75/80
+Intelligence: 0/75
+Piety: 0/75
+Charisma: 83/85
+Empathy: 0/75
+Hits: 315/460
+Power: 0/25
+
+Resistance
+Body: 26/26
+Cold: 22/26+5
+Heat: 27/26
+Energy: 25/26
+Matter: 28/26
+Spirit: 25/26
+Crush: 27/26+2
+Thrust: 26/26
+Slash: 26/26+3
+
+Skill
+Axe: 11/11
+Battlesongs: 3/11
+Hammer: 11/11
+Parry: 11/11
+Sword: 11/11
+
+Cap Increase
+Strength: 18/26
+Constitution: 16/26
+Dexterity: 18/26
+Quickness: 5/26
+Charisma: 10/26
+Hits: 260/400
+
+Mythical Cap Increase
+Strength: 18/52
+Constitution: 16/52
+Dexterity: 18/52
+Quickness: 5/52
+Charisma: 10/52
+
+TOA Bonus
+Armour Factor: 25/50
+Healing Effectiveness: 15/25
+Casting Speed: 4/10
+Spell Range: 2/10
+Spell Damage: 10/10
+Archery Damage: 10/10
+Archery Range: 2/10
+Archery Speed: 4/10
+Style Damage: 4/10
+Melee Damage: 10/10
+Melee Combat Speed: 11/10
+
+Chest (Astral Hauberk of the Favored):
+Imbue: 15.0
+   ALL magic skills: 3
+   ALL melee weapon skills: 3
+   Constitution: 21
+   Constitution (Cap Increase): 8
+   Strength (Cap Increase): 8
+   Dexterity (Cap Increase): 8
+   Melee Damage: 4
+   Casting Speed: 4
+   Spell Damage: 4
+   Melee Combat Speed: 4
+Utility: 44.0
+TOA Utility: 128.0
+PvE Utility: 0.0
+
+Arms (Infernal Starkakedja Sleeves):
+Imbue: 0.0
+   Strength: 13
+   Constitution: 13
+   Quickness: 12
+   Constitution (Cap Increase): 5
+   Quickness (Cap Increase): 5
+   Melee Damage: 2
+   Health Regen: 30
+   Armour Factor: 15
+Utility: 25.3
+TOA Utility: 75.0
+PvE Utility: 0.0
+
+Head (+15 quick):
+Imbue: 37.5/32 (Quality: 99)
+   Parry: 4
+   Energy: 9%
+   Spirit: 9%
+   Body: 7%
+   Quickness: 15
+Utility: 80.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Legs (Astral Leggings of Fortification):
+Imbue: 10.0
+   Strength: 18
+   Constitution: 18
+   Melee Damage: 2
+   Spell Damage: 2
+   Hits: 40
+   Dexterity (Cap Increase): 10
+   Healing Effectiveness: 10
+   Spell Range: 2
+   Style Damage: 2
+   Hits (Cap Increase): 40
+Utility: 34.0
+TOA Utility: 90.0
+PvE Utility: 0.0
+
+Hands (+5 healing):
+Imbue: 32.5/32 (Quality: 99)
+   Heat: 5%
+   Quickness: 26
+   Parry: 3
+   Charisma: 29
+   Healing Effectiveness: 5
+Utility: 61.7
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Feet (Dragon's Blood Boots):
+Imbue: 20.0
+   Cold: 3%
+   Heat: 3%
+   Energy: 3%
+   Matter: 3%
+   Spirit: 3%
+   Hits: 40
+   Spell Damage: 4
+   Acuity (Cap Increase): 7
+   Hits (Cap Increase): 45
+   Acuity: 24
+Utility: 56.0
+TOA Utility: 45.3
+PvE Utility: 0.0
+
+Neck (Luminescent Diamond Necklace):
+Imbue: 38.5
+   Constitution: 12
+   Cold: 6%
+   Heat: 6%
+   Matter: 6%
+   Crush: 6%
+   Thrust: 6%
+   Slash: 6%
+   Hits: 30
+   Hits (Cap Increase): 35
+   Acuity: 12
+Utility: 95.5
+TOA Utility: 8.8
+PvE Utility: 0.0
+
+Cloak (Jade Moonshone Cloak):
+Imbue: 35.0
+   Constitution: 19
+   Body: 6%
+   Crush: 6%
+   Energy: 6%
+   Matter: 6%
+   Slash: 6%
+   Thrust: 6%
+   Constitution (Cap Increase): 3
+Utility: 84.7
+TOA Utility: 6.0
+PvE Utility: 0.0
+
+Jewel (Bloodbound Book):
+Imbue: 35.0
+   Body: 6%
+   Cold: 6%
+   Heat: 6%
+   Matter: 6%
+   Spirit: 6%
+   Hits: 40
+   Acuity (Cap Increase): 3
+   Hits (Cap Increase): 45
+   Acuity: 18
+Utility: 82.0
+TOA Utility: 17.3
+PvE Utility: 0.0
+
+Belt (Soulbinder's Belt):
+Imbue: 46.0
+   Hits: 35
+   Cold: 7%
+   Spirit: 7%
+   Energy: 7%
+   Matter: 7%
+   Heat: 7%
+   Body: 7%
+   Hits (Cap Increase): 40
+Utility: 92.8
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Left Ring (Band of Clandestinity):
+Imbue: 30.0
+   Strength: 18
+   Envenom: 4
+   Stealth: 4
+   Hits: 60
+   Armour Factor: 5
+   Hits (Cap Increase): 20
+   Melee Combat Speed: 5
+Utility: 67.0
+TOA Utility: 35.0
+PvE Utility: 0.0
+
+Right Ring (Tentacle Ring):
+Imbue: 28.0
+   Strength: 21
+   ALL melee weapon skills: 4
+   Crush: 4%
+   Thrust: 4%
+   Slash: 4%
+   Hits: 35
+   Strength (Cap Increase): 5
+   Style Damage: 2
+   Hits (Cap Increase): 35
+   Armour Factor: 5
+Utility: 66.8
+TOA Utility: 33.8
+PvE Utility: 0.0
+
+Left Wrist (Bracelet of Eternal Retribution):
+Imbue: 26.5
+   Strength: 22
+   Quickness: 22
+   Parry: 4
+   Hits: 35
+   ALL melee weapon skills: 4
+   Strength (Cap Increase): 5
+   Melee Damage: 2
+Utility: 78.1
+TOA Utility: 20.0
+PvE Utility: 0.0
+
+Right Wrist (Cyclone Bracer):
+Imbue: 38.0
+   Crush: 11%
+   Thrust: 10%
+   Slash: 10%
+   Melee Combat Speed: 2
+Utility: 62.0
+TOA Utility: 10.0
+PvE Utility: 0.0
