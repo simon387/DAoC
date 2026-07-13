@@ -1,15 +1,15 @@
 Chest (Astral Hauberk of the Favored)                 equipped
 Arms (Infernal Starkakedja Sleeves)                   buy
 Legs (Astral Leggings of Fortification)               equipped
-Feet (Dragon's Blood Boots)                           250 Dragon Scales
-Neck (Luminescent Diamond Necklace)                   475 Dragon Scales
-Cloak (Jade Moonshone Cloak)                          plats
-Jewel (Bloodbound Book)                               450 Dragon Scales
+Feet (Dragon's Blood Boots)                           comprato
+Neck (Luminescent Diamond Necklace)                   comprato
+Cloak (Jade Moonshone Cloak)                          comprato
+Jewel (Bloodbound Book)                               comprato
 Belt (Soulbinder's Belt)                              equipped
-Left Ring (Band of Clandestinity)                     600 Grimoire Pages
-Right Ring (Tentacle Ring)                            625 Tuscaran Glacier Ices
-Left Wrist (Bracelet of Eternal Retribution)          600 Grimoire Pages
-Right Wrist (Cyclone Bracer)                          600 Atlantean Glass
+Left Ring (Band of Clandestinity)                     comprato
+Right Ring (Tentacle Ring)                            comprato
+Left Wrist (Bracelet of Eternal Retribution)          comprato
+Right Wrist (Cyclone Bracer)                          comprato
 
 Head (+15 quick): Dragonsworn Scribed Starkakedja
 Imbue: 37.5/32 (Quality: 99)
