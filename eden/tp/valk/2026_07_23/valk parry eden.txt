@@ -1,0 +1,252 @@
+LOKI Build Report
+Class: Valkyrie
+Level: 50
+
+Two-Handed
+Item Utility: 950.1
+Build Utility: 1045.1
+Useable Utility: 1036.9
+TOA Utility: 376.3
+PvE Utility:  0.0
+
+Statistic
+Strength: 95/95
+Constitution: 78/83
+Dexterity: 94/93
+Quickness: 64/82
+Intelligence: 0/75
+Piety: 49/80
+Charisma: 0/75
+Empathy: 0/75
+Hits: 319/305
+Power: 0/25
+
+Resistance
+Body: 26/26
+Cold: 24/26
+Heat: 27/26
+Energy: 26/26
+Matter: 24/26
+Spirit: 27/26+5
+Crush: 26/26
+Thrust: 26/26+3
+Slash: 25/26+2
+
+Skill
+Mending: 9/11
+Odin's Will: 9/11
+Parry: 11/11
+Spear: 11/11
+Sword: 10/11
+
+Cap Increase
+Strength: 20/26
+Constitution: 8/26
+Dexterity: 18/26
+Quickness: 7/26
+Piety: 5/26
+Hits: 105/200
+
+TOA Bonus
+Armour Factor: 10/50
+Healing Effectiveness: 5/25
+Spell Duration: 7/25
+Casting Speed: 8/10
+Spell Damage: 6/10
+Archery Damage: 6/10
+Archery Speed: 8/10
+Melee Damage: 6/10
+Melee Combat Speed: 10/10
+Resist Pierce: 10/10
+
+Chest (Astral Hauberk of the Favored):
+Imbue: 24.0
+   ALL melee weapon skills: 3
+   Constitution: 21
+   Dexterity (Cap Increase): 8
+   Constitution (Cap Increase): 8
+   Strength (Cap Increase): 8
+   Casting Speed: 4
+   Spell Damage: 4
+   Melee Combat Speed: 4
+   Melee Damage: 4
+   ALL magic skills: 3
+Utility: 44.0
+TOA Utility: 128.0
+PvE Utility: 0.0
+
+Arms (Infernal Sleeves):
+Imbue: 21.5
+   Strength: 15
+   Dexterity: 16
+   Acuity: 16
+   Spell Damage: 2
+   Dexterity (Cap Increase): 5
+   Acuity (Cap Increase): 5
+   Casting Speed: 2
+   Healing Effectiveness: 5
+Utility: 31.3
+TOA Utility: 50.0
+PvE Utility: 0.0
+
+Head (Feallan Steeple of the Sword):
+Imbue: 39.5
+   Hits: 40
+   Energy: 7%
+   Body: 7%
+   Dexterity: 16
+   Quickness: 18
+   Melee Damage: 2
+   Melee Combat Speed: 2
+   ALL melee weapon skills: 3
+Utility: 75.7
+TOA Utility: 20.0
+PvE Utility: 0.0
+
+Legs (Crafted):
+Imbue: 36.5/32 (Quality: 99)
+   Parry: 4
+   Dexterity: 28
+   Quickness: 28
+   Spear: 1
+   Strength: 15
+Utility: 72.3
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Hands (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Spirit: 9%
+   Matter: 9%
+   Slash: 7%
+   Parry: 4
+   Dexterity (Cap Increase): 5
+Utility: 70.0
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Feet (Crafted):
+Imbue: 37.0/32 (Quality: 99)
+   Strength: 22
+   Dexterity: 16
+   Heat: 5%
+   Spirit: 11%
+   Acuity: 15
+Utility: 67.3
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Two-Handed (rog 150p):
+Imbue: 24.0
+   Spell Duration: 7
+   Cold: 13%
+Utility: 26.0
+TOA Utility: 14.0
+PvE Utility: 0.0
+
+Neck (Dragonseye Strand):
+Imbue: 29.5
+   ALL magic skills: 3
+   Constitution: 18
+   Hits: 30
+   Crush: 4%
+   Slash: 4%
+   Thrust: 4%
+   Resist Pierce: 5
+   Hits (Cap Increase): 35
+Utility: 58.5
+TOA Utility: 33.8
+PvE Utility: 0.0
+
+Cloak (Nosdoden Remnant Cloak):
+Imbue: 31.0
+   Energy: 1%
+   Thrust: 1%
+   Crush: 1%
+   Slash: 1%
+   Constitution: 18
+   Dexterity: 18
+   Acuity: 18
+   ALL magic skills: 3
+   Casting Speed: 2
+   Resist Pierce: 5
+Utility: 59.0
+TOA Utility: 35.0
+PvE Utility: 0.0
+
+Jewel (Sphere of the Damned):
+Imbue: 32.0
+   Strength: 21
+   Quickness: 18
+   Strength (Cap Increase): 7
+   Quickness (Cap Increase): 7
+   Melee Combat Speed: 2
+   Hits: 50
+   Crush: 3%
+   Thrust: 3%
+   Slash: 3%
+Utility: 56.5
+TOA Utility: 38.0
+PvE Utility: 0.0
+
+Belt (Soulbinder's Belt):
+Imbue: 46.0
+   Hits: 35
+   Cold: 7%
+   Spirit: 7%
+   Energy: 7%
+   Matter: 7%
+   Heat: 7%
+   Body: 7%
+   Hits (Cap Increase): 40
+Utility: 92.8
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Left Ring (Band of Eternity):
+Imbue: 47.5
+   ALL melee weapon skills: 4
+   Constitution: 21
+   Hits: 60
+   Crush: 7%
+   Heat: 7%
+   Energy: 7%
+Utility: 91.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Right Ring (Leviathan Ring of Defiance):
+Imbue: 40.5
+   Body: 8%
+   Heat: 8%
+   Matter: 8%
+   Thrust: 8%
+   Hits: 44
+Utility: 75.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Left Wrist (Cyclone Bracer):
+Imbue: 38.0
+   Crush: 11%
+   Thrust: 10%
+   Slash: 10%
+   Melee Combat Speed: 2
+Utility: 62.0
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Right Wrist (Gatekeeper Bracer of Oblivion):
+Imbue: 36.5
+   Strength: 22
+   Parry: 3
+   Energy: 4%
+   Hits: 60
+   Strength (Cap Increase): 5
+   Body: 4%
+   Cold: 4%
+   Hits (Cap Increase): 30
+   Armour Factor: 10
+Utility: 68.7
+TOA Utility: 27.5
+PvE Utility: 0.0
