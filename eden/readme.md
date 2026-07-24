@@ -8,6 +8,7 @@
 ## comandi vari
 
 + https://eden-daoc.net/account
++ [https://eden-daoc.net/account](https://eden-daoc.net/commands)
 + `/craftqueue 42`
 + `/craftqueue buy <upto> 42`
 + `/macro sell /moveitem sell #allbags`
@@ -25,6 +26,9 @@
 + `/recorder start`
 + `/items build`
 + `/floatingmessages show`
++ `/bountyrent <personal/guild> <amount>`
++ `/payrent <realm|all> <personal|guild|all> <money text|max>`
++ `/payrent all all max`
 
 ## How to speed up DAoC load times:
 
