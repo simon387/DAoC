@@ -1,0 +1,245 @@
+LOKI Build Report
+Class: Skald
+Level: 50
+
+Ranged
+Item Utility: 921.8
+Build Utility: 1031.8
+Useable Utility: 1029.6
+TOA Utility: 354.3
+PvE Utility:  0.0
+
+Statistic
+Strength: 92/95
+Constitution: 88/88
+Dexterity: 86/93
+Quickness: 74/80
+Intelligence: 0/75
+Piety: 0/75
+Charisma: 61/78
+Empathy: 0/75
+Hits: 326/325
+Power: 0/25
+
+Resistance
+Body: 24/26
+Cold: 25/26+5
+Heat: 24/26
+Energy: 26/26
+Matter: 24/26
+Spirit: 24/26
+Crush: 27/26+2
+Thrust: 25/26
+Slash: 25/26+3
+
+Skill
+Axe: 11/11
+Battlesongs: 3/11
+Hammer: 11/11
+Parry: 11/11
+Sword: 11/11
+
+Cap Increase
+Strength: 20/26
+Constitution: 13/26
+Dexterity: 18/26
+Quickness: 5/26
+Charisma: 3/26
+Hits: 125/200
+
+TOA Bonus
+Armour Factor: 15/50
+Healing Effectiveness: 10/25
+Casting Speed: 4/10
+Spell Range: 2/10
+Spell Damage: 6/10
+Archery Damage: 6/10
+Archery Range: 2/10
+Archery Speed: 4/10
+Style Damage: 2/10
+Melee Damage: 10/10
+Melee Combat Speed: 10/10
+
+Chest (astral chain mid):
+Imbue: 24.0
+   Constitution: 21
+   ALL melee weapon skills: 3
+   ALL magic skills: 3
+   Strength (Cap Increase): 8
+   Dexterity (Cap Increase): 8
+   Constitution (Cap Increase): 8
+   Melee Damage: 4
+   Melee Combat Speed: 4
+   Casting Speed: 4
+   Spell Damage: 4
+Utility: 44.0
+TOA Utility: 128.0
+PvE Utility: 0.0
+
+Arms (Infernal Starkakedja Sleeves):
+Imbue: 17.5
+   Strength: 13
+   Constitution: 13
+   Quickness: 12
+   Constitution (Cap Increase): 5
+   Quickness (Cap Increase): 5
+   Melee Damage: 2
+   Health Regen: 30
+   Armour Factor: 15
+Utility: 25.3
+TOA Utility: 45.0
+PvE Utility: 0.0
+
+Head (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Crush: 9%
+   Slash: 7%
+   Hits: 60
+   Thrust: 9%
+   Constitution: 15
+Utility: 75.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Legs (Astral Leggings of Fortification):
+Imbue: 23.0
+   Strength: 18
+   Constitution: 18
+   Melee Damage: 2
+   Spell Damage: 2
+   Hits: 40
+   Dexterity (Cap Increase): 10
+   Healing Effectiveness: 10
+   Spell Range: 2
+   Style Damage: 2
+   Hits (Cap Increase): 40
+Utility: 34.0
+TOA Utility: 90.0
+PvE Utility: 0.0
+
+Hands (Crafted):
+Imbue: 37.0/32 (Quality: 99)
+   Energy: 5%
+   Hits: 36
+   Charisma: 28
+   Dexterity: 28
+   Dexterity: 15
+Utility: 66.3
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Feet (Crafted):
+Imbue: 37.0/32 (Quality: 99)
+   Crush: 9%
+   Slash: 9%
+   Parry: 3
+   Energy: 9%
+   Acuity: 15
+Utility: 79.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Neck (Midwinter Medal of Honor):
+Imbue: 40.0
+   Body: 5%
+   Cold: 5%
+   Heat: 5%
+   Energy: 5%
+   Matter: 5%
+   Spirit: 5%
+   Crush: 5%
+   Thrust: 5%
+   Slash: 5%
+Utility: 90.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Cloak (Tomte Defender's Cloak):
+Imbue: 38.0
+   Body: 6%
+   Cold: 7%
+   Heat: 6%
+   Matter: 6%
+   Spirit: 6%
+   Thrust: 7%
+Utility: 76.0
+TOA Utility: 0.0
+PvE Utility: 0.0
+
+Jewel (Bloodbound Book):
+Imbue: 42.0
+   Body: 6%
+   Cold: 6%
+   Heat: 6%
+   Matter: 6%
+   Spirit: 6%
+   Hits: 40
+   Acuity (Cap Increase): 3
+   Hits (Cap Increase): 45
+   Acuity: 18
+Utility: 82.0
+TOA Utility: 17.3
+PvE Utility: 0.0
+
+Belt (Soulbinder's Belt):
+Imbue: 46.0
+   Hits: 35
+   Cold: 7%
+   Spirit: 7%
+   Energy: 7%
+   Matter: 7%
+   Heat: 7%
+   Body: 7%
+   Hits (Cap Increase): 40
+Utility: 92.8
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Left Ring (Leviathan Ring of the Deep):
+Imbue: 30.5
+   Strength: 21
+   Constitution: 21
+   Dexterity: 21
+   Hits: 20
+   Strength (Cap Increase): 7
+   Melee Combat Speed: 3
+Utility: 47.0
+TOA Utility: 29.0
+PvE Utility: 0.0
+
+Right Ring (Tick):
+Imbue: 36.5
+   Strength: 18
+   Quickness: 18
+   ALL melee weapon skills: 4
+   Crush: 4%
+   Thrust: 4%
+   Slash: 4%
+   Melee Combat Speed: 1
+Utility: 68.0
+TOA Utility: 5.0
+PvE Utility: 0.0
+
+Left Wrist (Bracelet of Silent Oblivion):
+Imbue: 37.5
+   Dexterity: 22
+   Quickness: 22
+   Parry: 4
+   Hits: 60
+   Melee Combat Speed: 2
+Utility: 64.3
+TOA Utility: 10.0
+PvE Utility: 0.0
+
+Right Wrist (Bracelet of Eternal Retribution):
+Imbue: 41.5
+   Strength: 22
+   Quickness: 22
+   Parry: 4
+   Hits: 35
+   ALL melee weapon skills: 4
+   Strength (Cap Increase): 5
+   Melee Damage: 2
+Utility: 78.1
+TOA Utility: 20.0
+PvE Utility: 0.0
