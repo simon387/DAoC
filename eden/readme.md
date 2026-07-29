@@ -90,6 +90,10 @@ scudo che snara: Basalt Buckler of Oblivion
 
 + Take horse from Drum Cain to Cursed Forest
 
+## midgard medal of honor (moh)
+
++ vindsaul, horse to raumarik
+
 ## housing
 
 + drop 1.2p / hour
