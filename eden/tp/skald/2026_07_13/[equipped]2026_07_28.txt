@@ -1,0 +1,110 @@
+Head
+Imbue: 37.5/32 (Quality: 99)
+Polished Watery Shielding Jewel (Slash: 9%)
+Polished Fiery Shielding Jewel (Crush: 9%)
+Imperfect Light Shielding Jewel (Energy: 7%)
+Precious Vapor Essence Jewel (Dexterity: 22)
+
+Hands
+Imbue: 37.0/32 (Quality: 99)
+Polished Fiery Shielding Jewel (Crush: 9%)
+Uncut Dusty Shielding Jewel (Body: 2%)
+Faceted Airy Shielding Jewel (Thrust: 11%)
+Polished Watery Shielding Jewel (Slash: 9%)
+
+Feet
+Imbue: 37.5/32 (Quality: 99)
+Perfect Icy Essence Jewel (Charisma: 28)
+Perfect Blood Essence Jewel (Hits: 76)
+Rough Vapor Battle Jewel (Parry: 3)
+Flawed Light Shielding Jewel (Energy: 5%)
+
+Custom
+Item Utility: 920.8
+Build Utility: 1030.8
+Useable Utility: 1024.8
+TOA Utility: 354.3
+PvE Utility:  0.0
+
+Statistic
+Strength: 92/95
+Constitution: 88/88
+Dexterity: 80/93
+Quickness: 74/80
+Charisma: 61/78
+Hits: 306/325
+
+Resistance
+Body: 26/26
+Cold: 25/26+5
+Heat: 24/26
+Energy: 24/26
+Matter: 24/26
+Spirit: 24/26
+Crush: 27/26+2
+Thrust: 27/26
+Slash: 27/26+3
+
+Skill
+Axe: 11/11
+Battlesongs: 3/11
+Hammer: 11/11
+Parry: 11/11
+Sword: 11/11
+
+Cap Increase
+Strength: 20/26
+Constitution: 13/26
+Dexterity: 18/26
+Quickness: 5/26
+Charisma: 3/26
+Hits: 125/200
+
+TOA Bonus
+Armour Factor: 15/50
+Healing Effectiveness: 10/25
+Casting Speed: 4/10
+Spell Range: 2/10
+Spell Damage: 6/10
+Archery Damage: 6/10
+Archery Range: 2/10
+Archery Speed: 4/10
+Style Damage: 2/10
+Melee Damage: 10/10
+Melee Combat Speed: 10/10
+
+Chest (astral chain mid)
+Arms (Infernal Starkakedja Sleeves)
+Legs (Astral Leggings of Fortification)
+Neck (Midwinter Medal of Honor)
+Cloak (Tomte Defender's Cloak)                    X 1520 Bounty Points
+Jewel (Bloodbound Book)
+Belt (Soulbinder's Belt)
+Left Ring (Leviathan Ring of the Deep)            X 700 Atlantean Glass
+Right Ring (Tick)                                 X 400 Daemon Blood Seals
+Left Wrist (Bracelet of Silent Oblivion)          X 600 Atlantean Glass
+Right Wrist (Bracelet of Eternal Retribution)
+
+Head (Crafted): Dragonsworn Marked Starkakedja
+Imbue: 37.5/32 (Quality: 99)
+   Slash: 9%
+   Crush: 9%
+   Energy: 7%
+   Dexterity: 22
+   Constitution: 15
+
+Hands (Crafted): Dragonsworn Bound Starkakedja
+Imbue: 37.0/32 (Quality: 99)
+   Crush: 9%
+   Body: 2%
+   Thrust: 11%
+   Slash: 9%
+   Dexterity: 15
+
+Feet (Crafted): Dragonsworn Scribed Starkakedja
+Imbue: 37.5/32 (Quality: 99)
+   Charisma: 28
+   Hits: 76
+   Parry: 3
+   Energy: 5%
+   Acuity: 15
