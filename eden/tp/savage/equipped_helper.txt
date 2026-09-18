@@ -1,0 +1,27 @@
+HANDS: Dragonsworn Etched Starkaskodd
+1. (Stat) Strength: +16 (Polished Fiery Essence Jewel)
+2. (Resist) Spirit Resist: +7% (Imperfect Vapor Shielding Jewel)
+3. (Resist) Thrust Resist: +11% (Faceted Airy Shielding Jewel)
+4. (Resist) Slash Resist: +7% (Imperfect Watery Shielding Jewel)
+5. (5th Slot) +15 Dex: +15
+
+FEET: Rune Etched Starkaskodd
+1. (Resist) Slash Resist: +3% (Rough Watery Shielding Jewel)
+2. (Stat) Quickness: +28 (Perfect Airy Essence Jewel)
+3. (Resist) Cold Resist: +7% (Imperfect Icy Shielding Jewel)
+4. (Resist) Crush Resist: +11% (Faceted Fiery Shielding Jewel)
+5. (5th Slot) +5 Con Cap: +5
+
+HELMET: Feallan Studded Steeple of the Sword   [    ] quest
+TORSO: Astral Vest of Purification             [    ] 900 Atlantean Glass
+ARMS: Infernal Starkaskodd Sleeves             [    ] <20 p
+LEGS: Astral Leggings of the Leech             [    ] 800 Atlantean Glass
+LEFT HAND: Astral Mephitic Fang                [    ] 1000 Atlantean Glass
+NECK: Pearlescent Pendant                      [done] 500 Grimoire Pages
+CLOAK: Flame Wrought Cloak                     [done] 475 Dragon Scales
+JEWELRY: Searing Fiend Gem                     [done] 600 Daemon Blood Seals
+WAIST: Soulbinder's Belt                       [done] 475 Dragon Scales
+L RING: Zahur's Ring                           [done] 600 Atlantean Glass     in Oceanus Anatole (Midgard)
+R RING: Director's Ring of Chaos               [    ] 500 Daemon Blood Seals
+L WRIST: Bracer of Rain                        [done] 600 Atlantean Glass     in Oceanus Anatole (Midgard)
+R WRIST: Dragonscale Bracelet                  [    ] 500 Dragon Scales

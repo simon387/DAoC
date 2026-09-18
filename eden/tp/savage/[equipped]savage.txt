@@ -1,0 +1,297 @@
+DAoC Tools - Template Forge
+Last Saved: 09/18/2026, 04:13 PM
+
+Import Code: 8714-9EED
+(Use this code to import a copy of this template)
+
+Character Summary for Savage - 10/10/10/50 - 101/101 str/dex - astrals, infernal, 1 open weapon slot, 394/400 hits (Imported) (Level 50) - Savage
+Realm: Midgard | Race: Valkyn
+
+LOADOUT: MELEE
+Total Utility: 1414.8
+
+STATS
+101 / 99  Strength
+76 / 98  Constitution
+103 / 101  Dexterity
+77 / 81  Quickness
+0 / 75  Intelligence
+0 / 75  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+394 / 400  Hit Points
+0 / 26  Power
+
+BONUSES
+Spell Range: 2%
+Spell Damage: 2%
+Casting Speed: 6%
+Melee Damage: 14%
+Style Damage: 12%
+Melee Speed: 10%
+Armor Factor: 50
+Health Regen: 30
+
+RESISTS (Racials not included)
+27% Crush
+26% Slash
+27% Thrust
+26% Cold
+27% Energy
+26% Heat
+28% Matter
+26% Spirit
+27% Body
+
+SKILLS
+13 Sword
+13 Axe
+13 Hammer
+13 Hand to Hand
+
+RACIAL RESISTS
++3% Slash
++2% Thrust
++5% Cold
++5% Body
+
+ITEMS
+
+HELMET
+Name: Feallan Studded Steeple of the Sword
+Level: 51 (100% Quality)
+Utility: 95.7
+Source Type: Item
+
+1. (Stat) dexterity: +18
+2. (Stat) quickness: +16
+3. (Hits) hits: +40
+4. (Resist) body: +7%
+5. (Resist) energy: +7%
+6. (Toa) meleeSpeed: +2%
+7. (Skill) All Melee Skills: +3
+8. (Toa) meleeDamage: +2
+
+HANDS
+Name: Dragonsworn Etched Starkaskodd
+Level: 51 (99% Quality)
+Utility: 70.7
+Source Type: Spellcrafted
+
+1. (Stat) Strength: +16 (Polished Fiery Essence Jewel)
+2. (Resist) Spirit Resist: +7% (Imperfect Vapor Shielding Jewel)
+3. (Resist) Thrust Resist: +11% (Faceted Airy Shielding Jewel)
+4. (Resist) Slash Resist: +7% (Imperfect Watery Shielding Jewel)
+5. (5th Slot) +15 Dex: +15
+
+TORSO
+Name: Astral Vest of Purification
+Level: 51 (100% Quality)
+Utility: 137.0
+Source Type: Item
+
+1. (Stat) constitution: +21
+2. (Toa) meleeSpeed: +4%
+3. (Skill) All Melee Skills: +3
+4. (Toa) meleeDamage: +4
+5. (Toa) castingSpeed: +4%
+6. (Cap) strength: +8
+7. (Cap) dexterity: +8
+8. (Cap) constitution: +8
+
+ARMS
+Name: Infernal Starkaskodd Sleeves
+Level: 51 (100% Quality)
+Utility: 82.0
+Source Type: Item
+
+1. (Stat) dexterity: +21
+2. (Stat) constitution: +21
+3. (Resist) heat: +7%
+4. (Toa) healthRegen: +30
+5. (Toa) meleeDamage: +2
+6. (Toa) spellDamage: +2%
+7. (Cap) dexterity: +5
+8. (Cap) constitution: +5
+
+FEET
+Name: Rune Etched Starkaskodd
+Level: 51 (99% Quality)
+Utility: 70.7
+Source Type: Spellcrafted
+
+1. (Resist) Slash Resist: +3% (Rough Watery Shielding Jewel)
+2. (Stat) Quickness: +28 (Perfect Airy Essence Jewel)
+3. (Resist) Cold Resist: +7% (Imperfect Icy Shielding Jewel)
+4. (Resist) Crush Resist: +11% (Faceted Fiery Shielding Jewel)
+5. (5th Slot) +5 Con Cap: +5
+
+LEGS
+Name: Astral Leggings of the Leech
+Level: 51 (100% Quality)
+Utility: 110.0
+Source Type: Item
+
+1. (Stat) strength: +15
+2. (Stat) dexterity: +15
+3. (Stat) constitution: +15
+4. (Hits) hits: +40
+5. (Toa) spellRange: +2%
+6. (Toa) meleeDamage: +2
+7. (Toa) castingSpeed: +2%
+8. (Toa) styleDamage: +2%
+9. (Cap) dexterity: +10
+10. (Cap) hits: +40
+
+RIGHT HAND
+Name: (Empty)
+Level: -
+Utility: 0
+
+LEFT HAND
+Name: Astral Mephitic Fang
+Level: 51 (100% Quality)
+Utility: 110.0
+Source Type: Item
+
+1. (Toa) armorFactor: +15
+2. (Skill) All Melee Skills: +3
+3. (Toa) meleeDamage: +4
+4. (Toa) fatigue: +10%
+5. (Toa) styleDamage: +4%
+6. (Cap) strength: +5
+7. (Cap) dexterity: +5
+
+TWO HANDED
+Name: (Empty)
+Level: -
+Utility: 0
+
+RANGED
+Name: (Empty)
+Level: -
+Utility: 0
+
+NECK
+Name: Pearlescent Pendant
+Level: 51 (100% Quality)
+Utility: 84.0
+Source Type: Item
+
+1. (Stat) strength: +19
+2. (Stat) dexterity: +19
+3. (Stat) constitution: +19
+4. (Resist) crush: +6%
+5. (Resist) slash: +6%
+6. (Resist) thrust: +6%
+7. (Toa) armorFactor: +10
+
+CLOAK
+Name: Flame Wrought Cloak
+Level: 51 (100% Quality)
+Utility: 95.0
+Source Type: Item
+
+1. (Hits) hits: +50
+2. (Resist) cold: +6%
+3. (Resist) crush: +6%
+4. (Resist) heat: +6%
+5. (Resist) slash: +6%
+6. (Resist) thrust: +6%
+7. (Toa) armorFactor: +10
+8. (Cap) hits: +50
+
+JEWELRY
+Name: Searing Fiend Gem
+Level: 51 (100% Quality)
+Utility: 114.0
+Source Type: Item
+
+1. (Stat) quickness: +18
+2. (Hits) hits: +40
+3. (Resist) body: +7%
+4. (Resist) energy: +7%
+5. (Toa) meleeSpeed: +2%
+6. (Skill) All Dual Wield: +2
+7. (Toa) styleDamage: +2%
+8. (Cap) strength: +6
+9. (Cap) quickness: +6
+10. (Cap) hits: +40
+
+WAIST
+Name: Soulbinder's Belt
+Level: 51 (100% Quality)
+Utility: 102.8
+Source Type: Item
+
+1. (Hits) hits: +35
+2. (Resist) body: +7%
+3. (Resist) cold: +7%
+4. (Resist) energy: +7%
+5. (Resist) heat: +7%
+6. (Resist) matter: +7%
+7. (Resist) spirit: +7%
+8. (Cap) hits: +40
+
+L RING
+Name: Zahur's Ring
+Level: 51 (100% Quality)
+Utility: 75.0
+Source Type: Item
+
+1. (Hits) hits: +60
+2. (Resist) body: +6%
+3. (Resist) cold: +6%
+4. (Resist) energy: +6%
+5. (Resist) matter: +6%
+6. (Resist) spirit: +6%
+
+R RING
+Name: Director's Ring of Chaos
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Item
+
+1. (Stat) dexterity: +15
+2. (Stat) quickness: +15
+3. (Hits) hits: +30
+4. (Resist) heat: +6%
+5. (Resist) matter: +6%
+6. (Resist) spirit: +6%
+7. (Toa) armorFactor: +10
+8. (Cap) dexterity: +5
+9. (Cap) constitution: +5
+
+L WRIST
+Name: Bracer of Rain
+Level: 50 (100% Quality)
+Utility: 74.0
+Source Type: Item
+
+1. (Stat) strength: +30
+2. (Hits) hits: +64
+3. (Resist) matter: +9%
+4. (Toa) meleeSpeed: +2%
+5. (Toa) styleDamage: +2%
+
+R WRIST
+Name: Dragonscale Bracelet
+Level: 51 (100% Quality)
+Utility: 100.5
+Source Type: Item
+
+1. (Stat) strength: +21
+2. (Hits) hits: +35
+3. (Resist) crush: +4%
+4. (Resist) slash: +4%
+5. (Resist) thrust: +4%
+6. (Toa) armorFactor: +5
+7. (Skill) All Melee Skills: +4
+8. (Toa) styleDamage: +2%
+9. (Cap) strength: +5
+10. (Cap) hits: +35
+
+MYTHICAL
+Name: (Empty)
+Level: -
+Utility: 0
