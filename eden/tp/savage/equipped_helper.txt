@@ -16,7 +16,7 @@ HELMET: Feallan Studded Steeple of the Sword   [    ] quest
 TORSO: Astral Vest of Purification             [    ] 900 Atlantean Glass
 ARMS: Infernal Starkaskodd Sleeves             [    ] <20 p
 LEGS: Astral Leggings of the Leech             [    ] 800 Atlantean Glass
-LEFT HAND: Astral Mephitic Fang                [    ] 1000 Atlantean Glass
+LEFT HAND: Astral Mephitic Fang                [done] 1000 Atlantean Glass
 NECK: Pearlescent Pendant                      [done] 500 Grimoire Pages
 CLOAK: Flame Wrought Cloak                     [done] 475 Dragon Scales
 JEWELRY: Searing Fiend Gem                     [done] 600 Daemon Blood Seals
