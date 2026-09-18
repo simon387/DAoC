@@ -13,15 +13,15 @@ FEET: Rune Etched Starkaskodd
 5. (5th Slot) +5 Con Cap: +5
 
 HELMET: Feallan Studded Steeple of the Sword   [    ] quest
-TORSO: Astral Vest of Purification             [    ] 900 Atlantean Glass
-ARMS: Infernal Starkaskodd Sleeves             [    ] <20 p
-LEGS: Astral Leggings of the Leech             [    ] 800 Atlantean Glass
+TORSO: Astral Vest of Purification             [done] 900 Atlantean Glass
+ARMS: Infernal Starkaskodd Sleeves             [done] <20 p
+LEGS: Astral Leggings of the Leech             [done] 800 Atlantean Glass
 LEFT HAND: Astral Mephitic Fang                [done] 1000 Atlantean Glass
 NECK: Pearlescent Pendant                      [done] 500 Grimoire Pages
 CLOAK: Flame Wrought Cloak                     [done] 475 Dragon Scales
 JEWELRY: Searing Fiend Gem                     [done] 600 Daemon Blood Seals
 WAIST: Soulbinder's Belt                       [done] 475 Dragon Scales
 L RING: Zahur's Ring                           [done] 600 Atlantean Glass     in Oceanus Anatole (Midgard)
-R RING: Director's Ring of Chaos               [    ] 500 Daemon Blood Seals
+R RING: Director's Ring of Chaos               [done] 500 Daemon Blood Seals
 L WRIST: Bracer of Rain                        [done] 600 Atlantean Glass     in Oceanus Anatole (Midgard)
-R WRIST: Dragonscale Bracelet                  [    ] 500 Dragon Scales
+R WRIST: Dragonscale Bracelet                  [done] 500 Dragon Scales
