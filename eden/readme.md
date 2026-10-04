@@ -30,6 +30,29 @@
 + `/payrent <realm|all> <personal|guild|all> <money text|max>`
 + `/payrent all all max`
 
+### IMPORTANT NOTE ABOUT DUALSPEC 2
+
+The first time you log into Dualspec 2 your x-42.ini file will load automatically. You MUST do /uiprofile save 1 to save your hotbars/UI layout to profile 2:1. Once you log out it will no longer access your 42 file  and you will have to set your 2nd spec bars up again from scratch. All DS and profile info is saved in 41 only now.
+
+Commands:
++ /dualspec swap (or /dualspec 1/2) - instant switch: specs, RAs, champion abilities, bars, layout
++ /dualspec info - which spec you are on
++ /uiprofile save - write your bars + layout to disk right now
++ /uiprofile save <1-10> [name]- store your current bars as a named profile (profiles are per dualspec)
++ /uiprofile load <1-10> - put a stored profile back on your bars
++ /uiprofile copy <from> <to> [bars] [layout] [keys] - copy profiles, even across dualspecs (2:3 = dualspec 2, profile 3)
++ /uiprofile info - how your profiles are numbered
+
+Recommend:
++ 1.- log your toon (make sure it is already on dual spec 1)
++ 2.- /uiprofile save 1
++ 3.- /dualspec 2
++ 4.- /uiprofile save 1
++ 5.- /dualspec 1
+
+That’s it, all bars should be saved either you log on dualspec 1 or 2.
+
+
 ## How to speed up DAoC load times:
 
 + Press the Windows key and type "Windows Security" then select it
