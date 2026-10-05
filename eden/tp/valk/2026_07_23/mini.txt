@@ -1,0 +1,35 @@
+Legs (Crafted):
+Imbue: 36.5/32 (Quality: 99)
+   Parry: 4
+   Dexterity: 28
+   Quickness: 28
+   Spear: 1
+   Strength: 15
+
+Hands (Crafted):
+Imbue: 37.5/32 (Quality: 99)
+   Spirit: 9%
+   Matter: 9%
+   Slash: 7%
+   Parry: 4
+   Dexterity (Cap Increase): 5
+
+Feet (Crafted):
+Imbue: 37.0/32 (Quality: 99)
+   Strength: 22
+   Dexterity: 16
+   Heat: 5%
+   Spirit: 11%
+   Acuity: 15
+
+Chest (Astral Hauberk of the Favored)       [done]
+Arms (Infernal Sleeves):                    [done]
+Head (Feallan Steeple of the Sword):        [done]
+Neck (Dragonseye Strand):                   [done]
+Cloak (Nosdoden Remnant Cloak):             [done]
+Jewel (Sphere of the Damned):               [done]
+Belt (Soulbinder's Belt):                   [done]
+Left Ring (Band of Eternity):               [done] 500 Grimoire Pages
+Right Ring (Leviathan Ring of Defiance):    [done] 650 Atlantean Glass - Oceanus Anatole
+Left Wrist (Cyclone Bracer):                [done]
+Right Wrist (Gatekeeper Bracer of Oblivion) [done] 500 Daemon Blood Seals
