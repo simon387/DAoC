@@ -204,7 +204,7 @@ adapter=AMD Radeon(TM) Graphics
 version=1421
 fullscreen_windowed=1
 ui_scale=1000
-torchmode=0
+torchmode=1
 
 [performance]
 item8=2
@@ -292,13 +292,13 @@ item1=9
 0-0=1
 
 [quick]
-entry9=Rayvaughann, DOLSERVER, 142.132.144.167, 10300, 2, 41
-entry8=Brunetta, DOLSERVER, 142.132.144.167, 10300, 2, 41
-entry7=Camshots, DOLSERVER, 142.132.144.167, 10300, 2, 41
-entry6=Raiva, DOLSERVER, 142.132.144.167, 10300, 2, 41
-entry5=Bmwskrr, DOLSERVER, 142.132.144.167, 10300, 1, 41
-entry4=Rayvsx, DOLSERVER, 142.132.144.167, 10300, 1, 41
-entry3=Hoipugninellemani, DOLSERVER, 142.132.144.167, 10300, 2, 41
-entry2=Rayvaughan, DOLSERVER, 142.132.144.167, 10300, 1, 41
-entry1=Porcamadonna, DOLSERVER, 142.132.144.167, 10300, 3, 41
+entry9=Brunetta, DOLSERVER, 142.132.144.167, 10300, 2, 41
+entry8=Camshots, DOLSERVER, 142.132.144.167, 10300, 2, 41
+entry7=Raiva, DOLSERVER, 142.132.144.167, 10300, 2, 41
+entry6=Bmwskrr, DOLSERVER, 142.132.144.167, 10300, 1, 41
+entry5=Rayvsx, DOLSERVER, 142.132.144.167, 10300, 1, 41
+entry4=Hoipugninellemani, DOLSERVER, 142.132.144.167, 10300, 2, 41
+entry3=Rayvaughan, DOLSERVER, 142.132.144.167, 10300, 1, 41
+entry2=Porcamadonna, DOLSERVER, 142.132.144.167, 10300, 3, 41
+entry1=Rayhero, DOLSERVER, 142.132.144.167, 10300, 3, 41
 entry0=Felicist, DOLSERVER, 142.132.144.167, 10300, 2, 41
