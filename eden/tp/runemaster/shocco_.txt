@@ -1,0 +1,61 @@
+
+1. (Stat_Cap) Cap Hit Points: +40
+2. (Stat_Cap) Cap Power: +5
+3. (Bonus) Spell Duration: +5
+4. (Stat_Cap) Cap Constitution: +5
+5. (Stat_Cap) Cap Acuity: +5
+
+
+Helmet
+Name: Rune Knit Padded
+1. (Stat) Power: +5 [(Flawed) Mystical Essence Jewel]
+2. (Resist) Body: +3% [(Rough) Dusty Shielding Jewel]
+3. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+4. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+
+Hands
+Name: Dragonsworn Knit Padded
+1. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+2. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+3. (Stat) Piety: +28 [(Perfect) Watery Essence Jewel]
+4. (Resist) Slash: +3% [(Rough) Watery Shielding Jewel]
+
+
+Arms
+Name: Rune Knit Padded
+1. (Stat) Power: +7 [(Imperfect) Mystical Essence Jewel]
+2. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+3. (Resist) Matter: +3% [(Rough) Earthen Shielding Jewel]
+4. (Resist) Body: +13% [(Precious) Dusty Shielding Jewel]
+
+
+Feet
+Name: Rune Braided Padded
+1. (Stat) Power: +11 [(Faceted) Mystical Essence Jewel]
+2. (Resist) Crush: +3% [(Rough) Fiery Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+
+
+Legs
+Name: Dragonsworn Knit Padded
+1. (Stat) Piety: +19 [(Faceted) Watery Essence Jewel]
+2. (Stat) Power: +9 [(Polished) Mystical Essence Jewel]
+3. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+4. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+
+
+Two Handed: Ansuz Runemaster Staff
+
+Torso: Runed Tuscarian Vest: 600 tusca
+Neck: Luminescent Diamond Necklace - 475 Dragon Scales
+L Wrist: Dragontooth Bracelet - 500 Dragon Scales
+Cloak: Cape of Legerdemain - 700 Grimoire Page
+Waist: Shimmering Satin Sash - 600 Grimoire Pages
+Jewelry: Sulphurous Fiend Gem - 600 Daemon Blood Seals
+L Ring: Director's Ring of Anarchy - 500 Daemon Blood Seals
+R Ring: Director's Ring of Anarchy - 500 Daemon Blood Seals
+R Wrist: Gatekeeper Bracer of Anarchy - 500 Daemon Blood Seals
+
+
+Mythical: Dragon Intellect Mythirian (cannot be traded) 500 tusca

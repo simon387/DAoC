@@ -1,0 +1,326 @@
+RUNEMASTER
+
+Stats
+0 / 75  Strength
+100 / 94  Constitution
+106 / 104  Dexterity
+0 / 75  Quickness
+0 / 75  Intelligence
+107 / 104  Piety
+0 / 75  Charisma
+0 / 75  Empathy
+402 / 400  Hit Points
+32 / 31  Power
+
+Bonuses
+Spell Duration: 15%
+Spell Damage: 12%
+Spell Range: 12%
+Casting Speed: 10%
+Power Pool: 21%
+Arcane Siphon: 10%
+Debuff: 5%
+Armor Factor: 30%
+Spell Focus: 3%
+
+Resists (Racials not included)
+28% Crush
+26% Slash
+26% Thrust
+26% Cold
+27% Energy
+27% Heat
+26% Matter
+27% Spirit
+27% Body
+
+Skills
+13 Darkness
+13 Suppression
+13 Runecarving
+
+Item Procs and Charges
+Torso: Proc: 0? (50%)
+L Ring: Charge: 75 Dex/Qui
+L Wrist: Charge: 10?
+Two Handed: Proc: 50 Power Restore
+
+
+Items
+
+
+Bonuses
+Name:
+Level: 51 (99% Quality)
+Utility: 50
+Source Type: ROG
+1. (Stat_Cap) Cap Hit Points: +40
+2. (Stat_Cap) Cap Power: +5
+3. (Bonus) Spell Duration: +5
+4. (Stat_Cap) Cap Constitution: +5
+5. (Stat_Cap) Cap Acuity: +5
+
+
+Helmet
+Name: Rune Knit Padded
+Level: 51 (100% Quality)
+Utility: 55
+Source Type: Spellcraft
+Imbue Points: 36 of 37.5
+1. (Stat) Power: +5 [(Flawed) Mystical Essence Jewel]
+2. (Resist) Body: +3% [(Rough) Dusty Shielding Jewel]
+3. (Resist) Energy: +11% [(Faceted) Light Shielding Jewel]
+4. (Resist) Spirit: +11% [(Faceted) Vapor Shielding Jewel]
+
+
+Hands
+Name: Dragonsworn Knit Padded
+Level: 51 (100% Quality)
+Utility: 56.34
+Source Type: Spellcraft
+Imbue Points: 37 of 37.5
+1. (Stat) Hit Points: +52 [(Faceted) Blood Essence Jewel]
+2. (Stat) Dexterity: +28 [(Perfect) Vapor Essence Jewel]
+3. (Stat) Piety: +28 [(Perfect) Watery Essence Jewel]
+4. (Resist) Slash: +3% [(Rough) Watery Shielding Jewel]
+
+
+Torso
+Name: Runed Tuscarian Vest
+Level: 51 (100% Quality)
+Utility: 148.5
+Source Type: Merchant
+Special 1: Proc: 0? (50%)
+1. (Skill) All Magic Skills: +4
+2. (Stat) Constitution: +24
+3. (Stat) Dexterity: +24
+4. (Stat) Hit Points: +50
+5. (Bonus) Spell Damage: +4
+6. (Bonus) Spell Range: +4
+7. (Stat_Cap) Cap Dexterity: +6
+8. (Resist) Crush: +2%
+9. (Resist) Slash: +2%
+10. (Resist) Thrust: +2%
+
+
+Arms
+Name: Rune Knit Padded
+Level: 51 (100% Quality)
+Utility: 49
+Source Type: Spellcraft
+Imbue Points: 36 of 37.5
+1. (Stat) Power: +7 [(Imperfect) Mystical Essence Jewel]
+2. (Resist) Heat: +5% [(Flawed) Heated Shielding Jewel]
+3. (Resist) Matter: +3% [(Rough) Earthen Shielding Jewel]
+4. (Resist) Body: +13% [(Precious) Dusty Shielding Jewel]
+
+
+Feet
+Name: Rune Braided Padded
+Level: 51 (100% Quality)
+Utility: 49
+Source Type: Spellcraft
+Imbue Points: 36 of 37.5
+1. (Stat) Power: +11 [(Faceted) Mystical Essence Jewel]
+2. (Resist) Crush: +3% [(Rough) Fiery Shielding Jewel]
+3. (Resist) Slash: +7% [(Imperfect) Watery Shielding Jewel]
+4. (Resist) Thrust: +9% [(Polished) Airy Shielding Jewel]
+
+
+Legs
+Name: Dragonsworn Knit Padded
+Level: 51 (100% Quality)
+Utility: 53.67
+Source Type: Spellcraft
+Imbue Points: 36.5 of 37.5
+1. (Stat) Piety: +19 [(Faceted) Watery Essence Jewel]
+2. (Stat) Power: +9 [(Polished) Mystical Essence Jewel]
+3. (Resist) Crush: +9% [(Polished) Fiery Shielding Jewel]
+4. (Resist) Cold: +7% [(Imperfect) Icy Shielding Jewel]
+
+
+Right Hand
+Name:
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Left Hand
+Name:
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Two Handed
+Name: Ansuz Runemaster Staff
+Level: 51 (100% Quality)
+Utility: 110
+Source Type: Quest
+Special 1: Proc: 50 Power Restore
+1. (Bonus) Spell Damage: +4
+2. (Bonus) Casting Speed: +4
+3. (Skill) All Magic Skills: +3
+4. (Stat_Cap) Cap Dexterity: +6
+5. (Stat_Cap) Cap Acuity: +6
+6. (Stat) Dexterity: +6
+7. (Bonus) Power Pool: +6
+8. (Focus) All Focuses: +50
+
+
+Ranged
+Name:
+Level: 51 (99% Quality)
+Utility: 0
+Source Type: Spellcraft
+Imbue Points: 0 of 37.5
+
+
+Neck
+Name: Luminescent Diamond Necklace - 475 Dragon Scales
+Level: 51 (99% Quality)
+Utility: 104.25
+Source Type: Merchant
+1. (Stat) Acuity: +12
+2. (Stat) Constitution: +12
+3. (Resist) Slash: +6%
+4. (Resist) Crush: +6%
+5. (Resist) Thrust: +6%
+6. (Resist) Matter: +6%
+7. (Resist) Heat: +6%
+8. (Resist) Cold: +6%
+9. (Stat) Hit Points: +30
+10. (Stat_Cap) Cap Hit Points: +35
+
+
+Cloak
+Name: Cape of Legerdemain - 700 Grimoire Pages
+Level: 51 (100% Quality)
+Utility: 148
+Source Type: Loot
+1. (Stat) Constitution: +21
+2. (Resist) Cold: +5%
+3. (Resist) Thrust: +9%
+4. (Bonus) Spell Range: +4
+5. (Skill) All Magic Skills: +3
+6. (Bonus) Casting Speed: +4
+7. (Bonus) Power Pool: +8
+8. (Bonus) Arcane Siphon: +10
+
+
+Jewelry
+Name: Sulphurous Fiend Gem - 600 Daemon Blood Seals
+Level: 51 (100% Quality)
+Utility: 112
+Source Type: Loot
+1. (Stat) Constitution: +18
+2. (Stat) Hit Points: +40
+3. (Resist) Body: +7%
+4. (Resist) Energy: +7%
+5. (Bonus) Casting Speed: +2
+6. (Bonus) Debuff: +5
+7. (Bonus) Spell Damage: +2
+8. (Bonus) Spell Duration: +5
+9. (Stat_Cap) Cap Constitution: +6
+10. (Stat_Cap) Cap Hit Points: +40
+
+
+Waist
+Name: Shimmering Satin Sash - 600 Grimoire Pages
+Level: 51 (100% Quality)
+Utility: 101
+Source Type: Loot
+1. (Stat) Hit Points: +60
+2. (Resist) Crush: +8%
+3. (Resist) Energy: +5%
+4. (Resist) Matter: +5%
+5. (Resist) Slash: +8%
+6. (Bonus) Spell Range: +3
+7. (Bonus) Power Pool: +7
+8. (Stat_Cap) Cap Hit Points: +20
+
+
+L Ring
+Name: Director's Ring of Anarchy - 500 Daemon Blood Seals
+Level: 51 (99% Quality)
+Utility: 93.5
+Source Type: Merchant
+Special 1: Charge: 75 Dex/Qui
+1. (Stat) Acuity: +15
+2. (Stat) Dexterity: +15
+3. (Stat_Cap) Cap Dexterity: +5
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Resist) Heat: +6%
+7. (Stat) Hit Points: +30
+8. (Stat_Cap) Cap Acuity: +5
+9. (Bonus) Armor Factor: +10
+
+
+R Ring
+Name: Director's Ring of Anarchy - 500 Daemon Blood Seals
+Level: 51 (100% Quality)
+Utility: 93.5
+Source Type: Loot
+1. (Stat) Dexterity: +15
+2. (Stat) Hit Points: +30
+3. (Resist) Heat: +6%
+4. (Resist) Matter: +6%
+5. (Resist) Spirit: +6%
+6. (Bonus) Armor Factor: +10
+7. (Stat) Acuity: +15
+8. (Stat_Cap) Cap Dexterity: +5
+9. (Stat_Cap) Cap Acuity: +5
+
+
+L Wrist
+Name: Dragontooth Bracelet - 500 Dragon Scales
+Level: 51 (99% Quality)
+Utility: 99
+Source Type: Merchant
+Special 1: Charge: 10?
+1. (Stat) Dexterity: +15
+2. (Stat) Acuity: +15
+3. (Stat_Cap) Cap Dexterity: +5
+4. (Stat) Hit Points: +50
+5. (Stat_Cap) Cap Hit Points: +50
+6. (Bonus) Spell Damage: +2
+7. (Resist) Heat: +4%
+8. (Resist) Cold: +4%
+9. (Resist) Spirit: +4%
+10. (Stat_Cap) Cap Acuity: +5
+
+
+R Wrist
+Name: Gatekeeper Bracer of Anarchy
+Level: 51 (100% Quality)
+Utility: 111.17
+Source Type: Loot
+1. (Stat) Constitution: +22
+2. (Stat) Hit Points: +60
+3. (Resist) Body: +4%
+4. (Resist) Cold: +4%
+5. (Resist) Energy: +4%
+6. (Bonus) Armor Factor: +10
+7. (Skill) All Magic Skills: +3
+8. (Stat_Cap) Cap Constitution: +5
+9. (Stat_Cap) Cap Hit Points: +30
+
+
+Mythical
+Name: Dragon Intellect Mythirian
+Level: 51 (99% Quality)
+Utility: 42
+Source Type: Merchant
+1. (Stat) Dexterity: +3
+2. (Stat) Constitution: +3
+3. (Bonus) Spell Range: +1
+4. (Stat) Acuity: +3
+5. (Mythical) Cap Constitution: +3
+6. (Mythical) Cap Dexterity: +3
+7. (Mythical) Cap Acuity: +3
+8. (Bonus) Spell Duration: +5
+9. (Bonus) Spell Focus: +3
